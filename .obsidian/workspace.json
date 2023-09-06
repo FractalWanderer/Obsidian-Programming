@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "bffdbd13b13c4af9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1647adba972b3331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "488f89fbfd8d1ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0137ca19fdfb809a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cffc937b64ef2da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03641fa913949a75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da802def0a66036e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39759c321be7055d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "c39f933e004ebdae",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d108d08c166b52c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8624b54cfd84eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b83b84c9e607c85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f8988ea7cfee782",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f870f0db80d68c4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
+              }
+            }
+          },
+          {
+            "id": "1ad424a6afa7aac3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 589.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "random-note:Open random note": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "488f89fbfd8d1ea6",
+  "lastOpenFiles": [
+    "Git/Test.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/AKS Command Line Commands.md",
+    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
+    "string-interning correction.png",
+    "Git",
+    "Security/Untitled.md",
+    "C-Sharp/Advanced/Async Await General Questions.md",
+    "C-Sharp/Advanced/Stack and Heap General Questions.md",
+    "C-Sharp/Advanced/Semaphore.md",
+    "C-Sharp/Advanced/Yeild and Await Flow of Control.canvas",
+    "Security/Secure Storage Strategies/Key Stretching.md",
+    "C-Sharp/Advanced/Dotnet Unit Testing.md",
+    "C-Sharp/Best Practices/Avoid Out Keyword.md",
+    "C-Sharp/Fundamentals/Loops.canvas",
+    "C-Sharp/Advanced/Composition vs Inheritance.md",
+    "Drawing 2023-09-05 08.14.04.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-04 11.56.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-05 08.14.04.excalidraw.md",
+    "C-Sharp/Advanced/Data Caching.md",
+    "General Programming Concepts/Mutexes.md",
+    "General Programming Concepts/Race Conditions.md",
+    "General Programming Concepts",
+    "Excalidraw",
+    "Excalidraw/Drawing 2023-09-04 11.35.40.excalidraw.md",
+    "C-Sharp/Fundamentals/Object Initialization.md",
+    "Security",
+    "Security/Secure Storage Strategies",
+    "C-Sharp/Misc/Best Practices.md",
+    "C-Sharp/Best Practices",
+    "C-Sharp/Misc",
+    "boxing-unboxing example.png",
+    "vehicle class clip.png",
+    "C-Sharp/Advanced/Async Await General Questions.canvas",
+    "Kubernetes/Kubernetes Command Line.canvas",
+    "C-Sharp/Test.md",
+    "Kubernetes",
+    "C-Sharp/Fundamentals/Untitled.md",
+    "C-Sharp/Todo",
+    "C-Sharp/Advanced",
+    "Hello World.md",
+    "2023-08-30.md",
+    "Untitled 1.canvas"
+  ]
+}
