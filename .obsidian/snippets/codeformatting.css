@@ -1,0 +1,6 @@
+﻿.markdown-preview-view .markdown-preview-sizer,
+.CodeMirror-sizer {
+    max-width: 800px !important;  /* Adjust this value according to your preference */
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -18,4 +18,4 @@ Generally, you'd want to rely on mutexes if the resource you are accessing is ac
 
 #### Example
 In C# it is common to either use a lock, or a semaphore for mediating thread resource access interactions.
-![[Semaphore]]
+![[Semaphores in .NET]]
