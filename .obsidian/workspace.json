@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 350.5
   },
   "right": {
     "id": "c39f933e004ebdae",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,13 +173,23 @@
   },
   "active": "e202d6e6ff9c799c",
   "lastOpenFiles": [
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes kubctl Command Line Commands.pdf",
-    "Kubernetes/AKS Command Line Commands.md",
-    "General Programming Concepts/Semaphore.md",
+    "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Excalidraw",
+    "Kubernetes/AKS Command Line Commands.md",
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "System Design/Untitled.md",
+    "System Design",
+    "2023-09-07.md",
+    "09/07/2023.md",
+    "09/07",
+    "09",
+    "Kubernetes kubctl Command Line Commands.pdf",
+    "General Programming Concepts/Semaphore.md",
     "C-Sharp/Advanced/Async Types",
     "C-Sharp/Advanced/Testing",
     "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
@@ -195,26 +205,17 @@
     "string-interning correction.png",
     "Git",
     "Security/Untitled.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Security/Secure Storage Strategies/Key Stretching.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "Drawing 2023-09-05 08.14.04.excalidraw.md",
     "Excalidraw/Drawing 2023-09-05 08.14.04.excalidraw.md",
     "General Programming Concepts",
-    "Excalidraw",
     "Excalidraw/Drawing 2023-09-04 11.35.40.excalidraw.md",
     "C-Sharp/Fundamentals/Object Initialization.md",
-    "Security",
-    "Security/Secure Storage Strategies",
-    "C-Sharp/Misc/Best Practices.md",
-    "C-Sharp/Best Practices",
     "boxing-unboxing example.png",
     "vehicle class clip.png",
     "C-Sharp/Advanced/Async Await General Questions.canvas",
     "Kubernetes/Kubernetes Command Line.canvas",
-    "C-Sharp/Test.md",
-    "C-Sharp/Fundamentals/Untitled.md",
-    "Hello World.md",
     "Untitled 1.canvas"
   ]
 }

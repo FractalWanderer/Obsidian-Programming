@@ -51,6 +51,11 @@ kubectl delete deployment <DeploymentName>
 
 ## Status Checking Commands
 ---
+#### Get Current Cluster Context
+
+```shell
+kubectl config current-context
+```
 #### Get Pods
 
 ```shell
