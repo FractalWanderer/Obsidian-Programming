@@ -10,6 +10,8 @@ As a general rule of thumb, I tend to air on the side of making most functions a
 
 Or alternatively, you can just avoid using the async keyword altogether, and just support using task/valuetask as the return type. This allows for the method to be awaited in other context. Take special care for error handling if you use the latter strategy, as unexpected behavior can result if you are not careful.
 
+![[Drawing 2023-09-07 14.58.06.excalidraw]]
+
 ## When do exceptions propagate in async methods?
 
 If an exception occurs during the execution of an async method, the exception is stored within the task and only propagates once that async method is awaited. This difference can be seen if, say, the async method is called (not yet awaited) does some work in-between, and then is await after the in-between work is done. The exception would not throw until the await happens.
