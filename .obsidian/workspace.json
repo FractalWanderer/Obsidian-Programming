@@ -11,26 +11,18 @@
             "id": "488f89fbfd8d1ea6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e202d6e6ff9c799c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md"
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "viewState": {
+                  "x": 383.13340164987665,
+                  "y": 386.4354500788264,
+                  "zoom": -0.7475570054339218
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md"
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas"
               }
             }
           },
@@ -170,15 +162,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e202d6e6ff9c799c",
+  "active": "488f89fbfd8d1ea6",
   "lastOpenFiles": [
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-    "General Programming Concepts/Semaphore.md",
-    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
+    "General Programming Concepts/Semaphore.md",
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "Excalidraw",
     "Kubernetes/AKS Command Line Commands.md",

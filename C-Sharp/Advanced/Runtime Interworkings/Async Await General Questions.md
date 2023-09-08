@@ -92,7 +92,7 @@ Another way to support asynchronous code without making a method explicitly asyn
 
 #important As is outlined in the Async gotcha reference, this can cause unexpected behavior with exceptions. Given this, what should you do? [Handle exceptions](https://stackoverflow.com/questions/29923215/should-i-worry-about-this-async-method-lacks-await-operators-and-will-run-syn/29923484#29923484)
 
-[[Yeild and Await Flow of Control.canvas|Yeild and Await Flow of Control]]
+![[Yeild and Await Flow of Control.canvas|Yeild and Await Flow of Control]]
 # References
 
 [Why ConfigureAwait(false) is not the default option?](https://stackoverflow.com/questions/26681332/why-configureawaitfalse-is-not-the-default-option)
