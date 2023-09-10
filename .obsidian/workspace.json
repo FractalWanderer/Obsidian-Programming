@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Programming Concepts/Avoiding Private Methods.md",
+                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Avoiding Private Methods.md",
+                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Avoiding Private Methods.md",
+                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Avoiding Private Methods.md"
+                "file": "C-Sharp/Best Practices/Avoid Private Methods.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5,
-    "collapsed": true
+    "width": 589.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +160,9 @@
   },
   "active": "488f89fbfd8d1ea6",
   "lastOpenFiles": [
+    "C-Sharp/Best Practices/Avoid Out Keyword.md",
+    "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "General Programming Concepts/Avoiding Private Methods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
@@ -185,7 +185,6 @@
     "C-Sharp/Advanced/Runtime Interworkings",
     "C-Sharp/Advanced/Data Caching.md",
     "General Programming Concepts/Composition vs Inheritance.md",
-    "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Race Conditions.md",
     "Excalidraw/Drawing 2023-09-04 11.56.38.excalidraw.md",
