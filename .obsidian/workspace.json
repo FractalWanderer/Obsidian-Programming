@@ -158,8 +158,7 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "publish:Publish changes...": false
     }
   },
   "active": "488f89fbfd8d1ea6",
