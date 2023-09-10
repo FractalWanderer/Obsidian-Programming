@@ -11,14 +11,11 @@
             "id": "488f89fbfd8d1ea6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-                "viewState": {
-                  "x": 383.13340164987665,
-                  "y": 386.4354500788264,
-                  "zoom": -0.7475570054339218
-                }
+                "file": "General Programming Concepts/Avoiding Private Methods.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "file": "General Programming Concepts/Avoiding Private Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "file": "General Programming Concepts/Avoiding Private Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas"
+                "file": "General Programming Concepts/Avoiding Private Methods.md"
               }
             }
           },
@@ -141,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,13 +155,15 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "488f89fbfd8d1ea6",
   "lastOpenFiles": [
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "General Programming Concepts/Avoiding Private Methods.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
     "General Programming Concepts/Semaphore.md",
@@ -201,7 +200,6 @@
     "Excalidraw/Drawing 2023-09-05 08.14.04.excalidraw.md",
     "General Programming Concepts",
     "Excalidraw/Drawing 2023-09-04 11.35.40.excalidraw.md",
-    "C-Sharp/Fundamentals/Object Initialization.md",
     "boxing-unboxing example.png",
     "vehicle class clip.png",
     "C-Sharp/Advanced/Async Await General Questions.canvas",
