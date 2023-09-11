@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying A Pod.md",
+                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying A Pod.md",
+                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying A Pod.md",
+                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying A Pod.md"
+                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Guides/Deploying A Pod.md"
+                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md"
               }
             }
           }
@@ -171,8 +171,9 @@
   },
   "active": "a15e28dfb9c074aa",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Deploying A Pod.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
@@ -210,7 +211,6 @@
     "Security/Secure Storage Strategies/Key Stretching.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "Drawing 2023-09-05 08.14.04.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-05 08.14.04.excalidraw.md",
     "boxing-unboxing example.png",
     "vehicle class clip.png",
     "C-Sharp/Advanced/Async Await General Questions.canvas",
