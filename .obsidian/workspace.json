@@ -11,11 +11,10 @@
             "id": "9fd4df8cec79c511",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-                "mode": "source",
-                "source": false
+                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5,
-    "collapsed": true
+    "width": 589.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,18 +156,18 @@
   "active": "9fd4df8cec79c511",
   "lastOpenFiles": [
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/AKS Command Line Commands.md",
     "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Guides",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
     "General Programming Concepts/Semaphore.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Excalidraw",
     "System Design/Untitled.md",
     "System Design",

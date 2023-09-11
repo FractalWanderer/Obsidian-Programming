@@ -32,3 +32,13 @@ spec:
 #### Step 2
 
 Apply the services to each pod:
+
+![[Kubernetes kubctl Command Line Commands#Deployment Commands#Apply a Yaml File]]
+
+#### Step 3
+
+Use the DNS name to access
+
+``` http
+http://service1/<yourEndpointHere>
+```
