@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+                "file": "Kubernetes/Guides/Deploying A Pod.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+                "file": "Kubernetes/Guides/Deploying A Pod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+                "file": "Kubernetes/Guides/Deploying A Pod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md"
+                "file": "Kubernetes/Guides/Deploying A Pod.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md"
+                "file": "Kubernetes/Guides/Deploying A Pod.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "a15e28dfb9c074aa",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying A Pod.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+    "Kubernetes/Guides/Deploying A Pod.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
