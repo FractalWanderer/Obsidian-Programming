@@ -1,14 +1,24 @@
-﻿.wider-code .markdown-source-view.mod-cm6, .wider-code .cm-line.HyperMD-codeblock{
-    width: auto !important;
+﻿.wider-code-xs .markdown-source-view.mod-cm6, .wider-code-xs .cm-line.HyperMD-codeblock{
+    min-width: 110% !important;
+}
+
+.wider-code-sm .markdown-source-view.mod-cm6, .wider-code-sm .cm-line.HyperMD-codeblock{
+    min-width: 120% !important;
+}
+
+.wider-code-md .markdown-source-view.mod-cm6, .wider-code-md .cm-line.HyperMD-codeblock{
+    min-width: 130% !important;
+}
+
+.wider-code-lg .markdown-source-view.mod-cm6, .wider-code-lg .cm-line.HyperMD-codeblock{
     min-width: 140% !important;
 }
 
-/*.readable.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,*/
-/*.readable.is-live-preview.is-readable-line-width .cm-sizer,*/
-/*.readable.markdown-preview-view .markdown-preview-sizer,*/
-/*.readable.is-live-preview .cm-sizer {*/
-/*    max-width: 500px; !* adjust according to preference *!*/
-/*    margin-left: auto;*/
-/*    margin-right: auto;*/
-/*    background-color: red !important;*/
-/*}*/
+.wider-code-xl .markdown-source-view.mod-cm6, .wider-code-xl .cm-line.HyperMD-codeblock{
+    min-width: 150% !important;
+}
+
+.cm-atom.cm-hmd-codeblock
+{
+    color: #e06c75
+}

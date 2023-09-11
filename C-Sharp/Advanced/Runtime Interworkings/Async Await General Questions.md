@@ -2,6 +2,7 @@
 tags:
   - csharp
 last-modified: 2023-09-01
+cssclasses: []
 ---
 Understanding async await and asynchronous behavior in C# is extremely important if you ever plan to make your application robust and efficient. Learning asynchronous behavior at a fundamental level can be unbelievably powerful.
 ## When do you want to use async await?
