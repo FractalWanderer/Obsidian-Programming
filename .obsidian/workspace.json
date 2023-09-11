@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
+                "file": "Kubernetes/AKS Command Line Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
+                "file": "Kubernetes/AKS Command Line Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
+                "file": "Kubernetes/AKS Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Private Methods.md"
+                "file": "Kubernetes/AKS Command Line Commands.md"
               }
             }
           },
@@ -159,10 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ad424a6afa7aac3",
+  "active": "488f89fbfd8d1ea6",
   "lastOpenFiles": [
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
