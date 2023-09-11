@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5
+    "width": 589.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "488f89fbfd8d1ea6",
+  "active": "1ad424a6afa7aac3",
   "lastOpenFiles": [
-    "C-Sharp/Best Practices/Avoid Out Keyword.md",
-    "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
@@ -185,6 +185,7 @@
     "C-Sharp/Advanced/Runtime Interworkings",
     "C-Sharp/Advanced/Data Caching.md",
     "General Programming Concepts/Composition vs Inheritance.md",
+    "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Race Conditions.md",
     "Excalidraw/Drawing 2023-09-04 11.56.38.excalidraw.md",

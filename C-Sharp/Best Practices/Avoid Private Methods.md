@@ -7,7 +7,7 @@ I'm doing a refactor of the inventory system in my game, and more specifically, 
 Here is part of the code that I am pulling out and refactoring:
 
 ```csharp
-private void ReinitializeSlots(int slotCount)
+public void ReinitializeSlots(int slotCount)
 {
 	containerSlots = new Slot[slotCount];
 	DeleteAllCurrentSlots();
