@@ -15,7 +15,6 @@ Or alternatively, you can just avoid using the async keyword altogether, and jus
 ## When do exceptions propagate in async methods?
 
 If an exception occurs during the execution of an async method, the exception is stored within the task and only propagates once that async method is awaited. This difference can be seen if, say, the async method is called (not yet awaited) does some work in-between, and then is await after the in-between work is done. The exception would not throw until the await happens.
-
 ```csharp
 public void DoSomeOtherWork() 
 {
