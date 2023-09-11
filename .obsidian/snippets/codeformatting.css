@@ -1,6 +1,8 @@
-﻿.wider-code.markdown-source-view.mod-cm6 .wider-code.cm-line.HyperMD-codeblock{
+﻿.wider-code.HyperMD-codeblock .wider-code.HyperMD-codeblock-bg .wider-code.cm-line{
     overflow-x: auto;
     width: auto;
-    min-width: 120%;
-    display: inline-block;
+    min-width: 140%;
+    /*display: inline-block;*/
+    /*background-origin: content-box;*/
+    /*padding: 3px;*/
 }

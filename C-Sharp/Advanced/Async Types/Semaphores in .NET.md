@@ -18,8 +18,7 @@ public SemaphoreSlim(int initialCount, int maxCount)
 {
 	if (initialCount < 0 || initialCount > maxCount)
 	{
-		throw new ArgumentOutOfRangeException(
-			nameof(initialCount), initialCount,SR.SemaphoreSlim_ctor_InitialCountWrong);
+		throw new ArgumentOutOfRangeException(nameof(initialCount), initialCount,SR.SemaphoreSlim_ctor_InitialCountWrong);
 	}
 
 	// validate input
