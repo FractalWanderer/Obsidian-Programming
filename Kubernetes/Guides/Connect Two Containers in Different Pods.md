@@ -4,14 +4,12 @@ tags:
   - kubernetes
   - guide
 ---
-## Enabling Communication
----
-#### Pre-requisites
+## Pre-requisites
 
 1. A kubernetes cluster with which to work with.
 2. Two pod deployments, each of which need at minimum 1 container as the sender, and 1 container as the receiver.
 
-#### Step 1
+## Step 1
 
 Create two service yaml files, one for each pod in the following format:
 
@@ -19,7 +17,7 @@ Create two service yaml files, one for each pod in the following format:
 apiVersion: v1
 kind: Service
 metadata:
-  name: service1
+  name: serviceConnection
 spec:
   selector:
     app: Pod1AppLabel
@@ -29,16 +27,22 @@ spec:
       targetPort: [YourPod1AppPort]
 ```
 
-#### Step 2
+## Step 2
 
 Apply the services to each pod:
 
 ![[Kubernetes kubctl Command Line Commands#Deployment Commands#Apply a Yaml File]]
 
-#### Step 3
+## Step 3
 
-Use the DNS name to access
+Use the DNS name to access if the given pod is contained within the same namespace:
 
 ``` http
-http://service1/<yourEndpointHere>
+http://serviceConnection/<yourEndpointHere>
+```
+
+In the case where the pod is not contained within the same namespace, use:
+
+```http
+http://serviceConnection.default.svc.cluster.local
 ```
