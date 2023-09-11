@@ -1,8 +1,18 @@
-﻿.wider-code.HyperMD-codeblock .wider-code.HyperMD-codeblock-bg .wider-code.cm-line{
-    overflow-x: auto;
-    width: auto;
-    min-width: 140%;
+﻿.markdown-source-view.mod-cm6, .cm-line.HyperMD-codeblock{
+    overflow-x: auto !important;
+    width: auto !important;
+    min-width: 140% !important;
     /*display: inline-block;*/
     /*background-origin: content-box;*/
     /*padding: 3px;*/
 }
+
+/*.readable.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,*/
+/*.readable.is-live-preview.is-readable-line-width .cm-sizer,*/
+/*.readable.markdown-preview-view .markdown-preview-sizer,*/
+/*.readable.is-live-preview .cm-sizer {*/
+/*    max-width: 500px; !* adjust according to preference *!*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*    background-color: red !important;*/
+/*}*/

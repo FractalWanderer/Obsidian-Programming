@@ -3,8 +3,7 @@ last-modified: 2023-09-04
 tags:
   - unfinished
   - csharp
-cssclasses:
-  - wider-code
+cssclasses: []
 ---
 ![[Semaphore]]
 ## Usage
