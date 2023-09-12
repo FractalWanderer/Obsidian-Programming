@@ -38,11 +38,11 @@ Apply the services to each pod:
 Use the DNS name to access if the given pod is contained within the same namespace:
 
 ``` http
-http://serviceConnection/<yourEndpointHere>
+http://serviceConnection/<YourEndpointHere>
 ```
 
 In the case where the pod is not contained within the same namespace, use:
 
 ```http
-http://serviceConnection.default.svc.cluster.local
+http://serviceConnection.default.svc.cluster.local/<YourEndpointHere>
 ```

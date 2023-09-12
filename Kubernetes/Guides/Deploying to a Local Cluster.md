@@ -22,5 +22,6 @@ The first portion of the file is the definition that kubernetes will use for det
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-	name: 
+	name: test-deployment
 ```
+
