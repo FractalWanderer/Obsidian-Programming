@@ -46,9 +46,9 @@ Similar to a config map, except for confidential data.
 #### Deployment
 
 ```
-Manages desired state for Pods and ReplicaSets, mainly for stateless applications. Stateless here does not mean that the application doesn't use state itself, but rather that the application stores the state it uses externally. For example, an SQL database would be considered "stateful" while a microservice that uses only said database for state storage would be considered "stateless."
+Manages desired state for Pods and ReplicaSets, mainly for stateless applications.
 ```
-
+[[Stateless vs Stateful]]
 #### Replica Set
 
 ```
@@ -191,4 +191,8 @@ Provides actionable insights into specific events in a cluster.
 Sets resource usage constraints for each Namespace.
 ```
 
-##
+#### ResourceQuota
+
+```
+Sets resource usage limits for a Namespace.
+```

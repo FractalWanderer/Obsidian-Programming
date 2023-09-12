@@ -1,3 +1,8 @@
+---
+last-modified: 2023-09-12
+tags:
+  - general-concept
+---
 ## What is a mutex?
 ---
 The word mutex stands for mutually exclusive. What this means is that a mutex is a way of limiting access to a thread. Using a mutex on a resource means that only a single thread can have access to a specific resource at a given time, an ownership of that resource can be passed around from thread to thread. Only a single thread at a time will ever actually be allowed to control the resource at any given time.

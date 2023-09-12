@@ -2,6 +2,7 @@
 tags:
   - csharp
   - unfinished
+  - general-concept
 last-modified: 2023-09-01
 ---
 ## What is composition?

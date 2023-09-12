@@ -1,6 +1,7 @@
 ---
 tags:
   - unfinished
+  - general-concept
 last-modified: 2023-09-07
 ---
 ## What is a semaphore?
