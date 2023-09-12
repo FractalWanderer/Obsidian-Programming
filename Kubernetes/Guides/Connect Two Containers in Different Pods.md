@@ -4,6 +4,7 @@ tags:
   - kubernetes
   - guide
 ---
+---
 ## Pre-requisites
 
 1. A kubernetes cluster with which to work with.

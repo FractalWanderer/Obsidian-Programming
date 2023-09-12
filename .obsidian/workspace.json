@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -180,10 +180,11 @@
   },
   "active": "a15e28dfb9c074aa",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Untitled.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Linux/Linux Command Line.md",
     "Windows/Windows Command Line.md",
@@ -191,7 +192,6 @@
     "string-interning correction.png",
     "vehicle class clip.png",
     "Kubernetes/AKS Command Line Commands.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Linux",
