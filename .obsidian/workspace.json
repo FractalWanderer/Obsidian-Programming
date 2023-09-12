@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b301c42822df5457",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.10"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md"
+                "file": "General Programming Concepts/Composition vs Inheritance.md"
               }
             }
           },
@@ -143,7 +154,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md"
+                "file": "General Programming Concepts/Composition vs Inheritance.md"
+              }
+            }
+          },
+          {
+            "id": "46cb10066379476a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -169,11 +190,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a15e28dfb9c074aa",
+  "active": "b301c42822df5457",
   "lastOpenFiles": [
+    "General Programming Concepts/Mutexes.md",
+    "General Programming Concepts/Race Conditions.md",
+    "General Programming Concepts/Semaphore.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Deploying A Pod.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
@@ -185,7 +209,6 @@
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
-    "General Programming Concepts/Semaphore.md",
     "Excalidraw",
     "System Design/Untitled.md",
     "System Design",
@@ -200,8 +223,6 @@
     "C-Sharp/Advanced/Data Caching.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
-    "General Programming Concepts/Mutexes.md",
-    "General Programming Concepts/Race Conditions.md",
     "Excalidraw/Drawing 2023-09-04 11.56.38.excalidraw.md",
     "Git/Test.md",
     "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
