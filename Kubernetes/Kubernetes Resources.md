@@ -132,3 +132,63 @@ Specifies how Pods communicate with each other.
 ```
 Extends Kubernetes API by defining new resource types.
 ```
+
+#### HorizontalPodAutoscaler
+
+```
+Automatically scales the number of Pods based on observed metrics.
+```
+
+#### PodDisruptionBudget
+
+```
+Specifies acceptable levels of disruption during voluntary terminations.
+```
+
+## RBAC & Security
+---
+#### Role
+
+```
+Defines a set of permissions within a Namespace.
+```
+
+#### ClusterRole
+
+```
+Defines permissions across the cluster.
+```
+
+#### RoleBinding
+
+```
+Assigns a Role to a set of users within a Namespace.
+```
+
+#### ClusterRoleBinding
+
+```
+Assigns a ClusterRole to a set of users.
+```
+
+#### ServiceAccount
+
+```
+A special type of account used by Pods to interact with the Kubernetes API.
+```
+
+## Others
+---
+#### Event
+
+```
+Provides actionable insights into specific events in a cluster.
+```
+
+#### LimitRange
+
+```
+Sets resource usage constraints for each Namespace.
+```
+
+##
