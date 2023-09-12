@@ -13,7 +13,6 @@ tags:
 [Kind Installation](https://kind.sigs.k8s.io/docs/user/quick-start/#installation) 
 
 I personally recommend using chocolatey for the installation, as it makes the process pretty much pain free. No need to set any environment variable, or do any additional configuration.
-
 ## Step 2
 ---
 #### Create a Kind Cluster

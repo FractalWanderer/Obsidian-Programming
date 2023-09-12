@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96ca337633e07a38",
+        "id": "ca32de45f6193662",
         "type": "tabs",
         "children": [
           {
-            "id": "a15e28dfb9c074aa",
+            "id": "56c33d91f5410f52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources.md",
+                "file": "Kubernetes/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources.md",
+                "file": "Kubernetes/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources.md"
+                "file": "Kubernetes/Untitled.canvas"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources.md"
+                "file": "Kubernetes/Untitled.canvas"
               }
             }
           },
@@ -178,13 +178,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a15e28dfb9c074aa",
+  "floating": {
+    "id": "dea740e90dd8897c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "db0518663b440cbd",
+        "type": "window",
+        "children": [
+          {
+            "id": "afbf9f91fdeefc98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "abed946e553ba41c",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Kubernetes/Untitled.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 3.00006103515625,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -2058,
+        "y": 304,
+        "width": 2169,
+        "height": 1361,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "abed946e553ba41c",
   "lastOpenFiles": [
     "Kubernetes/Kubernetes Resources.md",
+    "Kubernetes/Untitled.canvas",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+    "www.google.com.md",
+    "PersistentVolume.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Linux/Linux Command Line.md",
     "Windows/Windows Command Line.md",
@@ -218,9 +261,6 @@
     "C-Sharp/Advanced/Async Types",
     "C-Sharp/Advanced/Testing",
     "C-Sharp/Advanced/Data Caching.md",
-    "C-Sharp/Best Practices/Avoid Out Keyword.md",
-    "Excalidraw/Drawing 2023-09-04 11.56.38.excalidraw.md",
-    "Git/Test.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Async Await General Questions.canvas",
     "Kubernetes/Kubernetes Command Line.canvas",

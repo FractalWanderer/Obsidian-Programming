@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d5c25b8b73f3387e","x":220,"y":-400,"width":740,"height":980,"type":"text","text":"![[Kubernetes Resources#Basics]]"},
+		{"id":"64dc93cb5e485646","x":-700,"y":-360,"width":497,"height":189,"type":"text","text":"![[Kubernetes Resources#Pod]]"}
+	],
+	"edges":[]
+}
