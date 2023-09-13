@@ -84,6 +84,7 @@ Often times in this case, it can go one of a few ways:
 3. An interface or override is requiring a Task to be used. See below for this scenario.
 
 ##### What about interfaces or overrides that require a task to be returned?
+
 If you have an interface, or override that requires a task for the return type, but your method is completely synchronous, returning Task.FromResult~TResult~(TResult) will allow you to use the method as if it is synchronous, despite the task return type. As far as I'm aware, the FromResult method should return a task with the property IsCompleted already set to true, as it should wait for the result of the operation before it returns.
 
 Another way to support asynchronous code without making a method explicitly async at all, is to just create a non-async method that returns a task. The method, even though it is not marked as async, can still be awaited. This is because tasks are always allowed to be awaited inside the context of an asynchronous method, even if the method returning the task is not asynchronous.

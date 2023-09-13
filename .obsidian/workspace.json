@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md"
               }
             }
           },
@@ -179,58 +179,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "3bb260bee67283fa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ff47916fc762df91",
-        "type": "window",
-        "children": [
-          {
-            "id": "f7557aa8136f12a1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "00205aa9439776e9",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-                    "viewState": {
-                      "x": 243,
-                      "y": 390,
-                      "zoom": -0.7735054574715571
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 674,
-        "y": 20,
-        "width": 2166,
-        "height": 1364,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "dc99e5c627b51d79",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Kubernetes/Kubernetes Resources.md",
     "Kubernetes/Kubernetes Yaml File Definitions.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Kubernetes/AKS Command Line Commands.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "General Programming Concepts/Stateless vs Stateful.md",
