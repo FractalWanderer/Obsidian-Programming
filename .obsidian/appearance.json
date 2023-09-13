@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "codeformatting",
-    "checkbox",
+    "callouts",
     "canvasformatting",
-    "callouts"
+    "checkbox",
+    "codeformatting"
   ],
   "cssTheme": "",
   "theme": "obsidian",

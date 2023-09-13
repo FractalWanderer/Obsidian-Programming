@@ -1,5 +1,5 @@
 ---
-last-modified: 9/13/2023
+last-modified: 2023-09-13
 tags:
   - kubernetes
 ---
@@ -17,3 +17,9 @@ tags:
 ---
 > [!quoteno]
 > The spec is the so called "desired state" that you want to achieve for a given resource.
+
+> [!quote]
+> test
+
+> [!test]
+> 
