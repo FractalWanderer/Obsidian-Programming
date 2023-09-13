@@ -24,10 +24,7 @@ kind: Deployment
 metadata:
 	name: test-deployment
 ```
-
-![[Kubernetes Resources#Deployment|DeploymentService]]
-![[Kubernetes Yaml File Definitions#API Version]]
-![[Kubernetes Yaml File Definitions#Metadata]]
+![[Kubernetes Resources#Deployment|DeploymentService]][[Kubernetes Yaml File Definitions|YamlFileDefinitions]]
 
 #### Step 2: Spec
 
