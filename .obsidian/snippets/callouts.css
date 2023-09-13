@@ -1,0 +1,23 @@
+﻿.callout[data-callout="quoteno"] {
+    --callout-color: var(--callout-quote) 
+}
+
+.callout[data-callout="questionno"]{
+    --callout-color: var(--callout-question);
+}
+
+.callout[data-callout="exampleno"]{
+    --callout-color: var(--callout-example);
+}
+
+.callout[data-callout="exampleno"] .callout-title{
+    display: none;
+}
+
+.callout[data-callout="quoteno"] .callout-title {
+    display: none;
+}
+
+.callout[data-callout="questionno"] .callout-title {
+    display: none;
+}

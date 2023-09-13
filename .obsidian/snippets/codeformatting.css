@@ -22,23 +22,3 @@
 {
     color: #e06c75
 }
-
-.hide-callout-titles .callout-title{
-    display: none;
-}
-
-.callout[data-callout="quoteno"] {
-    --callout-color: var(--callout-quote) 
-}
-
-.callout[data-callout="questionno"]{
-    --callout-color: var(--callout-question);
-}
-
-.callout[data-callout="quoteno"] .callout-title {
-    display: none;
-}
-
-.callout[data-callout="questionno"] .callout-title {
-    display: none;
-}

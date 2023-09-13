@@ -1,7 +1,4 @@
-﻿.canvas-node-content.markdown-embed > .markdown-embed-content > .markdown-preview-view {
+﻿.markdown-preview-view {
     padding-right: 12px !important;
     background-color: red !important;
 }
-/*div{*/
-/*    background-color: red !important;*/
-/*}*/

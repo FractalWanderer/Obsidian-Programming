@@ -2,7 +2,7 @@
 tags:
   - kind
   - kubernetes
-last-modified:
+last-modified: 2023-09-12
 ---
 ## Pre-requisites
 ---
@@ -24,11 +24,13 @@ kind: Deployment
 metadata:
 	name: test-deployment
 ```
-![[Kubernetes Resources#Deployment|DeploymentService]][[Kubernetes Yaml File Definitions|YamlFileDefinitions]]
-
-#### Step 2: Spec
+#### Step 1: Spec
 
 Now moving on to the next portion of the yaml file, we have the spec. This portion is pretty extensive and will be where most of the important stuff happens. (Although really everything is important)
 
 This is the section of the file that determines what containers to run, how many of them to run, what resources/environment variables they have access to, ect.
 
+# Definitions
+---
+![[Kubernetes Resources#Deployment|Deployment Service]]
+![[Kubernetes Yaml File Definitions|Yaml File Definitions]]

@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "codeformatting",
     "checkbox",
-    "canvasformatting"
+    "canvasformatting",
+    "callouts"
   ],
   "cssTheme": "",
   "theme": "obsidian",
