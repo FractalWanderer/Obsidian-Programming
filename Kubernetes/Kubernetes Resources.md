@@ -197,4 +197,4 @@ Sets resource usage constraints for each Namespace.
 Sets resource usage limits for a Namespace.
 ```
 
-![[Yaml File Definitions]]
+![[Kubernetes Yaml File Definitions]]

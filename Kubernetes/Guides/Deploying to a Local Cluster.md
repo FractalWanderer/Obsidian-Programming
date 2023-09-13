@@ -1,8 +1,8 @@
 ---
-last-modified: 2023-09-13
 tags:
   - kind
   - kubernetes
+last-modified:
 ---
 ## Pre-requisites
 ---
@@ -26,10 +26,12 @@ metadata:
 ```
 
 ![[Kubernetes Resources#Deployment|DeploymentService]]
-![[Yaml File Definitions#API Version]]
-![[Yaml File Definitions#Metadata]]
+![[Kubernetes Yaml File Definitions#API Version]]
+![[Kubernetes Yaml File Definitions#Metadata]]
 
 #### Step 2: Spec
 
 Now moving on to the next portion of the yaml file, we have the spec. This portion is pretty extensive and will be where most of the important stuff happens. (Although really everything is important)
+
+This is the section of the file that determines what containers to run, how many of them to run, what resources/environment variables they have access to, ect.
 

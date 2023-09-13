@@ -22,3 +22,7 @@
 {
     color: #e06c75
 }
+
+.hide-callout-titles .callout-title{
+    display: none;
+}
