@@ -2,6 +2,7 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "callouts",
+    "test",
     "canvasformatting",
     "checkbox",
     "codeformatting"

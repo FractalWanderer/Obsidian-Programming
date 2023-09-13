@@ -18,8 +18,3 @@ tags:
 > [!quoteno]
 > The spec is the so called "desired state" that you want to achieve for a given resource.
 
-> [!quote]
-> test
-
-> [!test]
-> 
