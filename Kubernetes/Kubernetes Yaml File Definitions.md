@@ -12,7 +12,5 @@ cssclasses:
 
 #### Metadata
 
-```
-Meta data is exactly what it sounds like. It is just more information related to the particular resource that will be applied, in this case, a Deployment. The name test-deployment, although this could be anything.
-```
-
+> [!question]
+> Meta data is exactly what it sounds like. It is just more information related to the particular resource that will be applied, in this case, a Deployment. The name test-deployment, although this could be anything.
