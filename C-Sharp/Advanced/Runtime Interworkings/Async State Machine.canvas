@@ -4,8 +4,7 @@
 		{"type":"text","text":"<div align=\"center\"> Example </div>","id":"00ceb0e1f502f40e","x":-1002,"y":-480,"width":285,"height":60,"color":"4"},
 		{"id":"7fb20b7b515ff208","type":"text","text":"1. Create the State Machine","x":-195,"y":-480,"width":279,"height":60,"color":"2"},
 		{"id":"be12dd82d8db12b8","type":"text","text":"Using the async keyword causes the method to generate a new state machine.\n\nIn the example, the state machine has an initial state value of 0.\n```csharp\ninitialState = 0;\n```\n\nOn top of the initialState variable, in the definition of the state machine as told by the method, we also create two delays.\n\n```csharp\nfirstDelay = 500;\nsecondDelay = 1000;\n```","x":-320,"y":-420,"width":525,"height":360},
-		{"id":"2ef5d24830f24c1b","type":"text","text":"UNFINISHED","x":-1140,"y":-640,"width":1414,"height":60,"color":"5"},
-		{"id":"a622ea057a3a6e53","x":-980,"y":-700,"width":400,"height":400,"type":"file","file":"Kubernetes/Guides/Deploying to a Local Cluster.md"}
+		{"id":"2ef5d24830f24c1b","type":"text","text":"UNFINISHED","x":-1140,"y":-640,"width":1414,"height":60,"color":"5"}
 	],
 	"edges":[]
 }

@@ -11,14 +11,11 @@
             "id": "dc99e5c627b51d79",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-                "viewState": {
-                  "x": -382.666748046875,
-                  "y": -314.66668701171875,
-                  "zoom": 0
-                }
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -146,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -183,27 +180,28 @@
   },
   "active": "dc99e5c627b51d79",
   "lastOpenFiles": [
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Kubernetes Resources.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Yaml File Definitions.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "General Programming Concepts/Stateless vs Stateful.md",
-    "Linux/Linux Command Line.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
-    "www.google.com.md",
+    "General Programming Concepts/Semaphore.md",
+    "General Programming Concepts/Race Conditions.md",
+    "General Programming Concepts/Mutexes.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Linux/Linux Command Line.md",
+    "www.google.com.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/AKS Command Line Commands.md",
-    "General Programming Concepts/Semaphore.md",
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
-    "General Programming Concepts/Mutexes.md",
-    "General Programming Concepts/Race Conditions.md",
     "Kubernetes/Untitled.canvas",
     "PersistentVolume.md",
     "Windows/Windows Command Line.md",
