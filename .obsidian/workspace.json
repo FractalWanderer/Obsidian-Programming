@@ -11,11 +11,14 @@
             "id": "dc99e5c627b51d79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
-                "mode": "source",
-                "source": false
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+                "viewState": {
+                  "x": -67.666748046875,
+                  "y": -306,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas"
               }
             }
           },
@@ -143,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas"
               }
             }
           },
@@ -182,8 +185,8 @@
   "active": "dc99e5c627b51d79",
   "lastOpenFiles": [
     "Kubernetes/Kubernetes Yaml File Definitions.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes Resources.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "General Programming Concepts/Stateless vs Stateful.md",
     "General Programming Concepts/Semaphore.md",
