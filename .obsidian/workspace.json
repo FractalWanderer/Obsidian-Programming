@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Note Template.md"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Daily Note Template.md"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "ff40d0ab750d83b1",
   "lastOpenFiles": [
-    "Work Projects/Kubernetes Testing.md",
+    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Templates/Daily Note Template.md",
+    "Work Projects/Kubernetes Testing.md",
     "DailyNotes/2023/09-14.md",
     "DailyNotes/2023",
     "Templates",
@@ -201,7 +202,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions.md",
     "Work Projects",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Kubernetes Resources.md",
