@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -190,14 +190,14 @@
   },
   "active": "799ac3ae4da89ac4",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes Yaml File Definitions.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/Kubernetes Yaml File Definitions.md",
     "Kubernetes/Yaml File Diagrams/Yaml File Diagram.canvas",
     "Kubernetes/Yaml File Diagrams/Yaml File Initial Configuration Definitions.canvas",
     "Kubernetes/Yaml File Diagrams",
