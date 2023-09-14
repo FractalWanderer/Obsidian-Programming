@@ -16,7 +16,7 @@ cssclasses:
  > 	name: example-deployment
  > 	namespace: example-namespace
  > ```
- 
+
 #### API Version
 ---
 > [!quoteno]
@@ -32,7 +32,7 @@ cssclasses:
 #### Kind
 
 > [!quoteno]
-> The type of resource you want to apply. For a full list, see [[Kubernetes Resource Definitions]]
+> The type of resource you want to apply. For a full list, see [[Kubernetes Declarative Resource Definitions]]
 
 #### Metadata
 ---
@@ -121,7 +121,7 @@ cssclasses:
 #### Template
 
 > [!quoteno]
-> Specifies the label(s) that must exist on [[Kubernetes Resource Definitions#pod|Pods]] for them to be managed by a [[Kubernetes Resource Definitions#Deployment|Deployment]].
+> Specifies the label(s) that must exist on [[Kubernetes Declarative Resource Definitions#pod|Pods]] for them to be managed by a [[Kubernetes Declarative Resource Definitions#Deployment|Deployment]].
 
 > [!example]
 > ```yaml

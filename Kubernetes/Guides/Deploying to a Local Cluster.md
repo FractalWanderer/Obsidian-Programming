@@ -32,5 +32,5 @@ This is the section of the file that determines what containers to run, how many
 
 # Definitions
 ---
-![[Kubernetes Resource Definitions#Deployment|Deployment Service]]
+![[Kubernetes Declarative Resource Definitions#Deployment|Deployment Service]]
 ![[Kubernetes Yaml File Definitions|Yaml File Definitions]]
