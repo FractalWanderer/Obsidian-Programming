@@ -11,11 +11,14 @@
             "id": "ff40d0ab750d83b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
-                "mode": "source",
-                "source": false
+                "file": "Kubernetes/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
+                "file": "Kubernetes/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
+                "file": "Kubernetes/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions.md"
+                "file": "Kubernetes/Untitled.canvas"
               }
             }
           },
@@ -143,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions.md"
+                "file": "Kubernetes/Untitled.canvas"
               }
             }
           },
@@ -190,9 +193,17 @@
   },
   "active": "ff40d0ab750d83b1",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes Yaml File Definitions.md",
+    "Kubernetes/Untitled.canvas",
+    "Kubernetes/Yaml File Diagram.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes Resources/Kubernetes Resource Definitions.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
+    "C-Sharp/Fundamentals/Object Initialization.md",
+    "C-Sharp/Fundamentals/Loops.canvas",
+    "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
+    "Kubernetes/Kubernetes Resources",
     "General Programming Concepts/Stateless vs Stateful.md",
-    "Kubernetes/Kubernetes Resources.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Templates/Daily Note Template.md",
     "Work Projects/Kubernetes Testing.md",
@@ -200,9 +211,7 @@
     "DailyNotes/2023",
     "Templates",
     "DailyNotes",
-    "C-Sharp/Fundamentals/Object Initialization.md",
     "2023-09-14.md",
-    "Kubernetes/Kubernetes Yaml File Definitions.md",
     "Work Projects",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
@@ -216,13 +225,8 @@
     "General Programming Concepts/Semaphore.md",
     "General Programming Concepts/Race Conditions.md",
     "General Programming Concepts/Mutexes.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
     "Linux/Linux Command Line.md",
     "www.google.com.md",
-    "C-Sharp/Fundamentals/Loops.canvas",
-    "C-Sharp/Best Practices/Avoid Out Keyword.md",
-    "Kubernetes/Untitled.canvas",
-    "PersistentVolume.md",
     "boxing-unboxing example.png",
     "string-interning correction.png",
     "vehicle class clip.png",
@@ -231,7 +235,6 @@
     "Kubernetes/Guides",
     "Excalidraw",
     "System Design",
-    "09/07",
     "C-Sharp/Advanced/Async Await General Questions.canvas",
     "Kubernetes/Kubernetes Command Line.canvas",
     "Untitled 1.canvas"

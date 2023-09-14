@@ -2,7 +2,7 @@
 tags:
   - kind
   - kubernetes
-last-modified: 2023-09-12
+last-modified: 2023-09-14
 ---
 ## Pre-requisites
 ---
@@ -32,5 +32,5 @@ This is the section of the file that determines what containers to run, how many
 
 # Definitions
 ---
-![[Kubernetes Resources#Deployment|Deployment Service]]
+![[Kubernetes Resource Definitions#Deployment|Deployment Service]]
 ![[Kubernetes Yaml File Definitions|Yaml File Definitions]]

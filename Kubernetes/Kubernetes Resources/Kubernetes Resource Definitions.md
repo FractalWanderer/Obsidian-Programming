@@ -1,5 +1,5 @@
 ---
-last-modified: 2023-09-13
+last-modified: 2023-09-14
 tags:
   - kubernetes
 ---
@@ -13,7 +13,7 @@ tags:
 
 > [!quoteno]
 > A service is a resource that you can use for exposing pods so that other pods can interact with them.
-A service is a resource that you can use for exposing pods so that other pods can interact with them.
+
 #### Namespace
 
 > [!quoteno]
