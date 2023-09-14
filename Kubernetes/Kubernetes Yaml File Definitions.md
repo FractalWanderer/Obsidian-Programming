@@ -104,6 +104,24 @@ cssclasses:
 > [!quoteno]
 > Specifies how to find pods that match a certain criteria. Used for both deployments and services for routing traffic to pods.
 
+> [!example]
+> ``` yaml
+>   selector:
+>     matchLabels:
+>       app: example-app
+> ```
+#### Template
+
+> [!quoteno]
+> Specifies the label(s) that must exist on [[Kubernetes Resource Definitions#pod|Pods]] for them to be managed by a [[Kubernetes Resource Definitions#Deployment|Deployment]].
+
+> [!example]
+> ```yaml
+>   template:
+>     metadata:
+>       labels:
+>         app: example-app
+>  ```
 #### Ports
 
 > [!quoteno]
