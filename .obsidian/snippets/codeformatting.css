@@ -22,6 +22,9 @@
 {
     color: #e06c75
 }
+.markdown-embed-title{
+    display: none;
+}
 
 .callout[data-callout="quoteno"]{
     --callout-color: var(--callout-quote);
