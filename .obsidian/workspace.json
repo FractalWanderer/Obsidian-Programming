@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "481f524be65c733f",
+        "id": "02e27cf41cf992cb",
         "type": "tabs",
         "children": [
           {
-            "id": "ff40d0ab750d83b1",
+            "id": "799ac3ae4da89ac4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Kubernetes/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Untitled.canvas",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Untitled.canvas",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Untitled.canvas"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md"
               }
             }
           },
@@ -146,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Untitled.canvas"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md"
               }
             }
           },
@@ -191,13 +188,16 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ff40d0ab750d83b1",
+  "active": "799ac3ae4da89ac4",
   "lastOpenFiles": [
+    "Kubernetes/AKS Command Line Commands.md",
+    "Kubernetes/Yaml File Diagrams/Yaml File Diagram.canvas",
+    "Kubernetes/Yaml File Diagrams/Yaml File Initial Configuration Definitions.canvas",
     "Kubernetes/Kubernetes Yaml File Definitions.md",
-    "Kubernetes/Untitled.canvas",
+    "Kubernetes/Kubernetes Resources/Kubernetes Resource Definitions.md",
+    "Kubernetes/Yaml File Diagrams",
     "Kubernetes/Yaml File Diagram.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Kubernetes Resources/Kubernetes Resource Definitions.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "C-Sharp/Fundamentals/Object Initialization.md",
     "C-Sharp/Fundamentals/Loops.canvas",
@@ -213,7 +213,6 @@
     "DailyNotes",
     "2023-09-14.md",
     "Work Projects",
-    "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
@@ -234,7 +233,6 @@
     "Windows",
     "Kubernetes/Guides",
     "Excalidraw",
-    "System Design",
     "C-Sharp/Advanced/Async Await General Questions.canvas",
     "Kubernetes/Kubernetes Command Line.canvas",
     "Untitled 1.canvas"

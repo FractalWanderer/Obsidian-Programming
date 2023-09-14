@@ -38,14 +38,18 @@
     --callout-color: var(--callout-example);
 }
 
-.callout[data-callout="quoteno"] .callout-title{
+.callout[data-callout="quoteno"] .callout-title {
     display: none;
 }
 
-.callout[data-callout="exampleno"] .callout-title{
+.callout[data-callout="exampleno"] .callout-title {
     display: none;
 }
 
 .callout[data-callout="questionno"] .callout-title {
     display: none;
+}
+
+.markdown-preview-view {
+    padding-right: 12px !important;
 }

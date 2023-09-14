@@ -3,34 +3,42 @@ last-modified: 2023-09-13
 tags:
   - kubernetes
 ---
-## API Version
+## Initial File Configuration
+---
+> [!example]
+> apiVersion: apps/v1
+kind: Deployment
+
+>metadata:
+  name: chronicler-deployment-test
+#### API Version
 ---
 > [!quoteno]
 > The api version of a resource is specific to the resource you are targeting. When specifying an api version with 'apiVersion: ~version~' it tells kubernetes which version of the specific resource to use. Then kubernetes will use that version when applying the resource to a cluster. 
 
-#### Common API Versions
+##### Common API Versions
 
 > [!quoteno]
 > `apps/v1`: For Deployments, StatefulSets, and DaemonSets.
 > `v1`: For Pods, Services, and ConfigMaps.
 > `networking.k8s.io/v1`: For NetworkPolicies and Ingress.
 
-## Metadata
+#### Metadata
 ---
 > [!quoteno]
 > Meta data is exactly what it sounds like. It is just more information related to the particular resource that will be applied.
 
-#### Name
+##### Name
 
 > [!quoteno]
 > The `name` under metadata uniquely identifies a resource within a namespace. It serves as a "handle" for interacting with the resource.
 
-#### Namespace
+##### Namespace
 
 > [!quoteno] 
 > The `namespace` is an optional field. When omitted, the resource is assumed to belong to the 'default' namespace. Namespaces are a way to divide cluster resources between multiple users and are a cornerstone for RBAC (Role-Based Access Control).
 
-#### Labels
+##### Labels
 
 > [!quoteno]
 > Key-value pairs attached to resources for filtering and selection.
