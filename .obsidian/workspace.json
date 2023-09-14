@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "ff40d0ab750d83b1",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "General Programming Concepts/Stateless vs Stateful.md",
+    "Kubernetes/Kubernetes Resources.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Templates/Daily Note Template.md",
     "Work Projects/Kubernetes Testing.md",
@@ -201,10 +204,8 @@
     "2023-09-14.md",
     "Kubernetes/Kubernetes Yaml File Definitions.md",
     "Work Projects",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes/Kubernetes Resources.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
@@ -212,7 +213,6 @@
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "General Programming Concepts/Stateless vs Stateful.md",
     "General Programming Concepts/Semaphore.md",
     "General Programming Concepts/Race Conditions.md",
     "General Programming Concepts/Mutexes.md",
