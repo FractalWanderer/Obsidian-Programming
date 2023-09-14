@@ -14,10 +14,6 @@ tags:
 > [!quoteno]
 > A service is a resource that you can use for exposing pods so that other pods can interact with them.
 
-#### Namespace
-
-> [!quoteno]
-> A service is a resource that you can use for exposing pods so that other pods can interact with them.
 #### Node
 
 > [!quoteno]

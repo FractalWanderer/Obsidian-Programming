@@ -11,44 +11,15 @@ cssclasses:
 > 
 >```yaml
 >apiVersion: apps/v1
->kind: Deployment
+>kind: YourKindHere
 >metadata:
  > 	name: example-deployment
  > 	namespace: example-namespace
  > ```
 
-#### API Version
----
-> [!quoteno]
-> The api version of a resource is specific to the resource you are targeting. When specifying an api version with 'apiVersion: ~version~' it tells kubernetes which version of the specific resource to use. Then kubernetes will use that version when applying the resource to a cluster. 
-
-- ###### Common API Versions
-
-> [!quoteno]
-> `apps/v1`: For Deployments, StatefulSets, and DaemonSets.
-> `v1`: For Pods, Services, and ConfigMaps.
-> `networking.k8s.io/v1`: For NetworkPolicies and Ingress.
-
-#### Kind
-
-> [!quoteno]
-> The type of resource you want to apply. For a full list, see [[Kubernetes Declarative Resource Definitions]]
-
-#### Metadata
----
-> [!quoteno]
-> Meta data is exactly what it sounds like. It is just more information related to the particular resource that will be applied.
-
-- ###### Name
-
-> [!quoteno]
-> The `name` under metadata uniquely identifies a resource within a namespace. It serves as a "handle" for interacting with the resource.
-
-- ###### Namespace
-
-> [!quoteno] 
-> The `namespace` is an optional field. When omitted, the resource is assumed to belong to the 'default' namespace. Namespaces are a way to divide cluster resources between multiple users and are a cornerstone for RBAC (Role-Based Access Control).
-
+[[API Version]]
+[[Kind]]
+[[Metadata]]
 ##### Labels
 
 > [!quoteno]
