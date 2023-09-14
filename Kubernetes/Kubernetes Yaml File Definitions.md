@@ -2,15 +2,20 @@
 last-modified: 2023-09-13
 tags:
   - kubernetes
+cssclasses:
+  - wider-code-sm
 ---
 ## Initial File Configuration
 ---
 > [!example]
-> apiVersion: apps/v1
-kind: Deployment
-
+> 
+>```yaml
+>apiVersion: apps/v1
+>kind: Deployment
 >metadata:
-  name: chronicler-deployment-test
+ > name: chronicler-deployment-test
+ > ```
+ 
 #### API Version
 ---
 > [!quoteno]
@@ -48,6 +53,47 @@ kind: Deployment
 > [!quoteno]
 > The `spec` (specification) outlines the desired state for the resource. This can include a wide array of settings and configurations, such as `replicas` for Deployments or `ports` for Services.
 
+> [!example]
+> ```yaml
+> spec:
+>   replicas: 1
+>   selector:
+>     matchLabels:
+>       app: example-app
+>   template:
+>     metadata:
+>       labels:
+>         app: example-app
+>     spec:
+>       volumes:
+>         - name: your-secret-volume
+>           secret:
+>             secretName: your-secret-name
+>       imagePullSecrets:
+>         - name: acr-secret
+>       containers:
+>       - name: your-container
+>         image: your-image-url
+>         imagePullPolicy: Always
+>         ports:
+>           - containerPort: 8080
+>         env:
+>           - name: EnvironmentVariable
+>             value: "Hello world!"
+>           - name: YourSecretEnvironmentVariable
+>             valueFrom:
+>                 secretKeyRef:
+>                   name: your-secret-name 
+>                   key: your-secret-key
+>         volumeMounts:
+>           - name: your-secret-volume
+>             mountPath: "/app/secrets"
+>             readOnly: true
+>      strategy:
+> 	     type: RollingUpdate
+> 		     maxUnavailable: 1
+> 		     maxSurge: 1
+> ```
 #### Replicas
 
 > [!quoteno]

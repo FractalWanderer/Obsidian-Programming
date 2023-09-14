@@ -53,3 +53,7 @@
 .markdown-preview-view {
     padding-right: 12px !important;
 }
+
+.callout-title-inner{
+    padding-bottom: 10px;
+}
