@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "02e27cf41cf992cb",
+        "id": "9c66406ebf0c464f",
         "type": "tabs",
         "children": [
           {
-            "id": "799ac3ae4da89ac4",
+            "id": "d62939590d768d88",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/daily-notes.json",
-                "staged": true
+                "file": "Kubernetes/Kubernetes Files.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes/Kubernetes Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kubernetes/Kubernetes Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kubernetes/Kubernetes Files.md"
+              }
             }
           },
           {
@@ -137,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Kubernetes/Kubernetes Files.md"
+              }
             }
           },
           {
@@ -163,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5
+    "width": 589.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +188,9 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "799ac3ae4da89ac4",
+  "active": "d62939590d768d88",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
@@ -195,7 +204,6 @@
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Kubernetes/AKS Command Line Commands.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Yaml File Diagrams/Yaml File Diagram.canvas",
