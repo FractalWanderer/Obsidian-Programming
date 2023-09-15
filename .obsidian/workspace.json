@@ -11,11 +11,10 @@
             "id": "799ac3ae4da89ac4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Template.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/daily-notes.json",
+                "staged": true
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,12 +182,12 @@
   },
   "active": "799ac3ae4da89ac4",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes Yaml File Definitions/Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Template.md",
     "Kubernetes/Kubernetes Files.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Labels.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
