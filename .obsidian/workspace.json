@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Deployment Example.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Spec.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Deployment Example.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Spec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Deployment Example.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Spec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Deployment Example.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Spec.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Kubernetes Deployment Example.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Spec.md"
               }
             }
           },
@@ -187,15 +187,16 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "88db2231b19f3820",
+  "active": "d62939590d768d88",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes Deployment Example.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Spec.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Kubernetes/Kubernetes Deployment Example.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Labels.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
@@ -225,7 +226,6 @@
     "Work Projects",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "boxing-unboxing example.png",
     "string-interning correction.png",
