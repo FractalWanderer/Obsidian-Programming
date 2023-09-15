@@ -11,11 +11,11 @@ cssclasses:
 > 
 >```yaml
 >apiVersion: apps/v1
->kind: YourKindHere
+>kind: Deployment
 >metadata:
- > 	name: example-deployment
- > 	namespace: example-namespace
- > ```
+> 	name: example-deployment
+> 	namespace: example-namespace
+> ```
 
 [[API Version]]
 [[Kind]]

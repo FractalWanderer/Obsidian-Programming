@@ -11,6 +11,8 @@ tags:
 >	labels:
 > 		app: example-app
 > 		environment: production
+> 	annotations:
+> 		example.com/icon: "rocket"
 > ```
 ## Definition
 
@@ -31,3 +33,9 @@ tags:
 
 > [!quoteno]
 > Makes the Deployment easier to find and operate on later.
+
+## Annotatons
+
+> [!quoteno]
+> Optional additional information that is non-identifying in nature.
+
