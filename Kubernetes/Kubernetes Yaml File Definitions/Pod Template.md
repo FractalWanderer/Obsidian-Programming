@@ -46,3 +46,4 @@ tags:
 > Defines the specifications for any and all [[Kubernetes Declarative Resource Definitions#pod|Pods]] managed by the [[Kubernetes Declarative Resource Definitions#Deployment|Deployment]].
 
 [[Metadata]]
+[[Pod Template Spec]]

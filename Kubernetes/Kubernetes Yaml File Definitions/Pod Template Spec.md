@@ -3,7 +3,6 @@ last-modified: 2023-09-15
 tags:
   - kubernetes
 ---
-
 >[!example]
 >``` yaml
 > spec:
@@ -32,3 +31,5 @@ tags:
 > 	   mountPath: "/app/secrets"
 > 	   readOnly: true
 >  ```
+
+## Volumes
