@@ -8,6 +8,9 @@ tags:
 > metadata:
 >	name: example-deployment
 >	namespace: example-namespace
+>	labels:
+> 		app: example-app
+> 		environment: production
 > ```
 ## Definition
 
@@ -23,3 +26,8 @@ tags:
 
 > [!quoteno] 
 > The `namespace` is an optional field. When omitted, the resource is assumed to belong to the 'default' namespace. Namespaces are a way to divide cluster resources between multiple users and are a cornerstone for RBAC (Role-Based Access Control).
+
+## Labels
+
+> [!quoteno]
+> 

@@ -20,11 +20,6 @@ cssclasses:
 [[API Version]]
 [[Kind]]
 [[Metadata]]
-##### Labels
-
-> [!quoteno]
-> Key-value pairs attached to resources for filtering and selection.
-
 ## Spec
 ---
 > [!quoteno]
