@@ -1,11 +1,9 @@
 ---
-last-modified: 2023-09-13
+last-modified: 2023-09-15
 tags:
   - kubernetes
 cssclasses:
   - wider-code-sm
----
-## Initial File Configuration
 ---
 > [!example]
 > 
@@ -58,4 +56,4 @@ cssclasses:
 [[API Version]]
 [[Kind]]
 [[Metadata]]
-[[Spec]]
+[[Deployment Spec]]
