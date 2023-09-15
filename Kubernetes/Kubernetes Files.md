@@ -67,35 +67,9 @@ cssclasses:
 > 		     maxSurge: 1
 > ```
 
-#### Replicas
-
-> [!quoteno]
-> The desired number of identical pods to be running. If not specified, defaults to 1.
-
-#### Selector
-
-> [!quoteno]
-> Specifies how to find pods that match a certain criteria. Used for both deployments and services for routing traffic to pods.
-
-> [!example]
-> ``` yaml
->   selector:
->     matchLabels:
->       app: example-app
-> ```
-
-#### Template
-
-> [!quoteno]
-> Specifies the label(s) that must exist on [[Kubernetes Declarative Resource Definitions#pod|Pods]] for them to be managed by a [[Kubernetes Declarative Resource Definitions#Deployment|Deployment]].
-
-> [!example]
-> ```yaml
->   template:
->     metadata:
->       labels:
->         app: example-app
->  ```
+[[Replicas]]
+[[Selector]]
+[[Template]]
 #### Ports
 
 > [!quoteno]
