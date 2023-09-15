@@ -4,7 +4,7 @@ tags:
   - kubernetes
 ---
 > [!quoteno]
-> The `spec` (specification) outlines the desired state for the resource. This can include a wide array of settings and configurations, such as `replicas` for Deployments or `ports` for Services.
+> The deployment spec defines all configuration related to the deployment. This includes the number of replicas, the template defining the pods, any volumes to include on the deployment, ect.
 
 > [!example]
 > ```yaml
@@ -50,7 +50,7 @@ tags:
 
 [[Replicas]]
 [[Selector]]
-[[Template]]
+[[Pod Template]]
 #### Ports
 
 > [!quoteno]
