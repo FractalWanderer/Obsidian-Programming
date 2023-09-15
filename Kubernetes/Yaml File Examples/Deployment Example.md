@@ -2,8 +2,6 @@
 last-modified: 2023-09-15
 tags:
   - kubernetes
-cssclasses:
-  - wider-code-sm
 ---
 > [!example]
 > 
