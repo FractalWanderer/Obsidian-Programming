@@ -14,3 +14,4 @@ function RemoveEscapeCharacters() {
     });
 }
 
+module.exports = RemoveEscapeCharacters;

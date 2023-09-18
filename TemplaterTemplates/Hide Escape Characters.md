@@ -1,1 +1,3 @@
-<%
+
+
+<% tp.user.RemoveEscapeCharacters() %>
