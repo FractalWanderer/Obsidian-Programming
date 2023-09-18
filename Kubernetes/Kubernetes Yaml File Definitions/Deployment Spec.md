@@ -3,6 +3,7 @@ last-modified: 2023-09-15
 tags:
   - kubernetes
 ---
+
 > [!quoteno]
 > The deployment spec defines all configuration related to the deployment. This includes the number of replicas, the template defining the pods, any volumes to include on the deployment, ect.
 

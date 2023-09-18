@@ -16,19 +16,41 @@ Create the yaml file that we will use for the deployment. You can name this file
 
 #### Step 1: Initial File Configuration
 ---
-The first portion of the file is the definition that kubernetes will use for determining the kind of service we are applying, what api version to use, and the metadata related to the file. 
+The first portion of the file is the definition that kubernetes will use for determining the kind of resource we are applying, what api version to use, and the metadata related to the file. 
 
-```yaml
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-	name: test-deployment
-```
-#### Step 1: Spec
+>[!example]
+>```yaml
+>apiVersion: apps/v1
+>kind: Deployment
+>metadata:
+>	name: test-deployment
+> ```
+
+#### Step 2: Spec Replicas
 
 Now moving on to the next portion of the yaml file, we have the spec. This portion is pretty extensive and will be where most of the important stuff happens. (Although really everything is important)
 
-This is the section of the file that determines what containers to run, how many of them to run, what resources/environment variables they have access to, ect.
+This is the section of the file that determines what containers to run, how many of them to run, what resources/environment variables they have access to, etc.
+
+We'll start by adding the spec and specifying within the spec the number of replicas (identical pods) we aim to have running:
+
+>[!example]
+>```yaml
+>apiVersion: apps/v1
+>kind: Deployment
+>metadata:
+>	name: test-deployment
+> spec:  
+> 	replicas: 2
+>```
+
+Setting the replicas will make it the 'goal' of the Kubernetes cluster to always have this many identical pods running, and if any crash and/or shut down, an attempt will be made by the cluster to get back to this number of running pods.
+
+#### Step 3: Spec Selector
+
+Now, just like before we'll add in 
+
+
 
 # Definitions
 ---

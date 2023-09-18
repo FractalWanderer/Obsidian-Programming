@@ -3,11 +3,12 @@ last-modified: 2023-09-15
 tags:
   - kubernetes
 ---
+
 > [!example]
 > ``` yaml
->   selector:
->     matchLabels:
->       app: example-app
+> selector:
+> 	matchLabels:
+> 		app: example-app
 > ```
 
 ## Definition

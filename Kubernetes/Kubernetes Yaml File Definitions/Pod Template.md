@@ -3,6 +3,7 @@ last-modified: 2023-09-15
 tags:
   - kubernetes
 ---
+
 > [!example]
 > ```yaml
 > template:
@@ -35,9 +36,9 @@ tags:
 >            mountPath: "/app/secrets"
 >            readOnly: true
 >     strategy:
->	     type: RollingUpdate
->		     maxUnavailable: 1
->		     maxSurge: 1
+> 	    type: RollingUpdate
+> 		    maxUnavailable: 1
+> 		    maxSurge: 1
 >  ```
 
 ## Definition
@@ -47,3 +48,4 @@ tags:
 
 [[Metadata]]
 [[Pod Template Spec]]
+[[Kubernetes/Kubernetes Yaml File Definitions/Strategy|Strategy]]

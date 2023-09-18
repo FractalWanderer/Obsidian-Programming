@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5,
-    "collapsed": true
+    "width": 589.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,39 +188,39 @@
   },
   "active": "d62939590d768d88",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+    "Kubernetes/Yaml File Examples/Deployment Example.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
     "Scripts/Hide Escape Characters.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "TemplaterTemplates/Hide Escape Characters.md",
     "Scripts/RemoveEscapeCharacters.js~",
     "TemplaterTemplates",
-    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
     "Windows/Windows Command Line.md",
     "Scripts/RemoveEscapeCharacters.js",
     "Scripts",
     "Javascript Templates/Hide Escape Characters from Code Block.md",
     "Javascript Templates",
     "Temp.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
-    "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Screenshots/boxing-unboxing example.png",
     "Screenshots",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
-    "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
     "Kubernetes/Yaml File Examples",
     "Kubernetes/Kubernetes Yaml File Definitions/Untitled",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",

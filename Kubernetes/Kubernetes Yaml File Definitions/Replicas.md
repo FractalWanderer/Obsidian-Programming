@@ -3,6 +3,7 @@ last-modified: 2023-09-15
 tags:
   - kubernetes
 ---
+
 > [!example]
 > ``` yaml
 > replicas: 1
