@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Selector.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Selector.md"
               }
             }
           },
@@ -187,10 +187,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "ee8624b54cfd84eb",
+  "active": "d62939590d768d88",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
@@ -206,11 +208,9 @@
     "Excalidraw/Drawing 2023-09-07 14.58.06.excalidraw.md",
     "Kubernetes/Yaml File Examples",
     "Kubernetes/Kubernetes Yaml File Definitions/Untitled",
-    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Kubernetes/Kubernetes Yaml File Definitions/Labels.md",
     "Kubernetes/Kubernetes Yaml File Definitions",
