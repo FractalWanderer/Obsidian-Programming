@@ -128,23 +128,21 @@ This section defines all of the containers we want to be managed by the pod. You
 
 >[!example] Azure Private Registry Options
 >>[!abstract] Option 1: Admin User
+>>
 >>>[!warning]
 >>>This option is only recommended for development environments.
+>>
+>>>[!example] Steps
+>>>1. In Azure, select the Container Registry where all of your relevant images are stored.
+>>>2. Navigate to the 'Access Keys' tab.
+>>>3. Within this tab, you should see an 'Admin user' field. Make sure the checkbox is checked, and now you should see a username associated with the registry, as well as two separate passwords.
+>>>4. Create the kubernetes secret:
+>>>```
+>>>kubectl create secret docker-registry acr-credentials-secret --docker-server=~your-server~ --docker-username=~your-admin-username~ --docker-password=~your-admin-password~
+>>>```
 >
->
->>[!example] Steps
->>1. In Azure, select the Container Registry where all of your relevant images are stored.
->>2. Navigate to the 'Access Keys' tab.
->>3. Within this tab, you should see an 'Admin user' field. Make sure the checkbox is checked, and now you should see a username associated with the registry, as well as two separate passwords.
->>4. Create the kubernetes secret:
->>```
->>kubectl create secret docker-registry acr-credentials-secret --docker-server=~your-server~ --docker-username=~your-admin-username~ --docker-password=~your-admin-password~
->>```
-
-###### Option 2: Service Principle
-
-#todo
-
+>>[!abstract] Option 2: Service Principle
+>>#todo
 ##### Docker Hub Private Registry
 
 1. Create the Secret in Kubernetes
