@@ -26,6 +26,17 @@
     display: none;
 }
 
+.code-overflow-auto .HyperMD-codeblock.HyperMD-codeblock-bg.cm-line:not(.HyperMD-codeblock-begin-bg, .HyperMD-codeblock-end) {
+    padding-top: 10px;
+    padding-bottom: 14px;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+.code-overflow-auto .HyperMD-codeblock-end{
+    height: 5px;
+}
+
 .callout[data-callout="quoteno"]{
     --callout-color: var(--callout-quote);
 }

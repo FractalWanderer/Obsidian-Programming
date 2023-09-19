@@ -3,6 +3,9 @@ tags:
   - kind
   - kubernetes
 last-modified: 2023-09-14
+cssclasses:
+  - code-overflow-auto
+  - wider-code-md
 ---
 ## Pre-requisites
 ---
@@ -121,6 +124,25 @@ This section defines all of the containers we want to be managed by the pod. You
 #### Step 6: Image Pull Secrets
 
 This section is only required if you have a private container registry.
+
+##### Azure Private Registry Options
+###### Option 1: Admin User
+
+>[!warning]
+>This option is only recommended for development environments.
+
+
+###### Option 2: Service Principle
+
+#todo
+
+##### Docker Hub Private Registry
+
+1. Create the Secret in Kubernetes
+
+```shell
+kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username=<your-dockerhub-username> --docker-password=<your-dockerhub-password>
+```
 
 ## Definitions
 ---
