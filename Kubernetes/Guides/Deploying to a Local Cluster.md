@@ -16,7 +16,7 @@ Create the yaml file that we will use for the deployment. You can name this file
 
 #### Step 1: Initial File Configuration
 ---
-The first portion of the file is the definition that kubernetes will use for determining the kind of resource we are applying, what api version to use, and the metadata related to the file. 
+The first portion of the file is the definition that kubernetes will use for determining the kind of resource we are applying, what api version to use, and the metadata related to the file.
 
 >[!example]
 >```yaml
@@ -48,9 +48,16 @@ Setting the replicas will make it the 'goal' of the Kubernetes cluster to always
 
 #### Step 3: Spec Selector
 
-Now, just like before we'll add in 
+Now, just like before we'll add in another section to the file called 'selector'.
 
+>[!example]
+>```yaml
+>selector:  
+>	matchLabels:  
+>		app: outpost
+>```
 
+#TODO Write a description for selector.
 
 # Definitions
 ---

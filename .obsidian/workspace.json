@@ -165,11 +165,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 589.5
+    "width": 589.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
