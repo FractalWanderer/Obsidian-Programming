@@ -2,7 +2,7 @@
 tags:
   - kind
   - kubernetes
-last-modified: 2023-09-14
+last-modified: 2023-09-19
 cssclasses:
   - code-overflow-auto
   - wider-code-md
@@ -30,7 +30,7 @@ The first portion of the file is the definition that kubernetes will use for det
 > ```
 
 #### Step 2: Spec Replicas
-
+---
 Now moving on to the next portion of the yaml file, we have the spec. This portion is pretty extensive and will be where most of the important stuff happens. (Although really everything is important)
 
 This is the section of the file that determines what containers to run, how many of them to run, what resources/environment variables they have access to, etc.
@@ -50,7 +50,7 @@ We'll start by adding the spec and specifying within the spec the number of repl
 Setting the replicas will make it the 'goal' of the Kubernetes cluster to always have this many identical pods running, and if any crash and/or shut down, an attempt will be made by the cluster to get back to this number of running pods.
 
 #### Step 3: Spec Selector
-
+---
 Now, just like before we'll add in another section to the file called 'selector'.
 
 >[!example]
@@ -69,7 +69,7 @@ Now, just like before we'll add in another section to the file called 'selector'
 The selector here determines which pods will get managed by the deployment. It will look for any and all pods that have a matching label, in this case 'outpost-base-app' is the label it searches for. Once the deployment is created, this selector is set in stone as immutable, which means extra precaution should be taken when deciding it.
 
 #### Step 4: Spec Template Metadata
-
+---
 In this section we'll add in the 'template' portion of the spec, as well as the metadata associated with it.
 
 >[!example]
@@ -92,7 +92,7 @@ In this section we'll add in the 'template' portion of the spec, as well as the 
 Note here that the labels section 'app' label matches exactly with the 'app' in the matchLabels section. This metadata is what allows the selector to target the pod, of which we are going to define in the next step.
 
 #### Step 5: Pod Spec
-
+---
 Now we will define yet another 'spec' section, but this spec will no longer be for the Deployment, but rather for the Pod that we are wanting to deploy and replicate.
 
 >[!example]
@@ -105,7 +105,7 @@ Now we will define yet another 'spec' section, but this spec will no longer be f
 >	replicas: 2
 >	selector:
 >		matchLabels:
->			app: outpost-base-app
+>			app: outpost-base-app 
 >	template:
 >		metadata:
 >			labels:
@@ -121,16 +121,25 @@ Now we will define yet another 'spec' section, but this spec will no longer be f
 
 This section defines all of the containers we want to be managed by the pod. You can name them whatever you want, but the image section must point to the registry (be that public or private) from which the pod can pull it. In this case the registry is a private azure container registry.
 
-#### Step 6: Image Pull Secrets
+#### Step 6: Cluster Image Secrets
+---
+>[!info] 
+>This section is only required if you have a private container registry.
 
-This section is only required if you have a private container registry.
-
-##### Azure Private Registry Options
-###### Option 1: Admin User
-
->[!warning]
->This option is only recommended for development environments.
-
+>[!example] Azure Private Registry Options
+>>[!abstract] Option 1: Admin User
+>>>[!warning]
+>>>This option is only recommended for development environments.
+>
+>
+>>[!example] Steps
+>>1. In Azure, select the Container Registry where all of your relevant images are stored.
+>>2. Navigate to the 'Access Keys' tab.
+>>3. Within this tab, you should see an 'Admin user' field. Make sure the checkbox is checked, and now you should see a username associated with the registry, as well as two separate passwords.
+>>4. Create the kubernetes secret:
+>>```
+>>kubectl create secret docker-registry acr-credentials-secret --docker-server=~your-server~ --docker-username=~your-admin-username~ --docker-password=~your-admin-password~
+>>```
 
 ###### Option 2: Service Principle
 
@@ -143,6 +152,36 @@ This section is only required if you have a private container registry.
 ```shell
 kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username=<your-dockerhub-username> --docker-password=<your-dockerhub-password>
 ```
+#### Step 7: Image Pull Secrets
+---
+>[!info] 
+>This section is only required if you have a private container registry.
+
+>[!example]
+>```yaml
+>apiVersion: apps/v1
+>kind: Deployment
+>metadata:
+>	name: test-deployment
+> spec:
+>	replicas: 2
+>	selector:
+>		matchLabels:
+>			app: outpost-base-app 
+>	template:
+>		metadata:
+>			labels:
+>				app: outpost-base-app
+>		spec:
+>			containers:
+>				- name: outpost
+>				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  imagePullPolicy: Always
+>				- name: home-base
+>				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>			imagePullSecrets:
+>				- name: acr-secret
+>```
 
 ## Definitions
 ---

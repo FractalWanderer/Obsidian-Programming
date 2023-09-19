@@ -35,10 +35,10 @@ tags:
 >          - name: your-secret-volume
 >            mountPath: "/app/secrets"
 >            readOnly: true
->     strategy:
-> 	    type: RollingUpdate
-> 		    maxUnavailable: 1
-> 		    maxSurge: 1
+>    strategy:
+> 	   type: RollingUpdate
+> 		   maxUnavailable: 1
+> 		   maxSurge: 1
 >  ```
 
 ## Definition
