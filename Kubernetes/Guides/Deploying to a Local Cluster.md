@@ -136,24 +136,26 @@ This section defines all of the containers we want to be managed by the pod. You
 >>>1. In Azure, select the Container Registry where all of your relevant images are stored.
 >>>2. Navigate to the 'Access Keys' tab.
 >>>3. Within this tab, you should see an 'Admin user' field. Make sure the checkbox is checked, and now you should see a username associated with the registry, as well as two separate passwords.
->>>4. Create the kubernetes secret:
+>>>4. Create the kubernetes secret in kubernetes command line:
 >>>```
 >>>kubectl create secret docker-registry acr-credentials-secret --docker-server=~your-server~ --docker-username=~your-admin-username~ --docker-password=~your-admin-password~
 >>>```
 >
 >>[!abstract] Option 2: Service Principle
 >>#todo
-##### Docker Hub Private Registry
 
-1. Create the Secret in Kubernetes
+ >[!example] Docker Hub Private Registry
+>Create the Secret in through the kubernetes command line.
+>```
+>kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username= ~your-dockerhub-username~ --docker-password=~your-dockerhub-password~
+> ```
 
-```shell
-kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username=<your-dockerhub-username> --docker-password=<your-dockerhub-password>
-```
 #### Step 7: Image Pull Secrets
 ---
 >[!info] 
 >This section is only required if you have a private container registry.
+
+All that is required to use the secret that we just added in the previous step, is to tell the deployment which secret contains our credentials with the 'imagePullSecrets' field.
 
 >[!example]
 >```yaml
@@ -176,7 +178,7 @@ kubectl create secret docker-registry my-dockerhub-secret --docker-server=https:
 >				  image: russellcellularcontainerregistry.azurecr.io/outpost
 >				  imagePullPolicy: Always
 >				- name: home-base
->				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  image: russellcellularcontainerregistry.azurecr.io/home-base
 >			imagePullSecrets:
 >				- name: acr-secret
 >```
