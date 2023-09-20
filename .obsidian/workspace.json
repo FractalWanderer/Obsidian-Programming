@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a87796155066719c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,25 +200,28 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "d62939590d768d88",
+  "active": "a87796155066719c",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Excalidraw",
+    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
@@ -218,8 +234,6 @@
     "Scripts",
     "Javascript Templates/Hide Escape Characters from Code Block.md",
     "Javascript Templates",
-    "Temp.md",
-    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Screenshots/boxing-unboxing example.png",
     "Screenshots",
     "Kubernetes/Yaml File Examples",
@@ -228,7 +242,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions",
     "Kubernetes/Yaml File Diagrams/Yaml File Diagram.canvas",
     "Kubernetes/Yaml File Diagrams/Yaml File Initial Configuration Definitions.canvas",
-    "Kubernetes/Yaml File Diagrams",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Screenshots/string-interning correction.png",

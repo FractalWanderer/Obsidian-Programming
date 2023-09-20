@@ -91,9 +91,9 @@ In this section we'll add in the 'template' portion of the spec, as well as the 
 
 Note here that the labels section 'app' label matches exactly with the 'app' in the matchLabels section. This metadata is what allows the selector to target the pod, of which we are going to define in the next step.
 
-#### Step 5: Pod Spec
+#### Step 5: Pod Template Spec
 ---
-Now we will define yet another 'spec' section, but this spec will no longer be for the Deployment, but rather for the Pod that we are wanting to deploy and replicate.
+Now we will define yet another 'spec' section, but this spec will no longer be for the [[Deployment Spec|Deployment]], but rather for the [[Pod Template Spec|Pod]] that we are wanting to deploy and replicate.
 
 >[!example]
 >```yaml
@@ -115,13 +115,26 @@ Now we will define yet another 'spec' section, but this spec will no longer be f
 >			- name: outpost
 >			  image: russellcellularcontainerregistry.azurecr.io/outpost
 >			  imagePullPolicy: Always
+>			  ports:
+>				  - containerPort: 8080
 >			- name: home-base
 >			  image: russellcellularcontainerregistry.azurecr.io/outpost
+>			  imagePullPolicy: Always
+>			  env:
+>				  - name: BaseUrl
+>					value: http://localhost:8080
+>			  
 >```
 
 This section defines all of the containers we want to be managed by the pod. You can name them whatever you want, but the image section must point to the registry (be that public or private) from which the pod can pull it. In this case the registry is a private azure container registry.
+###### Ports (optional)
 
-#### Step 6: Cluster Image Secrets
+We'll also need to expose any ports for our containers. The 'outpost' here is the app that requires a port to be opened, so we'll add that now.
+###### Environment Variables (optional)
+
+As well as ports, this is also where we can set any environment variables that our apps rely on. In this case, only one of the apps actually requires an environment variable.
+
+#### Step 7: Cluster Image Secrets
 ---
 >[!info] 
 >This section is only required if you have a private container registry.
@@ -154,7 +167,7 @@ This section defines all of the containers we want to be managed by the pod. You
 >> ```
 >> 2. That's it.
 
-#### Step 7: Image Pull Secrets
+#### Step 8: Image Pull Secrets
 ---
 >[!info] 
 >This section is only required if you have a private container registry.
@@ -186,6 +199,7 @@ All that is required to use the secret that we just added in the previous step, 
 >			imagePullSecrets:
 >				- name: acr-credentials-secret
 >```
+
 
 ## Definitions
 ---

@@ -13,14 +13,14 @@ tags:
 > 	   name: your-secret-name 
 > 	   key: your-secret-key
 >    resourceFieldRef:
-> 		containerName: my-container
-> 		resource: container-resource
+> 	   containerName: my-container
+> 	   resource: container-resource
 >     configMapKeyRef:
-> 		name: my-configmap
-> 		key: my-key
+> 	   name: my-configmap
+> 	   key: my-key
 >  ```
 
-## Example
+## Definition
 
 >[!quoteno]
 >The location to retrieve an environment variable from.
