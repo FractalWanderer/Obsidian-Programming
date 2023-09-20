@@ -140,15 +140,19 @@ This section defines all of the containers we want to be managed by the pod. You
 >>>```
 >>>kubectl create secret docker-registry acr-credentials-secret --docker-server=~your-server~ --docker-username=~your-admin-username~ --docker-password=~your-admin-password~
 >>>```
+>>>>[!important]
+>>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
 >
 >>[!abstract] Option 2: Service Principle
 >>#todo
 
  >[!example] Docker Hub Private Registry
->Create the Secret in through the kubernetes command line.
->```
->kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username= ~your-dockerhub-username~ --docker-password=~your-dockerhub-password~
-> ```
+ >>[!example] Steps
+>>1. Create the Secret in through the kubernetes command line.
+>>```
+>>kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username= ~your-dockerhub-username~ --docker-password=~your-dockerhub-password~
+>> ```
+>> 2. That's it.
 
 #### Step 7: Image Pull Secrets
 ---
@@ -180,7 +184,7 @@ All that is required to use the secret that we just added in the previous step, 
 >				- name: home-base
 >				  image: russellcellularcontainerregistry.azurecr.io/home-base
 >			imagePullSecrets:
->				- name: acr-secret
+>				- name: acr-credentials-secret
 >```
 
 ## Definitions
