@@ -134,7 +134,7 @@ We'll also need to expose any ports for our containers. The 'outpost' here is th
 
 As well as ports, this is also where we can set any environment variables that our apps rely on. In this case, only one of the apps actually requires an environment variable.
 
-#### Step 7: Cluster Image Secrets
+#### Step 6: Cluster Image Secrets
 ---
 >[!info] 
 >This section is only required if you have a private container registry.
@@ -167,7 +167,7 @@ As well as ports, this is also where we can set any environment variables that o
 >> ```
 >> 2. That's it.
 
-#### Step 8: Image Pull Secrets
+#### Step 7: Image Pull Secrets
 ---
 >[!info] 
 >This section is only required if you have a private container registry.
