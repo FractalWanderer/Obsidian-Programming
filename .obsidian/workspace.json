@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Linux/Linux Command Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Linux/Linux Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Linux/Linux Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
+                "file": "Linux/Linux Command Line.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
+                "file": "Linux/Linux Command Line.md"
               }
             }
           },
@@ -202,22 +202,23 @@
   },
   "active": "a87796155066719c",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Excalidraw",
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
@@ -232,7 +233,6 @@
     "Windows/Windows Command Line.md",
     "Scripts/RemoveEscapeCharacters.js",
     "Scripts",
-    "Javascript Templates/Hide Escape Characters from Code Block.md",
     "Javascript Templates",
     "Screenshots/boxing-unboxing example.png",
     "Screenshots",
