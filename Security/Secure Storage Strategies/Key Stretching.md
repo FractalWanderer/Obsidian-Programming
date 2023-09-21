@@ -5,6 +5,7 @@ last-modified: 9/4/2023
 heading: "[[Key Stretching]]"
 ---
 # References
+
 [GUIDs and UUIDs are cool, but this is cooler](https://www.youtube.com/watch?v=tSuwe7FowzE)
 
 [Password security best practices (with examples in C#)](https://www.mking.net/blog/password-security-best-practices-with-examples-in-csharp)
