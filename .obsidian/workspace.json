@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 595.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +181,8 @@
   "lastOpenFiles": [
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "References/CheckboxTypes.excalidraw.md",
     "Work Projects/Kubernetes.md",
     "Screenshots/CheckboxIcons.png",

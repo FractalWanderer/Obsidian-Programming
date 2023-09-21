@@ -5,7 +5,8 @@
     "test",
     "checkbox",
     "S - Checkboxes",
-    "theme"
+    "theme",
+    "codeformatting"
   ],
   "cssTheme": "",
   "theme": "obsidian",

@@ -200,11 +200,9 @@ All that is required to use the secret that we just added in the previous step, 
 >				- name: acr-credentials-secret
 >```
 
-
-
 ## Check Deployment Status
 ---
-
+#todo
 ## Definitions
 ---
 ![[Kubernetes Declarative Resource Definitions#Deployment|Deployment Service]]
