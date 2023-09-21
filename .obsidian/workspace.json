@@ -11,14 +11,11 @@
             "id": "0c41a0e77a2dcc18",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-                "viewState": {
-                  "x": 243,
-                  "y": 390,
-                  "zoom": -0.7405808190306958
-                }
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 421.5
   },
   "right": {
     "id": "ee744972240865e0",
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -182,18 +179,28 @@
   },
   "active": "0c41a0e77a2dcc18",
   "lastOpenFiles": [
-    "C-Sharp/Best Practices/Avoid Out Keyword.md",
-    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-    "Async Await General Questions.pdf",
-    "Temp.md",
-    "Backgrounds",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Fundamentals/Object Initialization.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+    "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
+    "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+    "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg.crdownload",
+    "C-Sharp/Best Practices/Avoid Out Keyword.md",
+    "Async Await General Questions.pdf",
+    "Temp.md",
+    "Backgrounds",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "References/CheckboxTypes.excalidraw.md",
     "Work Projects/Kubernetes.md",
     "Screenshots/CheckboxIcons.png",

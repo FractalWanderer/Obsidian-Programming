@@ -151,7 +151,7 @@ As well as ports, this is also where we can set any environment variables that o
 >>>3. Within this tab, you should see an 'Admin user' field. Make sure the checkbox is checked, and now you should see a username associated with the registry, as well as two separate passwords.
 >>>4. Create the kubernetes secret in kubernetes command line:
 >>>```
->>>kubectl create secret docker-registry acr-credentials-secret --docker-server=~your-server~ --docker-username=~your-admin-username~ --docker-password=~your-admin-password~
+>>>kubectl create secret docker-registry acr-credentials-secret --docker-server=your-server --docker-username=your-admin-username --docker-password=your-admin-password
 >>>```
 >>>>[!important]
 >>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
@@ -202,7 +202,7 @@ All that is required to use the secret that we just added in the previous step, 
 
 ## Check Deployment Status
 ---
-#todo
+
 ## Definitions
 ---
 ![[Kubernetes Declarative Resource Definitions#Deployment|Deployment Service]]
