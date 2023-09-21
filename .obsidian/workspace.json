@@ -146,13 +146,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d2400350f2ba30c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 595.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +170,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,

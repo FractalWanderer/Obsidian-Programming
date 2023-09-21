@@ -37,8 +37,9 @@
     height: 5px;
 }
 
-.callout{
-    padding: 10px;
+.callout-content, .callout-title{
+    --callout-title-padding: 18px;
+    --callout-content-padding: 18px;
 }
 
 .callout[data-callout="quoteno"]{
