@@ -3,9 +3,14 @@
   "enabledCssSnippets": [
     "callouts",
     "test",
-    "canvasformatting",
-    "checkbox",
-    "codeformatting"
+    "codeformatting",
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "floating-search-bar",
+    "floating-status-bar",
+    "its-frontmatter",
+    "minimal-cards",
+    "notion-cards"
   ],
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
