@@ -37,6 +37,10 @@
     height: 5px;
 }
 
+.callout{
+    padding: 10px;
+}
+
 .callout[data-callout="quoteno"]{
     --callout-color: var(--callout-quote);
 }

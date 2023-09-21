@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "bffdbd13b13c4af9",
+    "id": "14522f97e1705f54",
     "type": "split",
     "children": [
       {
-        "id": "9c66406ebf0c464f",
+        "id": "5f87341bf4f614dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d62939590d768d88",
+            "id": "0c41a0e77a2dcc18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0137ca19fdfb809a",
+    "id": "5e1b105d85863df3",
     "type": "split",
     "children": [
       {
-        "id": "3cffc937b64ef2da",
+        "id": "61a194a54880cfd8",
         "type": "tabs",
         "children": [
           {
-            "id": "03641fa913949a75",
+            "id": "76cb5010646d13ab",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "da802def0a66036e",
+            "id": "dc1ebd9e7e46336a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "39759c321be7055d",
+            "id": "33ebcdc9763e543a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 300
   },
   "right": {
-    "id": "c39f933e004ebdae",
+    "id": "ee744972240865e0",
     "type": "split",
     "children": [
       {
-        "id": "2d108d08c166b52c",
+        "id": "9eacb9175d8441e6",
         "type": "tabs",
         "children": [
           {
-            "id": "ee8624b54cfd84eb",
+            "id": "378756c6e70a0604",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "7b83b84c9e607c85",
+            "id": "9f26618d4116d5da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "6f8988ea7cfee782",
+            "id": "84129bb5ed1f3c6d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "f870f0db80d68c4d",
+            "id": "68dae0e5cfad22db",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,25 +130,7 @@
             }
           },
           {
-            "id": "1ad424a6afa7aac3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "88db2231b19f3820",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
-              }
-            }
-          },
-          {
-            "id": "46cb10066379476a",
+            "id": "0a74546b13d6072c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -158,7 +140,7 @@
             }
           },
           {
-            "id": "6442e647bb28e2a4",
+            "id": "bb3f558454368c78",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -169,73 +151,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 589.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "daily-notes:Open today's daily note": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d62939590d768d88",
+  "active": "0c41a0e77a2dcc18",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
-    "General Programming Concepts/Stateless vs Stateful.md",
-    "Untitled",
-    "C-Sharp/Advanced/Span.md",
-    "C-Sharp/Advanced/Span Diagram.canvas",
-    "C-Sharp/Fundamentals/Loops.canvas",
-    "C-Sharp/Untitled",
-    "Security/Secure Storage Strategies/Key Stretching.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes/AKS Command Line Commands.md",
-    "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
-    "Linux/Linux Command Line.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "Excalidraw",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
-    "Scripts/RemoveEscapeCharacters.js~",
-    "TemplaterTemplates",
-    "Scripts/RemoveEscapeCharacters.js",
-    "Scripts",
-    "Javascript Templates",
-    "Screenshots/boxing-unboxing example.png",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "References/CheckboxTypes.excalidraw.md",
+    "Work Projects/Kubernetes.md",
+    "Screenshots/CheckboxIcons.png",
+    "Screenshots/CheckboxTypes.png",
+    "Screenshots/Checkbox Icons.png",
     "Screenshots",
-    "Kubernetes/Yaml File Examples",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "Kubernetes/Yaml File Diagrams/Yaml File Diagram.canvas",
-    "Kubernetes/Yaml File Diagrams/Yaml File Initial Configuration Definitions.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "Screenshots/string-interning correction.png",
-    "Screenshots/vehicle class clip.png",
-    "C-Sharp/Advanced/Async Await General Questions.canvas",
-    "Kubernetes/Kubernetes Command Line.canvas",
-    "Untitled 1.canvas"
+    "References",
+    "Work Projects/Untitled.md",
+    "Work Projects/Untitled.canvas",
+    "Work Projects"
   ]
 }

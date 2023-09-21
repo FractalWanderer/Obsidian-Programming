@@ -3,16 +3,11 @@
   "enabledCssSnippets": [
     "callouts",
     "test",
-    "codeformatting",
-    "custom-rainbow-colors",
-    "extended-colorschemes",
-    "floating-search-bar",
-    "floating-status-bar",
-    "its-frontmatter",
-    "minimal-cards",
-    "notion-cards"
+    "checkbox",
+    "S - Checkboxes",
+    "theme"
   ],
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "",
   "theme": "obsidian",
   "translucency": false
 }
