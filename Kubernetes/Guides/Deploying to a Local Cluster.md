@@ -2,7 +2,7 @@
 tags:
   - kind
   - kubernetes
-last-modified: 2023-09-19
+last-modified: 2023-09-21
 cssclasses:
   - code-overflow-auto
   - wider-code-md
@@ -200,6 +200,10 @@ All that is required to use the secret that we just added in the previous step, 
 >				- name: acr-credentials-secret
 >```
 
+
+
+## Check Deployment Status
+---
 
 ## Definitions
 ---
