@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5f87341bf4f614dc",
+        "id": "4af09e5c6c17e806",
         "type": "tabs",
         "children": [
           {
-            "id": "0c41a0e77a2dcc18",
+            "id": "b5e6ba0d78fb4965",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 595.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +169,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c41a0e77a2dcc18",
+  "active": "b5e6ba0d78fb4965",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
@@ -199,7 +193,6 @@
     "Async Await General Questions.pdf",
     "Temp.md",
     "Backgrounds",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "References/CheckboxTypes.excalidraw.md",
     "Work Projects/Kubernetes.md",
     "Screenshots/CheckboxIcons.png",
