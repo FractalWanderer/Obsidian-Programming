@@ -268,6 +268,11 @@ Now we have our full deployment yaml and we are ready to apply it.
 >				- name: acr-credentials-secret
 >```
 
+To deploy, we will once again use the Kubernetes command line. Just make sure beforehand that you change your current directory to the directory that contains your yaml file.
+
+```shell
+kubectl apply -f deployment.yaml
+```
 ## Check Deployment Status
 ---
 Now you should have deployed to the cluster, and now we'll check and make sure everything is running correctly.
@@ -331,7 +336,7 @@ At this point, if the pods are running as expected, there are further steps you 
 >>```
 >
 >>[!tip] 
->>The container port we'll want to target will be port 81 from our example. Using port 81 will let us see both containers talking to each other at a later stage.
+>>The container port we'll want to target will be port 81 from our example. Using port 81 will let us see both containers talking to each other at a later stage. For simplicity sake, I'll be using port 8081 for my local port.
 
 >[!abstract] Requests
 >Now we are able to send HTTP requests to the specified port. You can use your method of choice for this, but Postman works great. To target your endpoint (assuming your ip address are the same as my result) you will use 127.0.0.1 as the host.
