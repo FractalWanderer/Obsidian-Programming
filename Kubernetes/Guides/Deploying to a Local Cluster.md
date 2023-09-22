@@ -227,6 +227,43 @@ All that is required to use the secret that we just added in the previous step, 
 >```
 
 This is the final yaml file we will be using for the deployment.
+
+#### Step 8: Apply The Deployment
+---
+Now we have our full deployment yaml and we are ready to apply it.
+
+>[!example]
+>```yaml
+>apiVersion: apps/v1
+>kind: Deployment
+>metadata:
+>	name: test-deployment
+> spec:
+>	replicas: 2
+>	selector:
+>		matchLabels:
+>			app: outpost-base-app 
+>	template:
+>		metadata:
+>			labels:
+>				app: outpost-base-app
+>		spec:
+>			containers:
+>				- name: outpost
+>				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  imagePullPolicy: Always
+>					  ports:
+>						  - containerPort: 80
+>				- name: home-base
+>				  image: russellcellularcontainerregistry.azurecr.io/home-base
+>				  imagePullPolicy: Always
+>				  env:
+>					  - name: OutpostPath
+>					    value: http://localhost:80
+>			imagePullSecrets:
+>				- name: acr-credentials-secret
+>```
+
 ## Check Deployment Status
 ---
 Now you should have deployed to the cluster, and now we'll check and make sure everything is running correctly.
@@ -283,7 +320,18 @@ At this point, if the pods are running as expected, there are further steps you 
 >>kubectl port-forward your-pod-name your-local-port:your-container-port
 >>```
 >
+>>[!success] Expected Outcome
+>>```
+>>Forwarding from 127.0.0.1:8081 -> 80
+>>Forwarding from [::1]:8081 -> 80
+>>```
+>
 >>[!tip] The container port we'll want to target will be port 80 from our example, since that is what we exposed in the container we are targeting.
+>
+>
+>Now we are able to send HTTP requests to the specified port. You can use your method of choice for this, but Postman works great. To target your endpoint (assuming your ip address are the same as my result) you will use 127.0.0.1 as the host.
+>> [!example] Request List
+>> 
 
 ## Definitions
 ---
