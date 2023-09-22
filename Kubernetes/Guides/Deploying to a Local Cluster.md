@@ -91,7 +91,7 @@ In this section we'll add in the 'template' portion of the spec, as well as the 
 
 Note here that the labels section 'app' label matches exactly with the 'app' in the matchLabels section. This metadata is what allows the selector to target the pod, of which we are going to define in the next step.
 
-#### Step 5: Pod Template Spec
+#### Step 5: [[Pod Template Spec]]
 ---
 Now we will define yet another 'spec' section, but this spec will no longer be for the [[Deployment Spec|Deployment]], but rather for the [[Pod Template Spec|Pod]] that we are wanting to deploy and replicate.
 
@@ -170,8 +170,10 @@ As well as ports, this is also where we can set any environment variables that o
 >
 >>[!abstract] Option 3: Existing Service Principle 
 >>> [!example] Steps
->>> 1. If you already have the appId and password associated with the service principle, skip to step 3.
->>> 2. In the Azure portal, navigate to the app registry associated with your registry. 
+>>> 1. If you already have the appId and password associated with the service principle, **skip to step 4**.
+>>> 2. In the Azure portal, navigate to the app registry associated with your ACR. If your not sure where to find this, go to the **Access control (IAM)** tab of your ACR, and then to the **Role assignments** tab. Here you can check for the registry you need. The registry should have at minimum AcrPull permissions.
+>>> 3. Note down the name
+>>> 4. Go back to your ACR, and now 
 >>
 
  >[!example] Docker Hub Private Registry
