@@ -11,8 +11,12 @@
             "id": "b5e6ba0d78fb4965",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+              }
             }
           },
           {
@@ -171,6 +179,9 @@
   },
   "active": "b5e6ba0d78fb4965",
   "lastOpenFiles": [
+    "Kubernetes/Yaml File Examples/Deployment Example.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
@@ -182,8 +193,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Fundamentals/Object Initialization.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
