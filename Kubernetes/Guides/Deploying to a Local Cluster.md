@@ -156,14 +156,26 @@ As well as ports, this is also where we can set any environment variables that o
 >>>>[!important]
 >>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
 >
->>[!abstract] Option 2: Service Principle
+>>[!abstract] Option 2: New Service Principle
+>>>[!example]
+>>>1. Through command line, create a service principle that will be used for giving ACR pull permissions:
+>>>```shell
+>>>az ad sp create-for-rbac --name http://your-service-principle-name --scopes /subscriptions/your-subscription-id/resourceGroups/your-resource-group/providers/Microsoft.ContainerRegistry/registries/your-acr-name --role acrpull
+>>>```
+>>>2. Temporarily take note of the app id, and the password.
+>>>3. Create the kubernetes secret:
+>>>```shell
+>>>kubectl create secret docker-registry my-acr-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-password
+>>>```
+>
+>>[!abstract] Option 3: Existing Service Principle 
 >>#todo
 
  >[!example] Docker Hub Private Registry
  >>[!example] Steps
 >>1. Create the Secret in through the kubernetes command line.
 >>```
->>kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username= ~your-dockerhub-username~ --docker-password=~your-dockerhub-password~
+>>kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username=your-dockerhub-username --docker-password=your-dockerhub-password
 >> ```
 >> 2. That's it.
 
