@@ -151,9 +151,9 @@ As well as ports, this is also where we can set any environment variables that o
 >>>3. Within this tab, you should see an 'Admin user' field. Make sure the checkbox is checked, and now you should see a username associated with the registry, as well as two separate passwords.
 >>>4. Create the kubernetes secret in kubernetes command line:
 >>>```
->>>kubectl create secret docker-registry acr-credentials-secret --docker-server=your-server --docker-username=your-admin-username --docker-password=your-admin-password
+>>>kubectl create secret docker-registry image-credentials-secret --docker-server=your-server --docker-username=your-admin-username --docker-password=your-admin-password
 >>>```
->>>>[!important]
+>>>>[!danger] Warning
 >>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
 >
 >>[!abstract]- Option 2: New Service Principle
@@ -165,8 +165,10 @@ As well as ports, this is also where we can set any environment variables that o
 >>>2. Temporarily take note of the app id, and the password.
 >>>3. Create the kubernetes secret:
 >>>```shell
->>>kubectl create secret docker-registry my-acr-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-password
+>>>kubectl create secret docker-registry image-credentials-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-password
 >>>```
+>>>>[!danger] Warning
+>>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
 >
 >>[!abstract]- Option 3: Existing Service Principle 
 >>> [!example] Steps
@@ -178,15 +180,16 @@ As well as ports, this is also where we can set any environment variables that o
 >>> 6. If you already have the secret noted, **skip to step 7**, otherwise, delete the already existing secret and create a new one in its place. Once created, make sure you note down temporarily the value of the secret, as this is only displayed once and we will be using it as the password when we create the secret in Kubernetes.
 >>>7. Create the kubernetes secret:
 >>>```shell
->>>kubectl create secret docker-registry my-acr-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-client-secret
+>>>kubectl create secret docker-registry image-credentials-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-client-secret
 >>>```
->>
+>>>>[!danger] Warning
+>>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
 
  >[!example]- Docker Hub Private Registry
  >>[!example] Steps
 >>1. Create the Secret in through the kubernetes command line.
 >>```
->>kubectl create secret docker-registry my-dockerhub-secret --docker-server=https://index.docker.io/v1/ --docker-username=your-dockerhub-username --docker-password=your-dockerhub-password
+>>kubectl create secret docker-registry image-credentials-secret --docker-server=https://index.docker.io/v1/ --docker-username=your-dockerhub-username --docker-password=your-dockerhub-password
 >> ```
 >> 2. That's it.
 
@@ -223,8 +226,12 @@ All that is required to use the secret that we just added in the previous step, 
 >				- name: acr-credentials-secret
 >```
 
+This is the final yaml file we will be using for the deployment.
 ## Check Deployment Status
 ---
+Now you should have deployed to the cluster, and now we'll check and make sure everything is running correctly.
+
+
 
 ## Definitions
 ---
