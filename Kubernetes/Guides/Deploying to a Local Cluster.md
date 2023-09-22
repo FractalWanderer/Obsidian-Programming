@@ -112,24 +112,22 @@ Now we will define yet another 'spec' section, but this spec will no longer be f
 >				app: outpost-base-app
 >		spec:
 >			containers:
->			- name: outpost
->			  image: russellcellularcontainerregistry.azurecr.io/outpost
->			  imagePullPolicy: Always
->			  ports:
->				  - containerPort: 8080
->			- name: home-base
->			  image: russellcellularcontainerregistry.azurecr.io/outpost
->			  imagePullPolicy: Always
->			  env:
->				  - name: BaseUrl
->					value: http://localhost:8080
->			  
->```
+>				- name: outpost
+>				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  imagePullPolicy: Always
+>					  ports:
+>						  - containerPort: 80
+>				- name: home-base
+>				  image: russellcellularcontainerregistry.azurecr.io/home-base
+>				  imagePullPolicy: Always
+>				  env:
+>					  - name: OutpostPath
+>					    value: http://localhost:80
 
 This section defines all of the containers we want to be managed by the pod. You can name them whatever you want, but the image section must point to the registry (be that public or private) from which the pod can pull it. In this case the registry is a private azure container registry.
 ###### Ports (optional)
 
-We'll also need to expose any ports for our containers. The 'outpost' here is the app that requires a port to be opened, so we'll add that now.
+We'll also need to expose any ports for our containers. In this case, we'll open ports on both apps. One will be used for us to talk to from our machines, and the other will be used for the two containers to communicate.
 ###### Environment Variables (optional)
 
 As well as ports, this is also where we can set any environment variables that our apps rely on. In this case, only one of the apps actually requires an environment variable.
@@ -220,8 +218,14 @@ All that is required to use the secret that we just added in the previous step, 
 >				- name: outpost
 >				  image: russellcellularcontainerregistry.azurecr.io/outpost
 >				  imagePullPolicy: Always
+>					  ports:
+>						  - containerPort: 80
 >				- name: home-base
 >				  image: russellcellularcontainerregistry.azurecr.io/home-base
+>				  imagePullPolicy: Always
+>				  env:
+>					  - name: OutpostPath
+>					    value: http://localhost:80
 >			imagePullSecrets:
 >				- name: acr-credentials-secret
 >```
@@ -332,7 +336,11 @@ At this point, if the pods are running as expected, there are further steps you 
 >[!abstract] Requests
 >Now we are able to send HTTP requests to the specified port. You can use your method of choice for this, but Postman works great. To target your endpoint (assuming your ip address are the same as my result) you will use 127.0.0.1 as the host.
 >> [!example] Request List
->> 
+>> http://127.0.0.1:8081/HomeBase/SendCommand?command=EstablishConnection
+>> http://127.0.0.1:8081/HomeBase/SendCommand?command=GetHealthReport
+>> http://127.0.0.1:8081/HomeBase/SendCommand?command=GetWater
+>> http://127.0.0.1:8081/HomeBase/SendCommand?command=GetCalories
+>> http://127.0.0.1:8081/HomeBase/SendCommand?command=SendResources
 
 ## Definitions
 ---
