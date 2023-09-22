@@ -29,7 +29,7 @@ The first portion of the file is the definition that kubernetes will use for det
 >	name: test-deployment
 > ```
 
-#### Step 2: Spec Replicas
+#### Step 2: Spec [[Replicas]]
 ---
 Now moving on to the next portion of the yaml file, we have the spec. This portion is pretty extensive and will be where most of the important stuff happens. (Although really everything is important)
 
@@ -49,7 +49,7 @@ We'll start by adding the spec and specifying within the spec the number of repl
 
 Setting the replicas will make it the 'goal' of the Kubernetes cluster to always have this many identical pods running, and if any crash and/or shut down, an attempt will be made by the cluster to get back to this number of running pods.
 
-#### Step 3: Spec Selector
+#### Step 3: Spec [[Selector]]
 ---
 Now, just like before we'll add in another section to the file called 'selector'.
 
@@ -68,7 +68,7 @@ Now, just like before we'll add in another section to the file called 'selector'
 
 The selector here determines which pods will get managed by the deployment. It will look for any and all pods that have a matching label, in this case 'outpost-base-app' is the label it searches for. Once the deployment is created, this selector is set in stone as immutable, which means extra precaution should be taken when deciding it.
 
-#### Step 4: Spec Template Metadata
+#### Step 4: Spec Template [[Metadata]]
 ---
 In this section we'll add in the 'template' portion of the spec, as well as the metadata associated with it.
 
@@ -157,7 +157,7 @@ As well as ports, this is also where we can set any environment variables that o
 >>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
 >
 >>[!abstract] Option 2: New Service Principle
->>>[!example]
+>>>[!example] Steps
 >>>1. Through command line, create a service principle that will be used for giving ACR pull permissions:
 >>>```shell
 >>>az ad sp create-for-rbac --name http://your-service-principle-name --scopes /subscriptions/your-subscription-id/resourceGroups/your-resource-group/providers/Microsoft.ContainerRegistry/registries/your-acr-name --role acrpull
@@ -169,7 +169,10 @@ As well as ports, this is also where we can set any environment variables that o
 >>>```
 >
 >>[!abstract] Option 3: Existing Service Principle 
->>#todo
+>>> [!example] Steps
+>>> 1. If you already have the appId and password associated with the service principle, skip to step 3.
+>>> 2. In the Azure portal, navigate to the app registry associated with your registry. 
+>>
 
  >[!example] Docker Hub Private Registry
  >>[!example] Steps
