@@ -139,8 +139,8 @@ As well as ports, this is also where we can set any environment variables that o
 >[!info] 
 >This section is only required if you have a private container registry.
 
->[!example] Azure Private Registry Options
->>[!abstract] Option 1: Admin User
+>[!example]- Azure Private Registry Options 
+>>[!abstract]- Option 1: Admin User
 >>
 >>>[!warning]
 >>>This option is only recommended for development environments.
@@ -156,7 +156,7 @@ As well as ports, this is also where we can set any environment variables that o
 >>>>[!important]
 >>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
 >
->>[!abstract] Option 2: New Service Principle
+>>[!abstract]- Option 2: New Service Principle
 >>>[!example] Steps
 >>>1. Through command line, create a service principle that will be used for giving ACR pull permissions:
 >>>```shell
@@ -168,15 +168,21 @@ As well as ports, this is also where we can set any environment variables that o
 >>>kubectl create secret docker-registry my-acr-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-password
 >>>```
 >
->>[!abstract] Option 3: Existing Service Principle 
+>>[!abstract]- Option 3: Existing Service Principle 
 >>> [!example] Steps
->>> 1. If you already have the appId and password associated with the service principle, **skip to step 4**.
->>> 2. In the Azure portal, navigate to the app registry associated with your ACR. If your not sure where to find this, go to the **Access control (IAM)** tab of your ACR, and then to the **Role assignments** tab. Here you can check for the registry you need. The registry should have at minimum AcrPull permissions.
->>> 3. Note down the name
->>> 4. Go back to your ACR, and now 
+>>> 1. If you already have the appId and password associated with the service principle, **skip to step 7**.
+>>> 2. In the Azure portal, navigate to the app registry associated with your ACR. If your not sure where to find this, go to the **Access control (IAM)** tab of your ACR, and then to the **Role assignments** tab. Here you can check for the registry you need. The registry should have at minimum AcrPull permissions. Note down the name, as this is what we will search for.
+>>> 3. Now leave the registry page, and go to the App registries section where you can search for registries. Search for the name of the registry you noted down. (Clicking on the link that is provided in the **Access control (IAM)** will not take you to the correct page)
+>>> 4. Here in the overview, note down the **Application (client) ID**.
+>>> 5. Navigate to the **Certificates & secrets** page, and then the **Client secrets** tab.
+>>> 6. If you already have the secret noted, **skip to step 7**, otherwise, delete the already existing secret and create a new one in its place. Once created, make sure you note down temporarily the value of the secret, as this is only displayed once and we will be using it as the password when we create the secret in Kubernetes.
+>>>7. Create the kubernetes secret:
+>>>```shell
+>>>kubectl create secret docker-registry my-acr-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-client-secret
+>>>```
 >>
 
- >[!example] Docker Hub Private Registry
+ >[!example]- Docker Hub Private Registry
  >>[!example] Steps
 >>1. Create the Secret in through the kubernetes command line.
 >>```
