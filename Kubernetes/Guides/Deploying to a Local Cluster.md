@@ -322,13 +322,14 @@ At this point, if the pods are running as expected, there are further steps you 
 >
 >>[!success] Expected Outcome
 >>```
->>Forwarding from 127.0.0.1:8081 -> 80
->>Forwarding from [::1]:8081 -> 80
+>>Forwarding from 127.0.0.1:8081 -> 81
+>>Forwarding from [::1]:8081 -> 81
 >>```
 >
->>[!tip] The container port we'll want to target will be port 80 from our example, since that is what we exposed in the container we are targeting.
->
->
+>>[!tip] 
+>>The container port we'll want to target will be port 81 from our example. Using port 81 will let us see both containers talking to each other at a later stage.
+
+>[!abstract] Requests
 >Now we are able to send HTTP requests to the specified port. You can use your method of choice for this, but Postman works great. To target your endpoint (assuming your ip address are the same as my result) you will use 127.0.0.1 as the host.
 >> [!example] Request List
 >> 
