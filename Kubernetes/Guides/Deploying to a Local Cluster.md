@@ -231,7 +231,59 @@ This is the final yaml file we will be using for the deployment.
 ---
 Now you should have deployed to the cluster, and now we'll check and make sure everything is running correctly.
 
+#### Step 1: Check Deployments
+---
+This is pretty simple. We will just be checking to see if the deployment is running.
 
+>[!example]
+>>[!info] Command
+>>```shell
+>>kubectl get deployments
+>>```
+>
+>>[!success] Expected Outcome
+>>```
+>>NAME              READY   UP-TO-DATE   AVAILABLE   AGE
+>>test-deployment   1/1     1            1           12m
+>>```
+
+#### Step 2: Check Pods
+---
+Similar to the last step, we'll just take a look into the pods and see if they have any issues.
+
+>[!example]
+>>[!info] Get Pods Command
+>>```shell
+>>kubectl get pods
+>>```
+>
+>>[!success] Expected Outcome
+>>```
+>>NAME                               READY   STATUS    RESTARTS   AGE
+>>test-deployment-84c5578f9c-s2m2t   2/2     Running   0          16m
+>>```
+>
+>If you run into any issues here with your pods, use this command to debug issues:
+>>[!error] Issue Checking Command
+>>```shell
+>>kubectl describe pods
+>>```
+>> This is also a general use command for getting more information about the pods, if you want to use it for that purpose.
+
+At this point, if the pods are running as expected, there are further steps you can take to validate that they are working properly, but that is outside the scope of this guide. Move on to step 3 if you used the example images used in this guide.
+#### Step 3: Test Inter-Container Communication
+---
+>[!info]
+>This section is only required if you used the same example images as the guide for the deployment. Otherwise, you are on your own from here!
+
+>[!example]
+>We'll use a command to forward a port from our local machine to a container on the pod, that way we can send HTTP requests from our machine, to a specific container within the pod.
+>>[!info] Port Forwarding Command
+>>```shell
+>>kubectl port-forward your-pod-name your-local-port:your-container-port
+>>```
+>
+>>[!tip] The container port we'll want to target will be port 80 from our example, since that is what we exposed in the container we are targeting.
 
 ## Definitions
 ---
