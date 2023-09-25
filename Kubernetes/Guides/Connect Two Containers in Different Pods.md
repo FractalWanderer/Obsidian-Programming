@@ -7,8 +7,8 @@ tags:
 ---
 ## Pre-requisites
 
-1. A kubernetes cluster with which to work with.
-2. Two pod deployments, each of which need at minimum 1 container as the sender, and 1 container as the receiver.
+1. A kubernetes cluster with which to work with. See [[Creating a Local Kind Kubernetes Cluster]]
+2. Two applications to deploy that can communicate through HTTP/HTTPS.
 
 ## Step 1
 

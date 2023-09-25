@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "Kubernetes/Guides/Connect Two Containers in Different Pods.md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "b5e6ba0d78fb4965",
   "lastOpenFiles": [
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
