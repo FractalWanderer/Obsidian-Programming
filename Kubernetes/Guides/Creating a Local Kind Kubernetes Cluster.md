@@ -3,6 +3,7 @@ last-modified: 2023-09-11
 tags:
   - kind
   - kubernetes
+  - guide
 ---
 ## Step 1
 ---

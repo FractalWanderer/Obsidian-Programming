@@ -3,6 +3,7 @@ last-modified: 2023-09-12
 tags:
   - kubernetes
   - AKS
+  - guide
 ---
 ## Pre-requisites
 ---

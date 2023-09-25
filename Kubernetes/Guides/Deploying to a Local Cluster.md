@@ -2,6 +2,7 @@
 tags:
   - kind
   - kubernetes
+  - guide
 last-modified: 2023-09-21
 cssclasses:
   - code-overflow-auto
