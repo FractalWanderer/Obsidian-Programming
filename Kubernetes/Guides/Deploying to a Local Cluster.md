@@ -166,7 +166,7 @@ As well as ports, this is also where we can set any environment variables that o
 >>>kubectl create secret docker-registry image-credentials-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-password
 >>>```
 >>>>[!danger] Warning
->>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
+>>>>Make sure to wrap your password in quotes, otherwise there is a chance it might not be created properly.
 >
 >>[!abstract]- Option 3: Existing Service Principle 
 >>> [!example] Steps
@@ -181,7 +181,7 @@ As well as ports, this is also where we can set any environment variables that o
 >>>kubectl create secret docker-registry image-credentials-secret --docker-server=your-acr-server --docker-username=your-appId --docker-password=your-client-secret
 >>>```
 >>>>[!danger] Warning
->>>>Make sure to wrap your admin password in quotes, otherwise there is a chance it might not be created properly.
+>>>>Make sure to wrap your password in quotes, otherwise there is a chance it might not be created properly.
 
  >[!example]- Docker Hub Private Registry
  >>[!example] Steps
