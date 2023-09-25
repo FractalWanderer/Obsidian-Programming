@@ -1,5 +1,5 @@
 ---
-last-modified: 2023-09-12
+last-modified: 2023-09-25
 tags:
   - kubernetes
   - AKS
