@@ -6,7 +6,6 @@ tags:
 last-modified: 2023-09-21
 cssclasses:
   - code-overflow-auto
-  - wider-code-md
 ---
 ## Pre-requisites
 ---

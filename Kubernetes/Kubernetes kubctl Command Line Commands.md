@@ -218,3 +218,23 @@ kubectl rollout restart deployment <DeploymentName>
 ```
 
 
+
+
+
+## Node Commands
+---
+#### Get Nodes
+
+>[!quoteno]
+>kubectl get nodes
+
+#### Get Nodes with Extra Info
+
+>[!quoteno]
+>kubectl get nodes -o wide
+## Service Commands
+---
+#### Get Service
+
+>[!quoteno]
+>kubectl get svc your-service

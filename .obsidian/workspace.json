@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -179,16 +179,16 @@
   },
   "active": "b5e6ba0d78fb4965",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
-    "C-Sharp/Best Practices/Avoid Private Methods.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/AKS Command Line Commands.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+    "C-Sharp/Best Practices/Avoid Private Methods.md",
+    "Kubernetes/Guides/Deploying a Pod to an IP Restricted Cluster in AKS.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
