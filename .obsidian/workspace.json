@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -179,12 +179,12 @@
   },
   "active": "b5e6ba0d78fb4965",
   "lastOpenFiles": [
+    "Kubernetes/AKS Command Line Commands.md",
+    "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Guides/Deploying a Pod to a private AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes/AKS Command Line Commands.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
