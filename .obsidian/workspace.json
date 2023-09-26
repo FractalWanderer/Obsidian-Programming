@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4af09e5c6c17e806",
+        "id": "b755e18efa72e643",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e6ba0d78fb4965",
+            "id": "e864cc71485f02e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a multi-container multi-pod publicly exposed application to an AKS Cluster.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,12 +177,49 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "c062d8f973652944",
+    "type": "floating",
+    "children": [
+      {
+        "id": "226ba5e494116fd6",
+        "type": "window",
+        "children": [
+          {
+            "id": "a216e213369f5b70",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5e6ba0d78fb4965",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Kubernetes/Guides/Deploying a multi-container multi-pod publicly exposed application to an AKS Cluster.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "b5e6ba0d78fb4965",
   "lastOpenFiles": [
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Deploying a multi-container multi-pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Deploying a multi-container multi-pod publicly exposed application to an AKS Cluster.md",
     "General Programming Concepts/Stateless vs Stateful.md",
     "General Programming Concepts/Semaphore.md",
     "General Programming Concepts/Race Conditions.md",
