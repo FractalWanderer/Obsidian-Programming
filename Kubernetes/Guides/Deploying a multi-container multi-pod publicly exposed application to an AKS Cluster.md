@@ -50,7 +50,7 @@ The section will give an overview of the first deployment, in this case we'll be
 >				- name: acr-credentials-secret
 >```
 
-This deployment follows most typical deployment specifications, but our app uses an environment variable that targets a strange host:
+This deployment follows most typical deployment specifications. Where our use case here differs lies in the environment variable that targets a strange host:
 
 >[!example]
 >```yaml
@@ -58,3 +58,7 @@ This deployment follows most typical deployment specifications, but our app uses
 >  - name: OutpostPath
 >    value: http://outpost-service:80
 >```
+
+This host name targets a service that we will create later on in the guide. You can use a host name that matches this formatting if the context satisfies these requirements:
+1. Both pods that need to communicate are located in the same [[Kubernetes Declarative Resource Definitions#Namespace|namespace]].
+2. A [[Kubernetes Declarative Resource Definitions#Service|service]] has been defined that can be targeted and that exposes the specific port of the other pod that requests need routed to. In this case, the service we will create at a later point has meta data defining "outpost-service" as the name. This outpost-service will route requests from the service itself, to a port contained on another pod that the service targets.
