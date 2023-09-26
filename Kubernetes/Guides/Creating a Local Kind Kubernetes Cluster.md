@@ -4,6 +4,7 @@ tags:
   - kind
   - kubernetes
   - guide
+  - finished
 ---
 ## Step 1
 ---

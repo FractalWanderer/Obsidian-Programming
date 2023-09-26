@@ -3,6 +3,7 @@ last-modified: 2023-09-25
 tags:
   - kubernetes
   - guide
+  - unfinished
 ---
 ---
 ## Pre-requisites

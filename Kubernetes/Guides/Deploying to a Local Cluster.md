@@ -3,6 +3,7 @@ tags:
   - kind
   - kubernetes
   - guide
+  - finished
 last-modified: 2023-09-26
 cssclasses:
   - code-overflow-auto
@@ -13,6 +14,7 @@ cssclasses:
 2. A running kubernetes cluster to deploy to. For this example, I will be using a [[Creating a Local Kind Kubernetes Cluster|Kind]] cluster.
 3. An [Azure Container Registry](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerRegistry%2Fregistries) (ACR) to pull images from. If you are not using ACR, most of this guide will still work fine, but there is some configuration specific for this use case.
 4. One or more applications you want to deploy to the cluster. This example uses two test projects that can talk to each other for the deployment.
+5. An installation of the [Kubernetes command line tool](https://kubernetes.io/docs/tasks/tools/).
 ## Overview
 ---
 Deploying to a local cluster is a great way to get some testing done locally before deploying to the cloud. This guide shows exactly how to do just that. The guide serves as a generic overview of how to deploy two applications running and communicating within a single pod, but following along with it, including the test applications, is the easiest way to follow. (Since there isn't any other specific configuration required) 
@@ -342,7 +344,7 @@ At this point, if the pods are running as expected, there are further steps you 
 >>The container port we'll want to target will be port 81 from our example. Using port 81 will let us see both containers talking to each other at a later stage. For simplicity sake, I'll be using port 8081 for my local port.
 
 >[!abstract] Requests
->Now we are able to send HTTP requests to the specified port. You can use your method of choice for this, but Postman works great. To target your endpoint (assuming your ip address are the same as my result) you will use 127.0.0.1 as the host.
+>Now we are able to send HTTP requests to the specified port. You can use your method of choice for this, but Postman works great. To target your endpoint use either localhost or 127.0.0.1 for the host name.
 >> [!example] Request List
 >> http://127.0.0.1:8081/HomeBase/SendCommand?command=EstablishConnection
 >> http://127.0.0.1:8081/HomeBase/SendCommand?command=GetHealthReport
