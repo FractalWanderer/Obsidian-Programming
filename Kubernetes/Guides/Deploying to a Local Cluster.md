@@ -8,6 +8,10 @@ last-modified: 2023-09-26
 cssclasses:
   - code-overflow-auto
 ---
+## Overview
+---
+Deploying to a local cluster is a great way to get some testing done locally before deploying to the cloud. This guide shows exactly how to do just that. The guide serves as a generic overview of how to deploy two applications running and communicating within a single pod, but following along with it, including the test applications, is the easiest way to follow. (Since there isn't any other specific configuration required) 
+
 ## Pre-requisites
 ---
 1. An installation of the [Docker Engine](https://docs.docker.com/engine/install/). The engine comes installed out of the box with [Docker Desktop](https://docs.docker.com/get-docker/) for a nice user interface.
@@ -15,9 +19,7 @@ cssclasses:
 3. An [Azure Container Registry](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.ContainerRegistry%2Fregistries) (ACR) to pull images from. If you are not using ACR, most of this guide will still work fine, but there is some configuration specific for this use case.
 4. One or more applications you want to deploy to the cluster. This example uses two test projects that can talk to each other for the deployment.
 5. An installation of the [Kubernetes command line tool](https://kubernetes.io/docs/tasks/tools/).
-## Overview
----
-Deploying to a local cluster is a great way to get some testing done locally before deploying to the cloud. This guide shows exactly how to do just that. The guide serves as a generic overview of how to deploy two applications running and communicating within a single pod, but following along with it, including the test applications, is the easiest way to follow. (Since there isn't any other specific configuration required) 
+
 ## Create a Deployment Yaml File
 ---
 Create the yaml file that we will use for the deployment. You can name this file whatever you like, as long as it has the .yaml extension. I will be naming mine __deployment.yaml__.
@@ -356,7 +358,7 @@ At this point, if the pods are running as expected, there are further steps you 
 ---
 ![[Kubernetes Declarative Resource Definitions#Deployment|Deployment Service]]
 
-## Examples
+## Additional Examples
 ---
 #### Deployment File Example
 
