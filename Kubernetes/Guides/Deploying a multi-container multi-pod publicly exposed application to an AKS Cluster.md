@@ -106,4 +106,5 @@ Now we'll move onto the next deployment, which in this case is quite similar to 
 
 Nothing too special about this one. The only noteworthy portion is the specific port we are exposing on the container, port 80, which we will use when we create a cluster ip service to expose it later. The service we use will allow us to send HTTP requests from 'home-base' to 'outpost' internally.
 
-####
+#### Step 3: First Service
+---

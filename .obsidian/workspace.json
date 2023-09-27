@@ -11,12 +11,8 @@
             "id": "e864cc71485f02e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5,
-    "collapsed": true
+    "width": 595.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,8 +169,12 @@
   },
   "active": "e864cc71485f02e5",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Microservice Architecture Diagrams/Microservice Architectures.canvas",
+    "Microservice Architecture Diagrams",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-09-27 09.04.35.excalidraw.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Fundamentals/Loops.canvas",
@@ -205,8 +200,6 @@
     "Pasted image 20230926190650.png",
     "conflict-files-obsidian-git.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg.crdownload",
