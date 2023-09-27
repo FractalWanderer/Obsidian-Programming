@@ -126,13 +126,26 @@ Now we'll move on to creating our first service! This service will simply expose
 >		  targetPort: 80
 >```
 
-###### Meta Data
+>[!abstract] Yaml Fields
+ >> [!example]+ Meta Data
+ >> When creating the service, the name that is specified in the metadata is the name that other applications will use as the host name when sending HTTP requests.
+ >> 
+>>In the home base app from before, we specified the host to target this particular service in the 'OupostPath' environment variable.
+>>
+>>![[#Environment Variable]]
+>
+>
+>> [!example]+ Selector
+>>In order to talk to the outpost we have to specify the specific same selector that was defined on the label for the app we are targeting. In this case, the original label we defined for outpost was just 'outpost', so that is what we will target.
+>
+>>[!example]+ Ports
+>>
+>>>[!example] port
+>>>The port that we expose for the service (keep in mind, this is the service port, not the targetPort) is the port that we will use when we want to send requests to outpost. Think of this port as the window into the outpost container.
+>>
+>>>[!example] targetPort
+>>>Once we select a particular app, now we are able to target the ports within the app. Since the port we originally exposed for outpost was port 80, this is the port that we will target. The traffic from the service will route to this port.
 
-When creating the service, the name that is specified in the metadata is the name that other applications will use as the host name when sending HTTP requests.
-
-In the home base app from before, we specified the host to target this particular service in the 'OupostPath' environment variable.
-![[#Environment Variable]]
-
-###### Selector
-
-In order to talk to the outpost we have to specify the specific same selector that was defined o
+#### Step 4: Second Service
+---
+Moving on we have or second (and last) service that we need. This service will publicly expose the home base application, so that we can send requests from postman and verify that our internal pod communication is working. This service will be a 'LoadBalancer', and is generally good for low complexity applications that need to be publicly exposed to the internet. 
