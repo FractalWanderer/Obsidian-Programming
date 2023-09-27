@@ -148,4 +148,22 @@ Now we'll move on to creating our first service! This service will simply expose
 
 #### Step 4: Second Service
 ---
-Moving on we have or second (and last) service that we need. This service will publicly expose the home base application, so that we can send requests from postman and verify that our internal pod communication is working. This service will be a 'LoadBalancer', and is generally good for low complexity applications that need to be publicly exposed to the internet. 
+Moving on we have or second (and last) service that we need. This service will publicly expose the home base application, so that we can send requests from postman and verify that our internal pod communication is working. This service will be a 'LoadBalancer', and is generally good for low complexity applications that need to be publicly exposed to the internet.
+
+>[!example]
+>```yaml
+>apiVersion: v1
+>kind: Service
+>metadata:
+>	name: home-base-service
+>spec:
+>	type: LoadBalancer
+>	selector:
+>		app: home-base
+>	ports:
+>		- protocol: TCP
+>		  port: 79
+>		  targetPort: 81
+>```
+
+The definitions here are nearly identical to the first service that we created, except that we target a different app, and we specify the type. In this case, we are using a LoadBalancer as a way of exposing the home base to the public internet. 

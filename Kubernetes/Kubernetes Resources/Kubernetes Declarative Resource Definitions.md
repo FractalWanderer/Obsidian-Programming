@@ -13,6 +13,18 @@ tags:
 
 > [!quoteno]
 > A service is a resource that you can use for exposing pods so that other pods can interact with them.
+###### Cluster IP
+
+>[!quoteno]
+>Used for exposing applications internally to the cluster. Great for allowing inter-pod communication to occur, without exposing a pod to the internet.
+
+###### Node Port
+
+>[!quoteno]
+>Exposes a service on a port (the same port) on every node of the cluster. You can access the service externally by using '\<NodeIP\>:\<NodePort\>'
+>
+>Node ports are good for quick testing, as well as scenarios where low-level routing is ideal.
+
 
 #### Node
 
