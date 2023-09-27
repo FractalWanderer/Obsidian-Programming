@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+                "file": "Kubernetes/Guides/Accessing Private Image Registries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+                "file": "Kubernetes/Guides/Accessing Private Image Registries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+                "file": "Kubernetes/Guides/Accessing Private Image Registries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md"
+                "file": "Kubernetes/Guides/Accessing Private Image Registries.md"
               }
             }
           },
@@ -179,9 +179,11 @@
   },
   "active": "e864cc71485f02e5",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/Guides/Accessing Private Image Registries.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
     "Microservice Architecture Diagrams",
     "Untitled.md",
@@ -203,7 +205,6 @@
     "General Programming Concepts/Mutexes.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Accessing Private Image Registries.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "Kubernetes/AKS Command Line Commands.md",

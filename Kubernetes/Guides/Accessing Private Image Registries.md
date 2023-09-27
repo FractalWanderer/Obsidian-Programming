@@ -51,6 +51,9 @@ When using private image registries for storing images, it is often the case tha
 >>>```
 >>>>[!danger] Warning
 >>>>Make sure to wrap your password in quotes, otherwise there is a chance it might not be created properly.
+>
+>>[!abstract]+ Option 4: Secret Already Exists
+>>Often times with working within a cluster, a secret of this nature has already been created. Even if you are creating a brand new deployment from scratch, you can use an already existing secret on a cluster to access a registry by just specifying its name when specifying your containers.
 
 ---
 
