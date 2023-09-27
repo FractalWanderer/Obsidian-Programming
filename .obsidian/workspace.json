@@ -11,14 +11,11 @@
             "id": "e864cc71485f02e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-                "viewState": {
-                  "x": 1036.4623937976387,
-                  "y": 390.7853785854595,
-                  "zoom": -0.35296184475268144
-                }
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -181,35 +178,35 @@
   },
   "active": "e864cc71485f02e5",
   "lastOpenFiles": [
-    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "C-Sharp/Best Practices/Avoid Out Keyword.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-    "Kubernetes/AKS Command Line Commands.md",
-    "Pasted image 20230926190650.png",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "conflict-files-obsidian-git.md",
-    "Kubernetes/Guides/Accessing Private Image Registries.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
+    "C-Sharp/Best Practices/Avoid Private Methods.md",
+    "C-Sharp/Fundamentals/Loops.canvas",
+    "C-Sharp/Best Practices/Avoid Out Keyword.md",
+    "C-Sharp/Advanced/Data Caching.md",
+    "C-Sharp/Advanced/Span.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
+    "Security/Secure Storage Strategies/Key Stretching.md",
+    "Kubernetes/Yaml File Examples/Deployment Example.md",
+    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "General Programming Concepts/Stateless vs Stateful.md",
     "General Programming Concepts/Semaphore.md",
     "General Programming Concepts/Race Conditions.md",
     "General Programming Concepts/Mutexes.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
+    "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Guides/Accessing Private Image Registries.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "Kubernetes/AKS Command Line Commands.md",
+    "Pasted image 20230926190650.png",
+    "conflict-files-obsidian-git.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "C-Sharp/Fundamentals/Loops.canvas",
-    "C-Sharp/Best Practices/Avoid Private Methods.md",
-    "C-Sharp/Advanced/Span.md",
-    "C-Sharp/Advanced/Data Caching.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg.crdownload",

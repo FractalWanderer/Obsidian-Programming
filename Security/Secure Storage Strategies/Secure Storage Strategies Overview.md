@@ -27,8 +27,9 @@ Having an exposure of usernames, passwords and emails is a much bigger deal than
 #### Salt
 
 A salt is a calculated value that is appended (or prepended) that is different for every value ran through the hash function. This value is calculated based on some value passed in to a hash function.
-###### Example
-	Say we are taking a an id with a value of 1 for an employee. We take the id, in this case 1, run it through a hash function, and then take some other value, such as, say, their first name and run that through a salt function. Then we add this salt value to the hash that was generated with the id. This gives us not only a hash calculated with the id, but also with another value that attackers do not know about.
+
+>[!example]
+>Say we are taking a an id with a value of 1 for an employee. We take the id, in this case 1, run it through a hash function, and then take some other value, such as, say, their first name and run that through a salt function. Then we add this salt value to the hash that was generated with the id. This gives us not only a hash calculated with the id, but also with another value that attackers do not know about.
 #### Pepper
 
 A pepper is a value appended (or prepended) to a hash that is consistent for all values that are run through a hash function. This value always remains the same for every single object run through the particular hash, and should be as difficult to guess as possible.

@@ -1,5 +1,5 @@
 ---
-last-modified: 2023-09-12
+last-modified: 2023-09-27
 tags:
   - general-concept
   - unfinished
@@ -22,6 +22,7 @@ So imagine you have a resource that is stored on the heap. This could be a class
 
 Generally, you'd want to rely on mutexes if the resource you are accessing is accessed by more than one process that is running on your computer. If the resource you are working with is limited in scope to only the specific application you are working within, there may be other alternative language specific strategies you can employ.
 
-#### Example
-In C# it is common to either use a lock, or a semaphore for mediating thread resource access interactions.
-![[Semaphores in .NET]]
+> [!example]
+>In C# it is common to either use a lock, or a semaphore for mediating thread resource access interactions.
+>
+>![[Semaphores in .NET]]

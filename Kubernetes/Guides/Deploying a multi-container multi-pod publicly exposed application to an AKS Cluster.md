@@ -28,7 +28,6 @@ This section gives an overview of how to add
 
 ## Yaml File
 ---
-
 #### Step 1: First Deployment
 ---
 The section will give an overview of the first deployment, in this case we'll be deploying the home-base application. This will serve as the publicly exposed entry point into our cluster, as well as the application that will communicate to our other application, outpost.
@@ -104,3 +103,7 @@ Now we'll move onto the next deployment, which in this case is quite similar to 
 >			imagePullSecrets:
 >				acr-credentials-secret
 >```
+
+Nothing too special about this one. The only noteworthy portion is the specific port we are exposing on the container, port 80, which we will use when we create a service to expose it later. The service we use will allow us to send HTTP requests from 'home-base' to 'outpost'.
+
+####
