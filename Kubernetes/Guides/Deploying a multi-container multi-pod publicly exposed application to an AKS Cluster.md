@@ -150,6 +150,9 @@ Moving on we have or second (and last) service that we need. This service will p
 >kind: Service
 >metadata:
 >	name: home-base-service
+>	# Optional
+>	annotations:
+>		service.beta.kubernetes.io/azure-dns-label-name: home-base
 >spec:
 >	type: LoadBalancer
 >	selector:
@@ -160,4 +163,4 @@ Moving on we have or second (and last) service that we need. This service will p
 >		  targetPort: 81
 >```
 
-The definitions here are nearly identical to the first service that we created, except that we target a different app, and we specify the type. In this case, we are using a LoadBalancer as a way of exposing the home base to the public internet. 
+The definitions here are nearly identical to the first service that we created, except that we target a different app, and we specify the type. In this case, we are using a LoadBalancer as a way of exposing the home base to the public internet.
