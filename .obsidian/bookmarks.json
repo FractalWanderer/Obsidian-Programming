@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1695842398066,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1695842465028,
+          "path": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+          "title": "Kubernetes Commands"
+        },
+        {
+          "type": "file",
+          "ctime": 1695842380994,
+          "path": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+          "title": "Local Cluster Guide"
+        },
+        {
+          "type": "file",
+          "ctime": 1695842414154,
+          "path": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+          "title": "AKS Deployment Guide"
+        }
+      ],
+      "title": "Kubernetes"
+    }
+  ]
+}

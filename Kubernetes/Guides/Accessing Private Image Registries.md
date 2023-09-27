@@ -7,6 +7,9 @@ tags:
 When using private image registries for storing images, it is often the case that the registry is private only to authenticated users who have credentials for connecting to them. This guide will serve to authenticate Kubernetes, so that it is able to pull images and create containers from those images, without running into authentication issues during the image pull process. 
 
 >[!example]+ Azure Private Registry Options 
+>>[!warning] Important
+>>If you are deploying to AKS authentication for pulling images from Azure's private registry is handled for you already. No need to perform any manual authentication
+>
 >>[!abstract]+ Option 1: Admin User
 >>
 >>>[!warning]
