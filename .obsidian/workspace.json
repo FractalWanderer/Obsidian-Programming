@@ -19,8 +19,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5aafbaddf9874abd",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Kubernetes/AKS Command Line Commands.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,12 +164,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 595.5,
-    "collapsed": true
+    "width": 595.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +185,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e864cc71485f02e5",
+  "active": "5aafbaddf9874abd",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Accessing Private Image Registries.md",
+    "conflict-files-obsidian-git.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Pasted image 20230926190650.png",
+    "Kubernetes/Guides/Accessing Private Image Registries.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
@@ -207,7 +217,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg.crdownload",
