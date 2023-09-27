@@ -61,6 +61,7 @@ The section will give an overview of the first deployment, in this case we'll be
 >				- name: acr-credentials-secret
 >```
 
+###### Environment Variable
 This deployment follows most typical deployment specifications. Where our use case here differs lies in the environment variable that targets a strange host:
 
 >[!example]
@@ -108,3 +109,30 @@ Nothing too special about this one. The only noteworthy portion is the specific 
 
 #### Step 3: First Service
 ---
+Now we'll move on to creating our first service! This service will simply expose the outpost container for internal communication between pods. The type of the service that gets created is known as a "cluster ip" service, although we will not explicitly define this; cluster ip is the default value for a service.
+
+>[!example]
+>```yaml
+>apiVersion: v1
+>kind: Service
+>metadata:
+>	name: outpost-service
+>spec:
+>	selector:
+>		app: outpost
+>	ports:
+>		- protocol: TCP
+>		  port: 80
+>		  targetPort: 80
+>```
+
+###### Meta Data
+
+When creating the service, the name that is specified in the metadata is the name that other applications will use as the host name when sending HTTP requests.
+
+In the home base app from before, we specified the host to target this particular service in the 'OupostPath' environment variable.
+![[#Environment Variable]]
+
+###### Selector
+
+In order to talk to the outpost we have to specify the specific same selector that was defined o
