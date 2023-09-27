@@ -20,12 +20,6 @@ This guide will serve to help with deploying a sophisticated application with th
 ---
 >[!hint]
 >If the cluster you are working on already has secrets defined for connecting to a private registry defined, or your repositories are public, skip this section. In later sections, you can also omit the field 'imagePullSecrets' from your YAML file.
-
-This section gives an overview of how to add
-
-![[Accessing Private Image Registries]]
-
-
 ## Yaml File
 ---
 #### Step 1: First Deployment
