@@ -58,13 +58,13 @@
               "state": {
                 "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "8fc1e06c6ee743d1",
+            "id": "aec29be373a50e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +143,7 @@
               "type": "backlink",
               "state": {
                 "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -213,13 +212,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 595.5,
-    "collapsed": true
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,38 +236,6 @@
     "id": "156da05bae8dd20c",
     "type": "floating",
     "children": [
-      {
-        "id": "57da3feea072a52b",
-        "type": "window",
-        "children": [
-          {
-            "id": "063034ff68c410bd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4b92220dc53244e9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1364,
-        "y": 28,
-        "width": 2096,
-        "height": 1360,
-        "maximize": true,
-        "zoom": 0
-      },
       {
         "id": "bc2f80f92dff0805",
         "type": "window",
@@ -301,20 +266,51 @@
         "height": 1360,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "4c49ef1663fc7bdd",
+        "type": "window",
+        "children": [
+          {
+            "id": "005d8498638760db",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a9ab05e729d016f2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 300,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
       }
     ]
   },
-  "active": "8fc1e06c6ee743d1",
+  "active": "aec29be373a50e8f",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Accessing Private Image Registries.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",

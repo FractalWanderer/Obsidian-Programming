@@ -159,7 +159,7 @@ Moving on we have or second (and last) service that we need. This service will p
 >		  targetPort: 81
 >```
 
-The definitions here are nearly identical to the first service that we created, except that we target a different app, and we specify the type. In this case, we are using a LoadBalancer as a way of exposing the home base to the public internet. Optionally, we are also using an annotation so that Azure automatically sets up a DNS for us to use. This way we won't have to change the specific IP address we target later, if we redeploy the service. Either is fine, but having a DNS is preferable for our use case. 
+The definitions here are nearly identical to the first service that we created, except that we target a different app, and we specify the type. In this case, we are using a LoadBalancer as a way of exposing the home base to the public internet. Optionally, we are also using an annotation so that Azure automatically sets up a DNS for us to use. This way we won't have to change the specific IP address we target later, if we redeploy the service. Either is fine, but having a DNS is preferable for our use case.
 
 #### Step 5: Apply Yaml File
 ---
@@ -253,5 +253,41 @@ kubectl apply -f your-file-name.yaml
 >[!important]
 >If you have multiple files for each deployment/service, just run the apply command for each one. Optionally, you can combined them all into a single file by separating them with '---' like the example. Then you only need to apply the one file.
 
-## Check Deployment Status
+## Check Resource Deployments Status
 ---
+So now everything should be up and running, including all of the deployments and services, so now we need to give them all a good look over and make sure they are all running as expected.
+
+#### Step 1: Check Deployments
+---
+This is pretty simple. We will just be checking to see if the deployment is running.
+
+>[!example]
+>>[!info] Command
+>>```shell
+>>kubectl get deployments
+>>```
+>
+>>[!success] Expected Outcome
+>>```
+>>NAME                   READY   UP-TO-DATE   AVAILABLE   AGE
+>>home-base-deployment   1/1     1            1           2m
+>>outpost-deployment     1/1     1            1           2m
+>>```
+
+#### Step 2: Check Services
+---
+This is pretty simple. We will just be checking to see if the deployment is running.
+
+>[!example]
+>>[!info] Command
+>>```shell
+>>kubectl get services
+>>```
+>
+>>[!success] Expected Outcome ^[The formatting here on the expected outcome isn't perfect, as some parts wrap to the next line, but just pretend like line wrapping doesn't happen. ]
+>>```
+>>NAME                TYPE           CLUSTER-IP    EXTERNAL-IP     PORT(S)        AGE
+>>home-base-service   LoadBalancer   10.0.18.150   52.154.255.88   79:30521/TCP   2m
+>>kubernetes          ClusterIP      10.0.0.1      none          443/TCP        7d20h
+>>outpost-service     ClusterIP      10.0.39.40    none          80/TCP         2m
+>>```
