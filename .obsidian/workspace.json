@@ -60,21 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a5d1993b3eb324bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Guides/Accessing Private Image Registries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Accessing Private Image Registries.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Accessing Private Image Registries.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Accessing Private Image Registries.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -232,79 +220,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "156da05bae8dd20c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bc2f80f92dff0805",
-        "type": "window",
-        "children": [
-          {
-            "id": "1928311e48cec6fd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a24f9002debbe2a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1332,
-        "y": 16,
-        "width": 2096,
-        "height": 1360,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
-        "id": "4c49ef1663fc7bdd",
-        "type": "window",
-        "children": [
-          {
-            "id": "005d8498638760db",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a9ab05e729d016f2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 300,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a5d1993b3eb324bc",
+  "active": "4f3ea21a4852fa0e",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Accessing Private Image Registries.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",

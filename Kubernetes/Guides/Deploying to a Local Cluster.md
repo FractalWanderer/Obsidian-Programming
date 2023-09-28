@@ -144,7 +144,7 @@ As well as ports, this is also where we can set any environment variables that o
 >[!important] 
 >This section can be skipped if you are using a public registry.
 
-![[Accessing Private Image Registries]]
+![[Creating Private Image Registry Secrets]]
 
 #### Step 7: Image Pull Secrets
 ---
