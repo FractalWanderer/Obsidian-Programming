@@ -50,21 +50,19 @@
             }
           },
           {
-            "id": "79282d9ede59d777",
+            "id": "aec29be373a50e8f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "mode": "source",
-                "source": true
-              },
-              "pinned": true
+                "source": false
+              }
             }
           },
           {
-            "id": "aec29be373a50e8f",
+            "id": "a5d1993b3eb324bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -302,12 +300,12 @@
       }
     ]
   },
-  "active": "d2400350f2ba30c9",
+  "active": "a5d1993b3eb324bc",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",

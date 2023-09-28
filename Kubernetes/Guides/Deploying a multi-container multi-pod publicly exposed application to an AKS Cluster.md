@@ -14,12 +14,7 @@ This guide will serve to help with deploying a sophisticated application with th
 ---
 1. A kubernetes cluster to deploy to created in Azure, specifically with a restricted range of ip addresses for the purposes of this guide.
 2. Two or more apps to deploy to the cluster, one of which has a publicly interactable interface (be that an api, web app, ect.) This guide will use two test applications that are stored in a private Azure container registry, feel free to use them for following the guide if you have access to them. You should be able to follow fine with other applications too, but there may be application specific configuration.
-3. Image pull secrets defined on the Kubernetes cluster you are working with. In this case the name of the secret is acr-credentials-secret.
 
-## User Secrets
----
->[!hint]
->If the cluster you are working on already has secrets defined for connecting to a private registry defined, or your repositories are public, skip this section. In later sections, you can also omit the field 'imagePullSecrets' from your YAML file.
 ## Yaml File
 ---
 #### Step 1: First Deployment
@@ -317,4 +312,11 @@ For the example we worked with, the format for the host with the specific port w
 >> 
 >> http://home-base.centralus.cloudapp.azure.com:79/HomeBase/SendCommand?command=SendResources
 
-Play around with the requests a bit, make sure you are getting 200 successful responses, and that's about all there is left to do!
+Play around with the requests a bit, make sure you are getting successful responses, and that's about all there is left to do!
+
+## Additional Examples
+---
+#### Deployment File Example
+
+![[Deployment Example|Yaml File Definitions]]
+#todo add a service example
