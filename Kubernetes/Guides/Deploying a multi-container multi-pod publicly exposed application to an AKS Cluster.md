@@ -291,3 +291,26 @@ This is pretty simple. We will just be checking to see if the deployment is runn
 >>kubernetes          ClusterIP      10.0.0.1      none          443/TCP        7d20h
 >>outpost-service     ClusterIP      10.0.39.40    none          80/TCP         2m
 >>```
+
+Notice here how we have an external IP address assigned to the home-base-service. If you didn't use an annotation to specify a host DNS, then this is what you will target as the host name for testing. If you specified a host name, Azure adds a bit to the host, and it generally follows this format:
+
+>[!quoteno]
+>your-choosen-dns-name.centralus.cloudapp.azure.com
+
+For the example we worked with, the format for the host with the specific port we exposed will be:
+
+> [!quoteno]
+> home-base.centralus.cloudapp.azure.com:79
+
+> [!abstract] Requests
+> Using this host name, you can now go ahead and send some requests to it using whatever method you want to use for sending HTTP requests.
+>> [!example] Request List
+>> http://home-base.centralus.cloudapp.azure.com:79/HomeBase/SendCommand?command=EstablishConnection
+>> 
+>> http://home-base.centralus.cloudapp.azure.com:79/HomeBase/SendCommand?command=GetHealthReport
+>> 
+>> http://home-base.centralus.cloudapp.azure.com:79/HomeBase/SendCommand?command=GetWater
+>> 
+>> http://home-base.centralus.cloudapp.azure.com:79/HomeBase/SendCommand?command=GetCalories
+>> 
+>> http://home-base.centralus.cloudapp.azure.com:79/HomeBase/SendCommand?command=SendResources
