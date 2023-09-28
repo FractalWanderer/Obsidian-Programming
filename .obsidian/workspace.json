@@ -212,11 +212,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,7 +301,7 @@
       }
     ]
   },
-  "active": "aec29be373a50e8f",
+  "active": "d2400350f2ba30c9",
   "lastOpenFiles": [
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
