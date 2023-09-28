@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5988321b0f7d2659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
+                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md"
               }
             }
           },
@@ -220,14 +232,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f3ea21a4852fa0e",
+  "active": "5988321b0f7d2659",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
