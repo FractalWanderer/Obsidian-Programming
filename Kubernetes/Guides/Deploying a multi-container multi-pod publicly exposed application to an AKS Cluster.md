@@ -297,6 +297,8 @@ Notice here how we have an external IP address assigned to the home-base-service
 >[!quoteno]
 >your-choosen-dns-name.centralus.cloudapp.azure.com
 
+#### Step 3: Send Test Requests
+---
 For the example we worked with, the format for the host with the specific port we exposed will be:
 
 > [!quoteno]
@@ -314,3 +316,5 @@ For the example we worked with, the format for the host with the specific port w
 >> http://home-base.centralus.cloudapp.azure.com:79/HomeBase/SendCommand?command=GetCalories
 >> 
 >> http://home-base.centralus.cloudapp.azure.com:79/HomeBase/SendCommand?command=SendResources
+
+Play around with the requests a bit, make sure you are getting 200 successful responses, and that's about all there is left to do!
