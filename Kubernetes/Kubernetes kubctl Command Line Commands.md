@@ -238,3 +238,25 @@ kubectl rollout restart deployment <DeploymentName>
 
 >[!quoteno]
 >kubectl get svc your-service
+
+
+## Context Commands
+---
+#### Get Contexts
+
+```shell
+kubectl config get-contexts
+```
+
+#### Switch Contexts
+
+```shell
+kubectl config use-context your-context
+```
+
+#### Get Current Context
+
+```shell
+kubectl config current-context
+```
+

@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -305,8 +306,9 @@
   },
   "active": "8fc1e06c6ee743d1",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
@@ -317,7 +319,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Security/Secure Storage Strategies/Key Stretching.md",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",

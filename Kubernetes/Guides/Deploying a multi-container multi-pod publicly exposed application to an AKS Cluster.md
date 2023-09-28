@@ -51,8 +51,6 @@ The section will give an overview of the first deployment, in this case we'll be
 >				  env:
 >					  - name: OutpostPath
 >					    value: http://outpost-service:80
->			imagePullSecrets:
->				- name: acr-credentials-secret
 >```
 
 ###### Environment Variable
@@ -95,8 +93,6 @@ Now we'll move onto the next deployment, which in this case is quite similar to 
 >				  imagePullPolicy: Always
 >				  ports:
 >					  - containerPort: 80
->			imagePullSecrets:
->				acr-credentials-secret
 >```
 
 Nothing too special about this one. The only noteworthy portion is the specific port we are exposing on the container, port 80, which we will use when we create a cluster ip service to expose it later. The service we use will allow us to send HTTP requests from 'home-base' to 'outpost' internally.
@@ -195,8 +191,6 @@ Now we have the full yaml file, and we are ready to apply it to the cluster! Now
 >				  env:
 >					  - name: OutpostPath
 >					    value: http://outpost-service:80
->			imagePullSecrets:
->				- name: acr-credentials-secret
 >---
 ># Outpost Deployment
 >apiVersion: apps/v1
@@ -219,8 +213,6 @@ Now we have the full yaml file, and we are ready to apply it to the cluster! Now
 >				  imagePullPolicy: Always
 >				  ports:
 >					  - containerPort: 80
->			imagePullSecrets:
->				acr-credentials-secret
 >---
 ># Outpost Service
 >apiVersion: v1
