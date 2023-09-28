@@ -253,6 +253,13 @@ Now we have the full yaml file, and we are ready to apply it to the cluster! Now
 >		  targetPort: 81
 >```
 
+So after you have looked everything over, and double checked that everything in the file is formatted correctly, it is time to run the kubectl apply command.
+
+```shell
+kubectl apply -f your-file-name.yaml
+```
+>[!important]
+>If you have multiple files for each deployment/service, just run the apply command for each one. Optionally, you can combined them all into a single file by separating them with '---' like the example. Then you only need to apply the one file.
 
 ## Check Deployment Status
 ---
