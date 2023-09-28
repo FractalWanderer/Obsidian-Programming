@@ -4,7 +4,7 @@ tags:
   - kubernetes
   - guide
   - finished
-last-modified: 2023-09-26
+last-modified: 2023-09-27
 cssclasses:
   - code-overflow-auto
 ---
@@ -141,8 +141,8 @@ As well as ports, this is also where we can set any environment variables that o
 
 #### Step 6: Cluster Image Secrets
 ---
->[!info] 
->This section is only required if you have a private container registry.
+>[!important] 
+>This section can be skipped if you are using a public registry.
 
 ![[Accessing Private Image Registries]]
 
