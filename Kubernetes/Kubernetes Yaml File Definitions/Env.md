@@ -1,5 +1,5 @@
 ---
-last-modified: 2023-09-18
+last-modified: 2023-09-28
 tags:
   - kubernetes
 ---
@@ -14,6 +14,20 @@ tags:
 > 	   secretKeyRef:
 > 		 name: your-secret-name 
 > 		 key: your-secret-key
+>  - name: YourFieldRef
+>	valueFrom:
+>		fieldRef:
+>			fieldPath: path
+>  - name: YourResourceFieldRef
+>    valueFrom:
+> 	   resourceFieldRef:
+> 		   containerName: your-container
+> 		   resource: container-resource
+>  - name: YourConfigMap
+>    valueFrom:
+> 	   configMapKeyRef:
+> 		   name: your-config-map
+> 		   key: your-key
 >  ```
 
 ## Definitions

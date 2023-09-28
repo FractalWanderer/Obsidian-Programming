@@ -1,5 +1,5 @@
 ---
-last-modified: 2023-09-18
+last-modified: 2023-09-28
 tags:
   - kubernetes
 ---
@@ -13,11 +13,11 @@ tags:
 > 	   name: your-secret-name 
 > 	   key: your-secret-key
 >    resourceFieldRef:
-> 	   containerName: my-container
+> 	   containerName: your-container
 > 	   resource: container-resource
 >     configMapKeyRef:
-> 	   name: my-configmap
-> 	   key: my-key
+> 	   name: your-configmap
+> 	   key: your-key
 >  ```
 
 ## Definition
@@ -49,7 +49,7 @@ tags:
 >
 >__status.podIP__ (The IP address allocated to the Pod)
 >
->__status.podIPs__ (The list of IP addresses for the Pode if it has more than one.)
+>__status.podIPs__ (The list of IP addresses for the Pod if it has more than one.)
 
 ## Resource Field Ref
 
