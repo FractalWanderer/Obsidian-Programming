@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -300,10 +300,10 @@
       }
     ]
   },
-  "active": "a24f9002debbe2a5",
+  "active": "aec29be373a50e8f",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
