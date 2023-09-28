@@ -165,5 +165,94 @@ Moving on we have or second (and last) service that we need. This service will p
 
 The definitions here are nearly identical to the first service that we created, except that we target a different app, and we specify the type. In this case, we are using a LoadBalancer as a way of exposing the home base to the public internet. Optionally, we are also using an annotation so that Azure automatically sets up a DNS for us to use. This way we won't have to change the specific IP address we target later, if we redeploy the service. Either is fine, but having a DNS is preferable for our use case. 
 
-## Testing the Deployment
+#### Step 5: Apply Yaml File
+---
+Now we have the full yaml file, and we are ready to apply it to the cluster! Now is a good time to double check your file, and look for any indentation mistakes or other errors.
+
+>[!example]
+>```yaml
+># Home Base Deployment
+>apiVersion: apps/v1
+>kind: Deployment
+>metadata:
+>	name: home-base-deployment
+>spec:
+>	replicas: 1
+>	selector:
+>		matchLabels:
+>			app: home-base
+>	template:
+>		metadata:
+>			labels:
+>				app: home-base
+>		spec:
+>			containers:
+>				- name: home-base
+>				  image: russellcellularcontainerregistry.azurecr.io/home-base
+>				  imagePullPolicy: Always
+>				  ports:
+>					  - containerPort: 81
+>				  env:
+>					  - name: OutpostPath
+>					    value: http://outpost-service:80
+>			imagePullSecrets:
+>				- name: acr-credentials-secret
+>---
+># Outpost Deployment
+>apiVersion: apps/v1
+>kind: Deployment
+>metadata:
+>	name: outpost-deployment
+>spec:
+>	replicas: 1
+>	selector:
+>		matchLabels:
+>			app: outpost
+>	template:
+>		metadata:
+>			labels
+>				app: outpost
+>		spec:
+>			containers:
+>				- name: outpost
+>				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  imagePullPolicy: Always
+>				  ports:
+>					  - containerPort: 80
+>			imagePullSecrets:
+>				acr-credentials-secret
+>---
+># Outpost Service
+>apiVersion: v1
+>kind: Service
+>metadata:
+>	name: outpost-service
+>spec:
+>	selector:
+>		app: outpost
+>	ports:
+>		- protocol: TCP
+>		  port: 80
+>		  targetPort: 80
+>---
+># Home Base Service
+>apiVersion: v1
+>kind: Service
+>metadata:
+>	name: home-base-service
+>	# Optional
+>	annotations:
+>		service.beta.kubernetes.io/azure-dns-label-name: home-base
+>spec:
+>	type: LoadBalancer
+>	selector:
+>		app: home-base
+>	ports:
+>		- protocol: TCP
+>		  port: 79
+>		  targetPort: 81
+>```
+
+
+## Check Deployment Status
 ---
