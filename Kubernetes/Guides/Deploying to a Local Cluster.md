@@ -284,7 +284,7 @@ At this point, if the pods are running as expected, there are further steps you 
 >This section is only required if you used the same example images as the guide for the deployment. Otherwise, you are on your own from here!
 
 >[!example]
->We'll use a command to forward a port from our local machine to a container on the pod, that way we can send HTTP requests from our machine, to a specific container within the pod.
+>We'll use a command to forward a port from our local machine to a container on the pod, that way we can send HTTP requests from our machine, to a specific container within the pod. In this case, we have home-base exposed on port 81, so that is what we target during the port forward.
 >>[!info] Port Forwarding Command
 >>```shell
 >>kubectl port-forward your-pod-name your-local-port:your-container-port
