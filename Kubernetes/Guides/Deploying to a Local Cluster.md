@@ -4,7 +4,7 @@ tags:
   - kubernetes
   - guide
   - finished
-last-modified: 2023-09-27
+last-modified: 2023-09-28
 cssclasses:
   - code-overflow-auto
 ---
@@ -122,11 +122,13 @@ Now we will define yet another 'spec' section, but this spec will no longer be f
 >				- name: outpost
 >				  image: russellcellularcontainerregistry.azurecr.io/outpost
 >				  imagePullPolicy: Always
->					  ports:
->						  - containerPort: 80
+>				  ports:
+>					  - containerPort: 80
 >				- name: home-base
 >				  image: russellcellularcontainerregistry.azurecr.io/home-base
 >				  imagePullPolicy: Always
+>				  ports:
+>					  - containerPort: 81
 >				  env:
 >					  - name: OutpostPath
 >					    value: http://localhost:80
@@ -178,6 +180,8 @@ All that is required to use the secret that we just added in the previous step, 
 >				- name: home-base
 >				  image: russellcellularcontainerregistry.azurecr.io/home-base
 >				  imagePullPolicy: Always
+>				  ports:
+>					  - containerPort: 81
 >				  env:
 >					  - name: OutpostPath
 >					    value: http://localhost:80
@@ -216,6 +220,8 @@ Now we have our full deployment yaml and we are ready to apply it.
 >				- name: home-base
 >				  image: russellcellularcontainerregistry.azurecr.io/home-base
 >				  imagePullPolicy: Always
+>				  ports:
+>					  - containerPort: 81
 >				  env:
 >					  - name: OutpostPath
 >					    value: http://localhost:80

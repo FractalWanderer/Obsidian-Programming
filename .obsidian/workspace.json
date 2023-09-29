@@ -67,14 +67,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,14 +232,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5988321b0f7d2659",
+  "active": "aec29be373a50e8f",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
