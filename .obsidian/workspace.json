@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e52677eef7484980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -229,42 +241,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dd815345056129eb",
+  "active": "e52677eef7484980",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/AKS Command Line Commands.md",
+    "Kubernetes/Yaml File Examples/Deployment Example.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
+    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
-    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Security/Secure Storage Strategies/Key Stretching.md",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Fundamentals/Loops.canvas",
-    "Kubernetes/AKS Command Line Commands.md",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
     "Microservice Architecture Diagrams",
-    "Untitled.md",
-    "Excalidraw/Drawing 2023-09-27 09.04.35.excalidraw.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
-    "C-Sharp/Advanced/Data Caching.md",
-    "C-Sharp/Advanced/Span.md",
-    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
-    "General Programming Concepts/Stateless vs Stateful.md",
-    "General Programming Concepts/Semaphore.md",
     "Pasted image 20230926190650.png",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",

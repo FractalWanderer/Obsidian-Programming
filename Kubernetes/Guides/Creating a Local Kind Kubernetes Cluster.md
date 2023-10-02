@@ -6,6 +6,7 @@ tags:
   - guide
   - finished
 ---
+# Creating a Local Kind Kubernetes Cluster
 ## Step 1
 ---
 #### Install Chocolatey (optional)

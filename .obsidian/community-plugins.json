@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "calendar",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "webpage-html-export"
 ]

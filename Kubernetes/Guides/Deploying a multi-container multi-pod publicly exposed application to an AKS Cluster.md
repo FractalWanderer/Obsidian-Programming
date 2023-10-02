@@ -5,6 +5,7 @@ tags:
   - AKS
   - guide
 ---
+# Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster
 ## Overview
 ---
 This guide will serve to help with deploying a sophisticated application with the following characteristics:

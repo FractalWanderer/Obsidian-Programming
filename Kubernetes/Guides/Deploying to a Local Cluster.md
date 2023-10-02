@@ -8,6 +8,7 @@ last-modified: 2023-09-28
 cssclasses:
   - code-overflow-auto
 ---
+# Deploying to a Local Cluster
 ## Overview
 ---
 Deploying to a local cluster is a great way to get some testing done locally before deploying to the cloud. This guide shows exactly how to do just that. The guide serves as a generic overview of how to deploy two applications running and communicating within a single pod, but following along with it, including the test applications, is the easiest way to follow. (Since there isn't any other specific configuration required) 

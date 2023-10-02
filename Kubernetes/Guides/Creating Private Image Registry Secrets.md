@@ -4,6 +4,8 @@ tags:
   - kubernetes
   - "#might-add-more"
 ---
+# Creating Private Image Registry Secrets
+
 When using private image registries for storing images, it is often the case that the registry is private only to authenticated users who have credentials for connecting to them. This guide will serve to authenticate Kubernetes, so that it is able to pull images and create containers from those images, without running into authentication issues during the image pull process. 
 
 >[!example]+ Azure Private Registry Options 
