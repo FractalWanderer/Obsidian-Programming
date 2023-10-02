@@ -147,7 +147,7 @@ As well as ports, this is also where we can set any environment variables that o
 >[!important] 
 >This section can be skipped if you are using a public registry.
 
-![[Creating Private Image Registry Secrets]]
+[[Creating Private Image Registry Secrets]]
 
 #### Step 7: Image Pull Secrets
 ---
@@ -311,10 +311,10 @@ At this point, if the pods are running as expected, there are further steps you 
 
 ## Definitions
 ---
-![[Kubernetes Declarative Resource Definitions#Deployment|Deployment Service]]
+[[Kubernetes Declarative Resource Definitions#Deployment|Deployment Service]]
 
 ## Additional Examples
 ---
 #### Deployment File Example
 
-![[Deployment Example|Yaml File Definitions]]
+[[Deployment Example]]
