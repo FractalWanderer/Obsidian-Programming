@@ -247,6 +247,7 @@
   },
   "active": "e52677eef7484980",
   "lastOpenFiles": [
+    "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
@@ -272,7 +273,6 @@
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
     "Security/Secure Storage Strategies/Key Stretching.md",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
-    "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "C-Sharp/Fundamentals/Loops.canvas",
