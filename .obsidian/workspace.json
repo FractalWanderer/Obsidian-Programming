@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md"
               }
             }
           },
@@ -233,8 +233,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5988321b0f7d2659",
+  "active": "76cb5010646d13ab",
   "lastOpenFiles": [
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Fundamentals/Loops.canvas",
@@ -262,7 +263,6 @@
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Kubernetes/Guides/Connect Two Containers in Different Pods.md",
-    "Security/Secure Storage Strategies/Key Stretching.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
