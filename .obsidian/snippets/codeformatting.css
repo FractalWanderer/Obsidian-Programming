@@ -23,6 +23,11 @@
     display: inline-block;
 }
 
+.inline-code-block.markdown-source-view .cm-embed-block.cm-callout:has(pre[class*="language-"]) {
+    width: auto !important;
+    display: inline-block;
+}
+
 .inline-code-block.markdown-source-view code[class*="language-"], pre[class*="language-"] {
     text-wrap: nowrap;
     min-width: 100%;
