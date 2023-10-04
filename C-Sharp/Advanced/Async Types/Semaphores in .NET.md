@@ -4,7 +4,7 @@ tags:
   - unfinished
   - csharp
 cssclasses:
-  - wider-code-xl
+  - inline-code-block
 ---
 ![[Semaphore]]
 ## Usage
