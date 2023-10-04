@@ -1,5 +1,5 @@
 ---
-last-modified: 2023-09-25
+last-modified: 2023-10-04
 tags:
   - kubernetes
   - AKS
@@ -20,7 +20,7 @@ This guide will serve to help with deploying a sophisticated application with th
 ---
 #### Step 1: First Deployment
 ---
-The section will give an overview of the first deployment, in this case we'll be deploying the home-base application. This will serve as the publicly exposed entry point into our cluster, as well as the application that will communicate to our other application, outpost.
+The section will give an overview of the first deployment. In this case we'll be deploying the home-base application. This will serve as the publicly exposed entry point into our cluster, as well as the application that will communicate to our other application, outpost.
 
 >[!example]
 >```yaml
@@ -134,7 +134,7 @@ Now we'll move on to creating our first service! This service will simply expose
 
 #### Step 4: Second Service
 ---
-Moving on we have or second (and last) service that we need. This service will publicly expose the home base application, so that we can send requests from postman and verify that our internal pod communication is working. This service will be a 'LoadBalancer', and is generally good for low complexity applications that need to be publicly exposed to the internet.
+Moving on we have our second (and last) service that we need. This service will publicly expose the home base application, so that we can send requests from postman and verify that our internal pod communication is working. This service will be a 'LoadBalancer', and is generally good for low complexity applications that need to be publicly exposed to the internet.
 
 >[!example]
 >```yaml
