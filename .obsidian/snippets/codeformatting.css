@@ -1,4 +1,23 @@
-﻿
+﻿.wider-code-xs .markdown-source-view.mod-cm6, .wider-code-xs .cm-line.HyperMD-codeblock{
+    min-width: 110% !important;
+}
+
+.wider-code-sm .markdown-source-view.mod-cm6, .wider-code-sm .cm-line.HyperMD-codeblock{
+    min-width: 120% !important;
+}
+
+.wider-code-md .markdown-source-view.mod-cm6, .wider-code-md .cm-line.HyperMD-codeblock{
+    min-width: 130% !important;
+}
+
+.wider-code-lg .markdown-source-view.mod-cm6, .wider-code-lg .cm-line.HyperMD-codeblock{
+    min-width: 140% !important;
+}
+
+.wider-code-xl .markdown-source-view.mod-cm6, .wider-code-xl .cm-line.HyperMD-codeblock{
+    min-width: 150% !important;
+}
+
 .inline-code-block.markdown-source-view .cm-embed-block.cm-callout {
     width: auto !important;
     display: inline-block;
