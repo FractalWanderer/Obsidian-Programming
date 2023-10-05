@@ -236,6 +236,7 @@
   "active": "aec29be373a50e8f",
   "lastOpenFiles": [
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "General Programming Concepts/Race Conditions.md",
@@ -246,7 +247,6 @@
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Fundamentals/Loops.canvas",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
