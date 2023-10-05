@@ -1,7 +1,7 @@
 ---
 tags:
   - unfinished
-last-modified: 9/4/2023
+last-modified: 2023-09-20
 heading: "[[Key Stretching]]"
 ---
 # References
