@@ -55,8 +55,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md"
               }
             }
           },
@@ -235,15 +236,16 @@
   },
   "active": "aec29be373a50e8f",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "General Programming Concepts/Race Conditions.md",
     "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Fundamentals/Loops.canvas",
@@ -259,7 +261,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
