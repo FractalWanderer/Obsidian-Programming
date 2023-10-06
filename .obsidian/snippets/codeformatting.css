@@ -24,6 +24,7 @@
 }
 
 .inline-code-block.markdown-source-view .cm-embed-block.cm-callout:has(pre[class*="language-"]) {
+    min-width: 100%;
     width: auto !important;
     display: inline-block;
 }
@@ -31,6 +32,13 @@
 .inline-code-block.markdown-source-view code[class*="language-"], pre[class*="language-"] {
     text-wrap: nowrap;
     min-width: 100%;
+    padding-right: 35px;
+}
+
+.callout code[class*="language-"], pre[class*="language-"]{
+    text-wrap: nowrap;
+    min-width: 100%;
+    padding-right: 35px;
 }
 
 .cm-atom.cm-hmd-codeblock

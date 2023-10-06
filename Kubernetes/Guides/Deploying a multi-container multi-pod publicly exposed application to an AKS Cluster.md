@@ -282,12 +282,12 @@ This is pretty simple. We will just be checking to see if the deployment is runn
 >>kubectl get services
 >>```
 >
->>[!success] Expected Outcome ^[The formatting here on the expected outcome isn't perfect, as some parts wrap to the next line, but just pretend like line wrapping doesn't happen. ]
->>```
+>>[!success] Expected Outcome ^[The formatting here on the expected outcome isn't perfect, as some parts wrap to the next line, but just pretend like line wrapping doesn't happen.]
+>>```yaml
 >>NAME                TYPE           CLUSTER-IP    EXTERNAL-IP     PORT(S)        AGE
 >>home-base-service   LoadBalancer   10.0.18.150   52.154.255.88   79:30521/TCP   2m
->>kubernetes          ClusterIP      10.0.0.1      none          443/TCP        7d20h
->>outpost-service     ClusterIP      10.0.39.40    none          80/TCP         2m
+>>kubernetes          ClusterIP      10.0.0.1      none            443/TCP        7d20h
+>>outpost-service     ClusterIP      10.0.39.40    none            80/TCP         2m
 >>```
 
 Notice here how we have an external IP address assigned to the home-base-service. If you didn't use an annotation to specify a host DNS, then this is what you will target as the host name for testing. If you specified a host name, Azure adds a bit to the host, and it generally follows this format:
