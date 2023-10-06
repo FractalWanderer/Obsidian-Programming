@@ -4,6 +4,8 @@ tags:
   - kubernetes
   - AKS
   - guide
+cssclasses:
+  - inline-code-block
 ---
 # Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster
 ## Overview

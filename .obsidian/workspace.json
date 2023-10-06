@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "254aec3703a87db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/API Version.md"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -233,11 +245,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aec29be373a50e8f",
+  "active": "254aec3703a87db5",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
@@ -258,12 +272,10 @@
     "Security/Secure Storage Strategies/Key Stretching.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Race Conditions.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
     "Microservice Architecture Diagrams",
