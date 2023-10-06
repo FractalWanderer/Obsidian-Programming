@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
               }
             }
           },
@@ -247,18 +247,18 @@
   },
   "active": "254aec3703a87db5",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-27 09.04.35.excalidraw.md",
+    "General Programming Concepts/Mutexes.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Composition vs Inheritance.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-27 09.04.35.excalidraw.md",
     "Windows/Windows Command Line.md",
     "Templates/Daily Note Template.md",
     "C-Sharp/Advanced/Data Caching.md",
