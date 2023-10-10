@@ -5,15 +5,16 @@ tags:
 ---
 ## Definition
 ---
-> [!example] Result Type
+The `Result` type is an enum in Rust's standard library used for robust error handling. It represents the outcome of a computation that can either succeed or fail.
+
+> [!example] 
 >``` rust
-> enum Result\<T, E\> {
+> enum Result<T, E> {
 > 	Ok(T),
 > 	Err(E),
 > }
 >```
 
-
 ## Overview
 ---
-> [!]
+#todo
