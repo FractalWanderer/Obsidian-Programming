@@ -102,6 +102,9 @@
     padding-bottom: 10px;
 }
 
+body > .webpage-container > .document-container > .markdown-preview-view code[class*="language-"], pre[class*="language-"] {
+    text-wrap: nowrap !important;
+}
 
 
 @media print {
