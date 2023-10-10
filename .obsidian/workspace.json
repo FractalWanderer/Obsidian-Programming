@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Result Type.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Result Type.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Result Type.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Result Type.md"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -246,13 +246,13 @@
   },
   "active": "254aec3703a87db5",
   "lastOpenFiles": [
+    "Rust/Result Type.md",
     "Rust/Error Handling.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
-    "Rust/Result Type.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
