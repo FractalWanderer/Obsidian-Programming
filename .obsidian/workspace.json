@@ -65,11 +65,14 @@
             "id": "5988321b0f7d2659",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-                "mode": "source",
-                "source": false
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "viewState": {
+                  "x": 947.58176186755,
+                  "y": 397.7904891578388,
+                  "zoom": -0.1442688118372326
+                }
               }
             }
           },
@@ -152,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md"
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas"
               }
             }
           },
@@ -246,8 +249,10 @@
   },
   "active": "5988321b0f7d2659",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Rust/Result Type.md",
     "Rust/Error Handling.md",
@@ -270,9 +275,7 @@
     "Templates/Daily Note Template.md",
     "C-Sharp/Advanced/Data Caching.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
     "TemplaterTemplates/Hide Escape Characters.md",
     "C-Sharp/Fundamentals/Loops.canvas",
