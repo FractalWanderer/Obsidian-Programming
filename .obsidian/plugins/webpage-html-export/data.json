@@ -2,7 +2,7 @@
   "inlineCSS": true,
   "inlineJS": true,
   "inlineImages": true,
-  "includePluginCSS": "obsidian-tasks-plugin\nobsidian-git",
+  "includePluginCSS": "obsidian-git",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": false,
   "allowFoldingHeadings": true,
