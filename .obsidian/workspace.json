@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md"
               }
             }
           },
@@ -246,34 +246,35 @@
   },
   "active": "5988321b0f7d2659",
   "lastOpenFiles": [
+    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
+    "Security/Secure Storage Strategies/Key Stretching.md",
+    "Rust/Result Type.md",
+    "Rust/Error Handling.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
+    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-    "Rust/Result Type.md",
-    "Rust/Error Handling.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
-    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Rust",
-    "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-27 09.04.35.excalidraw.md",
-    "General Programming Concepts/Mutexes.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
-    "Windows/Windows Command Line.md",
-    "Templates/Daily Note Template.md",
-    "C-Sharp/Advanced/Data Caching.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
