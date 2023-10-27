@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
+                "file": "Rust/Error Handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
+                "file": "Rust/Error Handling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
+                "file": "Rust/Error Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md"
+                "file": "Rust/Error Handling.md"
               }
             }
           },
@@ -246,12 +246,12 @@
   },
   "active": "5988321b0f7d2659",
   "lastOpenFiles": [
-    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
-    "Security/Secure Storage Strategies/Key Stretching.md",
     "Rust/Result Type.md",
     "Rust/Error Handling.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
+    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
+    "Security/Secure Storage Strategies/Key Stretching.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
