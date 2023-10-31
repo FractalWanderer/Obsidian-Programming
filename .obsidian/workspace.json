@@ -72,21 +72,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "254aec3703a87db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Security/Secure Storage Strategies/Key Stretching.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Security/Secure Storage Strategies/Key Stretching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "Security/Secure Storage Strategies/Key Stretching.md"
               }
             }
           },
@@ -245,8 +233,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "254aec3703a87db5",
+  "active": "5988321b0f7d2659",
   "lastOpenFiles": [
+    "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Security/Secure Storage Strategies/Key Stretching.md",
     "Windows/Windows Command Line.md",
@@ -268,13 +258,11 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "Kubernetes/AKS Command Line Commands.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Rust",
     "C-Sharp/Fundamentals/Loops.canvas",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
