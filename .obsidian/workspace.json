@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Secure Storage Strategies/Key Stretching.md",
+                "file": "General Programming Concepts/Mutexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Secure Storage Strategies/Key Stretching.md",
+                "file": "General Programming Concepts/Mutexes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Secure Storage Strategies/Key Stretching.md",
+                "file": "General Programming Concepts/Mutexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Secure Storage Strategies/Key Stretching.md"
+                "file": "General Programming Concepts/Mutexes.md"
               }
             }
           },
@@ -235,10 +235,11 @@
   },
   "active": "5988321b0f7d2659",
   "lastOpenFiles": [
+    "General Programming Concepts/Race Conditions.md",
+    "Security/Secure Storage Strategies/Key Stretching.md",
     "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Security/Secure Storage Strategies/Key Stretching.md",
     "Windows/Windows Command Line.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
@@ -262,7 +263,6 @@
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
-    "Kubernetes/AKS Command Line Commands.md",
     "Rust",
     "C-Sharp/Fundamentals/Loops.canvas",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
