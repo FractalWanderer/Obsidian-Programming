@@ -16,7 +16,7 @@ tags:
 >    env:
 > 	 - name: EnvironmentVariable
 > 	   value: "Hello world!"
-> 	 - name: YourSecretEnvironmentVariable
+> 	 - name: YourSecretEnvironmentVariable 
 > 	   valueFrom:
 > 		   secretKeyRef:
 > 			 name: your-secret-name 
