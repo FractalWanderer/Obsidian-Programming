@@ -65,11 +65,14 @@
             "id": "5988321b0f7d2659",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
-                "mode": "source",
-                "source": false
+                "file": "C-Sharp/Fundamentals/Loops.canvas",
+                "viewState": {
+                  "x": -40,
+                  "y": -1614,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -140,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "C-Sharp/Fundamentals/Loops.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md",
+                "file": "C-Sharp/Fundamentals/Loops.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying to a Local Cluster.md"
+                "file": "C-Sharp/Fundamentals/Loops.canvas"
               }
             }
           },
@@ -235,13 +238,14 @@
   },
   "active": "5988321b0f7d2659",
   "lastOpenFiles": [
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Race Conditions.md",
     "Security/Secure Storage Strategies/Key Stretching.md",
@@ -262,7 +266,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
-    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Rust",
     "C-Sharp/Fundamentals/Loops.canvas",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
