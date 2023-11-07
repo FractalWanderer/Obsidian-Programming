@@ -60,24 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5988321b0f7d2659",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "C-Sharp/Fundamentals/Loops.canvas",
-                "viewState": {
-                  "x": -40,
-                  "y": -1614,
-                  "zoom": 0
-                }
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Fundamentals/Loops.canvas",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Fundamentals/Loops.canvas",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Fundamentals/Loops.canvas"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/API Version.md"
               }
             }
           },
@@ -236,8 +221,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5988321b0f7d2659",
+  "active": "aec29be373a50e8f",
   "lastOpenFiles": [
+    "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
@@ -265,9 +251,7 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
     "Rust",
-    "C-Sharp/Fundamentals/Loops.canvas",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
     "Microservice Architecture Diagrams",
