@@ -50,19 +50,31 @@
             }
           },
           {
-            "id": "aec29be373a50e8f",
+            "id": "95053c4b2afa3cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb1e179df193edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Windows Command Line.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
+                "file": "Windows/Windows Command Line.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
+                "file": "Windows/Windows Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Private Methods.md"
+                "file": "Windows/Windows Command Line.md"
               }
             }
           },
@@ -221,20 +234,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "aec29be373a50e8f",
+  "active": "3eb1e179df193edc",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "Kubernetes/ConfigMap.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+    "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "C-Sharp/Fundamentals/Loops.canvas",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "General Programming Concepts/Mutexes.md",
@@ -247,11 +264,6 @@
     "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Rust",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",

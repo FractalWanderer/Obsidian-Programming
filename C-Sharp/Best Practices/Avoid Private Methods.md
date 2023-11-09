@@ -1,5 +1,7 @@
 ---
 last-modified: 2023-11-09
+tags:
+  - best-practice
 ---
 ## Hypothesis
 ---

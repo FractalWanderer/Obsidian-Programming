@@ -2,6 +2,7 @@
 tags:
   - csharp
   - finished
+  - best-practice
 last-modified: 2023-09-04
 ---
 #### Why should you avoid the usage of the out keyword?

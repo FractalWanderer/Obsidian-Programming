@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#kubernetes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    },
+    {
+      "query": "tag:#todo  ",
+      "color": {
+        "a": 1,
+        "rgb": 54783
+      }
+    },
+    {
+      "query": "tag:#csharp  ",
+      "color": {
+        "a": 1,
+        "rgb": 4255744
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.75346020761246,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 1.68529411764706,
+  "lineSizeMultiplier": 1.29532871972318,
+  "collapse-forces": false,
+  "centerStrength": 0.475778546712803,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7478537827650161,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.13873223932666015,
+  "close": true
 }
