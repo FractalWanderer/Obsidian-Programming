@@ -21,7 +21,7 @@
   "checkbox@@checkbox-strike-info": false,
   "checkbox@@checkbox-strike-para": false,
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-peach",
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
   "anuppuccin-theme-settings@@anp-background-image-toggle": true,
@@ -47,5 +47,7 @@
   "anuppuccin-theme-settings@@callout-title-padding": "8px",
   "anuppuccin-theme-settings@@anp-file-icons": true,
   "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://i.redd.it/coastal-sunset-with-a-slightly-unrealistic-color-scheme-and-v0-3rtlr21uu9i91.png?width=2048&format=png&auto=webp&s=c99b0655501703e4db644c5ec2af3d38653adacd\")",
-  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar"
+  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-floating-status-bar",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-sleek",
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false
 }

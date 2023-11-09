@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -223,16 +223,16 @@
   },
   "active": "aec29be373a50e8f",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "C-Sharp/Fundamentals/Loops.canvas",
-    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "General Programming Concepts/Mutexes.md",
