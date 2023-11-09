@@ -1,3 +1,6 @@
+---
+last-modified: 2023-11-09
+---
 ## Hypothesis
 ---
 Avoiding the use of private methods in favor of public methods gives the caller more context about how a particular block of code is being used. Rather than calling a private method, favor making that method public and letting the caller decide it's usage.

@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "C-Sharp/Best Practices/Avoid Private Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "C-Sharp/Best Practices/Avoid Private Methods.md"
               }
             }
           },
@@ -223,22 +223,23 @@
   },
   "active": "aec29be373a50e8f",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "C-Sharp/Best Practices/Avoid Out Keyword.md",
+    "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "C-Sharp/Fundamentals/Loops.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Race Conditions.md",
     "Security/Secure Storage Strategies/Key Stretching.md",
-    "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "Windows/Windows Command Line.md",
     "Rust/Error Handling.md",
     "Rust/Result Type.md",
