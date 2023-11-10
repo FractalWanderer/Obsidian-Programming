@@ -53,14 +53,11 @@
             "id": "085750bef5a944ef",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-                "viewState": {
-                  "x": -433,
-                  "y": -350,
-                  "zoom": 0
-                }
+                "file": "C-Sharp/Best Practices/Avoid Out Keyword.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -131,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+                "file": "C-Sharp/Best Practices/Avoid Out Keyword.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+                "file": "C-Sharp/Best Practices/Avoid Out Keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas"
+                "file": "C-Sharp/Best Practices/Avoid Out Keyword.md"
               }
             }
           },
@@ -226,7 +223,9 @@
   },
   "active": "085750bef5a944ef",
   "lastOpenFiles": [
+    "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
@@ -237,13 +236,11 @@
     "Excalidraw/Drawing 2023-09-27 09.04.35.excalidraw.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
-    "C-Sharp/Fundamentals/Loops.canvas",
     "Temp.md",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "Kubernetes/ConfigMap.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
