@@ -50,18 +50,22 @@
             }
           },
           {
-            "id": "95053c4b2afa3cf1",
+            "id": "085750bef5a944ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+                "viewState": {
+                  "x": -433,
+                  "y": -350,
+                  "zoom": 0
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas"
               }
             }
           },
@@ -220,23 +224,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e864cc71485f02e5",
+  "active": "085750bef5a944ef",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-    "Temp.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-    "Windows/Windows Command Line.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Windows/Windows Command Line.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "Excalidraw/Drawing 2023-11-10 07.47.33.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-27 09.04.35.excalidraw.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+    "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
+    "C-Sharp/Fundamentals/Loops.canvas",
+    "Temp.md",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "Kubernetes/ConfigMap.md",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "C-Sharp/Fundamentals/Loops.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
@@ -247,10 +254,6 @@
     "Security/Secure Storage Strategies/Key Stretching.md",
     "Rust/Error Handling.md",
     "Rust/Result Type.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
-    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "Rust",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",

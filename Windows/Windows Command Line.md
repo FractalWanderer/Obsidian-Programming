@@ -27,7 +27,7 @@ cd <YourDirectoryPath>
 ```
 ###### One Up
 
-```
+```shell
 cd ..
 ```
 
