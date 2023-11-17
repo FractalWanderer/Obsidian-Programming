@@ -9,7 +9,7 @@ The `Result` type is an enum in Rust's standard library used for robust error ha
 
 > [!example] 
 >``` rust
-> enum Result<T, E> {
+> enum Result<T,E> {
 > 	Ok(T),
 > 	Err(E),
 > }

@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Out Keyword.md",
+                "file": "General Programming Concepts/Race Conditions.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Out Keyword.md",
+                "file": "General Programming Concepts/Race Conditions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Out Keyword.md",
+                "file": "General Programming Concepts/Race Conditions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Best Practices/Avoid Out Keyword.md"
+                "file": "General Programming Concepts/Race Conditions.md"
               }
             }
           },
@@ -223,7 +223,15 @@
   },
   "active": "085750bef5a944ef",
   "lastOpenFiles": [
+    "General Programming Concepts/Mutexes.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
+    "Rust/Result Type.md",
+    "Linux/Linux Command Line.md",
     "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
+    "General Programming Concepts/Race Conditions.md",
+    "General Programming Concepts/Stateless vs Stateful.md",
+    "General Programming Concepts/Semaphore.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Advanced/Data Caching.md",
     "C-Sharp/Advanced/Span.md",
@@ -238,20 +246,12 @@
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "Excalidraw/Drawing 2023-11-10 07.47.33.excalidraw.md",
     "Excalidraw/Drawing 2023-09-27 09.04.35.excalidraw.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
     "Temp.md",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "Kubernetes/ConfigMap.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
-    "General Programming Concepts/Mutexes.md",
-    "General Programming Concepts/Race Conditions.md",
-    "Security/Secure Storage Strategies/Key Stretching.md",
-    "Rust/Error Handling.md",
     "Rust",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
