@@ -1,5 +1,8 @@
 ---
 last-modified: 2023-11-20
+tags:
+  - unfinished
+  - todo
 ---
 >[!abstract] Edge Cases
 >1. Divisor == 0 would cause a divide by 0 error. Solution: return 0.
