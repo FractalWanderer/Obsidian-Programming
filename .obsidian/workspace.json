@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "switch cluster",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,8 +221,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f20a3da084db18ad",
+  "active": "76cb5010646d13ab",
   "lastOpenFiles": [
+    "General Programming Concepts/Untitled",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
@@ -250,7 +250,6 @@
     "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Race Conditions.md",
     "C-Sharp/Fundamentals/Loops.canvas",
-    "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
