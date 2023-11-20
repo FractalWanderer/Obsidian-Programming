@@ -221,43 +221,6 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "3463edfa018df56f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a84242e1ddfab4a7",
-        "type": "window",
-        "children": [
-          {
-            "id": "ea7e00fd0dcfd276",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "085750bef5a944ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 270,
-        "y": 125,
-        "width": 2097,
-        "height": 1363,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f20a3da084db18ad",
   "lastOpenFiles": [
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
