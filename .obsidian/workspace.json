@@ -48,21 +48,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "085750bef5a944ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/Windows Command Line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Windows Command Line.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Windows Command Line.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Windows Command Line.md"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -221,12 +208,55 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "085750bef5a944ef",
+  "floating": {
+    "id": "3463edfa018df56f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a84242e1ddfab4a7",
+        "type": "window",
+        "children": [
+          {
+            "id": "ea7e00fd0dcfd276",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "085750bef5a944ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Kubernetes/Guides/Deploying Production vs Development.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 270,
+        "y": 125,
+        "width": 2097,
+        "height": 1363,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e864cc71485f02e5",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying Production vs Development.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Windows/Windows Command Line.md",
     "Linux/Linux Command Line.md",
     "Rust/Result Type.md",
     "Rust/Error Handling.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/ConfigMap.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
@@ -237,7 +267,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "General Programming Concepts/Stateless vs Stateful.md",
     "General Programming Concepts/Semaphore.md",
     "General Programming Concepts/Mutexes.md",
@@ -245,11 +274,6 @@
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
-    "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
-    "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
-    "C-Sharp/Advanced/Data Caching.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
