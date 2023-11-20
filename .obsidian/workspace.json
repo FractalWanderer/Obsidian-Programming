@@ -48,8 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f20a3da084db18ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,7 +239,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kubernetes/Guides/Deploying Production vs Development.md",
+                    "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                     "mode": "source",
                     "source": false
                   }
@@ -245,24 +258,25 @@
       }
     ]
   },
-  "active": "e864cc71485f02e5",
+  "active": "f20a3da084db18ad",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying Production vs Development.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
+    "Kubernetes/Yaml File Examples/Deployment Example.md",
+    "Kubernetes/Guides/Deploying Production vs Development.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Windows/Windows Command Line.md",
     "Linux/Linux Command Line.md",
     "Rust/Result Type.md",
     "Rust/Error Handling.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/ConfigMap.md",
-    "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
@@ -273,7 +287,6 @@
     "General Programming Concepts/Race Conditions.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Best Practices/Avoid Private Methods.md",
-    "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
