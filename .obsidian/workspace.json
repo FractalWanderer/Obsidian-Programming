@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Bitwise Multiplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Bitwise Multiplication.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Bitwise Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Bitwise Multiplication.md"
               }
             }
           },
@@ -221,9 +221,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "76cb5010646d13ab",
+  "active": "f20a3da084db18ad",
   "lastOpenFiles": [
-    "General Programming Concepts/Untitled",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "General Programming Concepts/Data Structures and Algorithms/Bitwise Multiplication.md",
+    "General Programming Concepts/Data Structures and Algorithms",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
@@ -232,7 +234,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Guides/Deploying Production vs Development.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Windows/Windows Command Line.md",
     "Linux/Linux Command Line.md",
     "Rust/Result Type.md",
