@@ -117,7 +117,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md"
               }
             }
           }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md"
               }
             }
           },
@@ -283,11 +283,11 @@
   },
   "active": "a4d35e500f39f6fd",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Untitled.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation",
     "General Programming Concepts/Data Structures and Algorithms/Search",
