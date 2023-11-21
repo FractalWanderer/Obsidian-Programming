@@ -80,9 +80,19 @@
                 "file": "General Programming Concepts/Data Structures and Algorithms/Linear Search.md"
               }
             }
+          },
+          {
+            "id": "982e903a29507314",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Data Structures and Algorithms/Binary Search.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Linear Search.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Binary Search.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Linear Search.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Linear Search.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Binary Search.md"
               }
             }
           },
@@ -241,12 +251,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cfc9e21306ac613a",
+  "active": "982e903a29507314",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Linear Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Arrays.md",
     "General Programming Concepts/Data Structures and Algorithms/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Big O Time Complexity.md",
-    "General Programming Concepts/Data Structures and Algorithms/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Arrays.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
@@ -271,7 +282,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "General Programming Concepts/Stateless vs Stateful.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
