@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Binary Search.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Binary Search.md"
               }
             }
           },
@@ -261,10 +261,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "76cb5010646d13ab",
+  "active": "982e903a29507314",
   "lastOpenFiles": [
-    "General Programming Concepts/Data Structures and Algorithms/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md",
+    "General Programming Concepts/Data Structures and Algorithms/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Arrays.md",
     "General Programming Concepts/Data Structures and Algorithms/Bitwise Division.md",
