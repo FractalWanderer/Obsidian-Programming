@@ -50,7 +50,7 @@ To solve in an easier way:
 
 Linearly walk until you hit a 1.
 The index with a 1 is the most
-optimized path. ^Hi6CDrxx
+optimized drop point. ^Hi6CDrxx
 
 Time Complexity: O(N) ^DXVhDibU
 
@@ -65,6 +65,12 @@ where C is a constant. ^jnBhQisT
 You are given an input such as: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
 with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 
+Solution In Code ^ueT4zjFI
+
+
+# Embedded files
+f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]]
+
 %%
 # Drawing
 ```json
@@ -74,62 +80,67 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
 	"elements": [
 		{
-			"id": "7uBYHYzuxbadj8r8MD6z0",
 			"type": "rectangle",
-			"x": 216.58349609375,
-			"y": -596.1042175292969,
-			"width": 260.666748046875,
-			"height": 862.0000305175781,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffec99",
+			"version": 164,
+			"versionNonce": 1416678735,
+			"isDeleted": false,
+			"id": "7uBYHYzuxbadj8r8MD6z0",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 215.014892578125,
+			"y": -596.1042175292969,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffec99",
+			"width": 262.2353515625,
+			"height": 862.0000305175781,
+			"seed": 1453180431,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1453180431,
-			"version": 163,
-			"versionNonce": 47570639,
-			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1700589859915,
+			"updated": 1700591526014,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "TFycsEZcIqmwHCr8G1obh",
 			"type": "line",
-			"x": 216.58349609375,
-			"y": -444.104248046875,
-			"width": 259.3333740234375,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#ffec99",
+			"version": 106,
+			"versionNonce": 622295457,
+			"isDeleted": false,
+			"id": "TFycsEZcIqmwHCr8G1obh",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 216.58349609375,
+			"y": -444.104248046875,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffec99",
+			"width": 259.3333740234375,
+			"height": 0,
+			"seed": 1585023041,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1585023041,
-			"version": 106,
-			"versionNonce": 622295457,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1700589859915,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -139,12 +150,7 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 					259.3333740234375,
 					0
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
 			"type": "line",
@@ -192,8 +198,8 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 		},
 		{
 			"type": "line",
-			"version": 175,
-			"versionNonce": 1041866113,
+			"version": 182,
+			"versionNonce": 627575713,
 			"isDeleted": false,
 			"id": "zY6Bw28YEIQx2KdZtHBo9",
 			"fillStyle": "hachure",
@@ -202,8 +208,8 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 218.63143523278646,
-			"y": -161.0928522102814,
+			"x": 217.84702576587475,
+			"y": -160.308586355502,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 259.3333740234375,
@@ -215,7 +221,7 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700589859916,
+			"updated": 1700591517926,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -236,8 +242,8 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 		},
 		{
 			"type": "line",
-			"version": 193,
-			"versionNonce": 2147071759,
+			"version": 199,
+			"versionNonce": 1847626095,
 			"isDeleted": false,
 			"id": "DX0Uxo67nP8Jp3kIJqI_c",
 			"fillStyle": "hachure",
@@ -246,7 +252,7 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 220.63131316247393,
+			"x": 218.27837198600332,
 			"y": -10.426226233718868,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
@@ -259,7 +265,7 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700589859916,
+			"updated": 1700591506990,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -323,30 +329,30 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 			]
 		},
 		{
-			"id": "sejYtNyWIpsj-Uq4mLQEE",
 			"type": "ellipse",
-			"x": -140.74993896484375,
-			"y": -563.4374389648438,
-			"width": 65.3333740234375,
-			"height": 68,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#d0bfff",
+			"version": 212,
+			"versionNonce": 1468901569,
+			"isDeleted": false,
+			"id": "sejYtNyWIpsj-Uq4mLQEE",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -140.74993896484375,
+			"y": -563.4374389648438,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#d0bfff",
+			"width": 65.3333740234375,
+			"height": 68,
+			"seed": 44903663,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 44903663,
-			"version": 212,
-			"versionNonce": 1468901569,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1700589895605,
 			"link": null,
 			"locked": false
@@ -381,78 +387,78 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 			"locked": false
 		},
 		{
-			"id": "p9Dk8sz4",
 			"type": "text",
-			"x": 209.58343505859375,
-			"y": -959.1042175292969,
-			"width": 1009.5956420898438,
-			"height": 105,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#d0bfff",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1673282479,
 			"version": 553,
 			"versionNonce": 240635663,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700589874613,
-			"link": null,
-			"locked": false,
-			"text": "Goal: Given two crystal balls that will break if dropped from high enough\ndistance, determine the exact spot in which it will break in the most\noptimized way. (i.e.. the lowest floor where it breaks.)",
-			"rawText": "Goal: Given two crystal balls that will break if dropped from high enough\ndistance, determine the exact spot in which it will break in the most\noptimized way. (i.e.. the lowest floor where it breaks.)",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 94,
-			"containerId": null,
-			"originalText": "Goal: Given two crystal balls that will break if dropped from high enough\ndistance, determine the exact spot in which it will break in the most\noptimized way. (i.e.. the lowest floor where it breaks.)",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "xXSc8VWZ",
-			"type": "text",
-			"x": 298.583251953125,
-			"y": -539.1041259765625,
-			"width": 89.09596252441406,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#d0bfff",
+			"id": "p9Dk8sz4",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 209.58343505859375,
+			"y": -959.1042175292969,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#d0bfff",
+			"width": 1009.5956420898438,
+			"height": 105,
+			"seed": 1673282479,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1453168239,
+			"boundElements": [],
+			"updated": 1700589874613,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "Goal: Given two crystal balls that will break if dropped from high enough\ndistance, determine the exact spot in which it will break in the most\noptimized way. (i.e.. the lowest floor where it breaks.)",
+			"rawText": "Goal: Given two crystal balls that will break if dropped from high enough\ndistance, determine the exact spot in which it will break in the most\noptimized way. (i.e.. the lowest floor where it breaks.)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Goal: Given two crystal balls that will break if dropped from high enough\ndistance, determine the exact spot in which it will break in the most\noptimized way. (i.e.. the lowest floor where it breaks.)",
+			"lineHeight": 1.25,
+			"baseline": 94
+		},
+		{
+			"type": "text",
 			"version": 71,
 			"versionNonce": 256975137,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "xXSc8VWZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 298.583251953125,
+			"y": -539.1041259765625,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#d0bfff",
+			"width": 89.09596252441406,
+			"height": 35,
+			"seed": 1453168239,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1700589859917,
 			"link": null,
 			"locked": false,
-			"text": "breaks",
-			"rawText": "breaks",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "breaks",
+			"rawText": "breaks",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 24,
 			"containerId": null,
 			"originalText": "breaks",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -529,41 +535,41 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 			"baseline": 24
 		},
 		{
-			"id": "6Kxi2Lpc",
 			"type": "text",
-			"x": 289.5833740234375,
-			"y": -108.43753051757812,
-			"width": 109.08795166015625,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#d0bfff",
+			"version": 61,
+			"versionNonce": 1493841807,
+			"isDeleted": false,
+			"id": "6Kxi2Lpc",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 289.5833740234375,
+			"y": -108.43753051757812,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#d0bfff",
+			"width": 109.08795166015625,
+			"height": 35,
+			"seed": 725425473,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 725425473,
-			"version": 61,
-			"versionNonce": 1493841807,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1700589859917,
 			"link": null,
 			"locked": false,
-			"text": "survives",
-			"rawText": "survives",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "survives",
+			"rawText": "survives",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 24,
 			"containerId": null,
 			"originalText": "survives",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -640,265 +646,339 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 			"baseline": 24
 		},
 		{
-			"id": "iHjx6rzc",
 			"type": "text",
-			"x": 652.916748046875,
-			"y": -594.7709045410156,
-			"width": 461.13177490234375,
-			"height": 315,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "#d0bfff",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1759603471,
 			"version": 454,
 			"versionNonce": 1783613633,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "iHjx6rzc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 652.916748046875,
+			"y": -594.7709045410156,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#d0bfff",
+			"width": 461.13177490234375,
+			"height": 315,
+			"seed": 1759603471,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1700589859918,
 			"link": null,
 			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
 			"text": "Things to Keep In Mind:\n\n1. We have two crystal balls to\nwork with.\n\n2. The array (building) is ordered\nif you assume that breaks is 0\nand survives is 1.\n",
 			"rawText": "Things to Keep In Mind:\n\n1. We have two crystal balls to\nwork with.\n\n2. The array (building) is ordered\nif you assume that breaks is 0\nand survives is 1.\n",
-			"fontSize": 28,
-			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 304,
 			"containerId": null,
 			"originalText": "Things to Keep In Mind:\n\n1. We have two crystal balls to\nwork with.\n\n2. The array (building) is ordered\nif you assume that breaks is 0\nand survives is 1.\n",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 304
 		},
 		{
-			"id": "1T6Dt3Oe",
 			"type": "text",
+			"version": 512,
+			"versionNonce": 881489697,
+			"isDeleted": false,
+			"id": "1T6Dt3Oe",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": 651.2499389648438,
-			"y": -208.10421752929688,
+			"y": -235.55524579216444,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "#d0bfff",
 			"width": 548.0158081054688,
 			"height": 385,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#d0bfff",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"seed": 1065387695,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1065387695,
-			"version": 496,
-			"versionNonce": 2046746575,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700589859918,
+			"boundElements": [],
+			"updated": 1700591429832,
 			"link": null,
 			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
 			"text": "To solve in a generic way, you have\nto:\n\n1. Do the equivalent of a jump in binary\nsearch, except instead of making the\njumps 1/2, make the jumps sqrt(n), until\none of the crystal balls breaks.\n\n2. Once the first ball breaks, walk \nbackwards 1 sqrt(n), and then linearly\nwalk from there until you hit a 1.",
 			"rawText": "To solve in a generic way, you have\nto:\n\n1. Do the equivalent of a jump in binary\nsearch, except instead of making the\njumps 1/2, make the jumps sqrt(n), until\none of the crystal balls breaks.\n\n2. Once the first ball breaks, walk \nbackwards 1 sqrt(n), and then linearly\nwalk from there until you hit a 1.",
-			"fontSize": 28,
-			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 374,
 			"containerId": null,
 			"originalText": "To solve in a generic way, you have\nto:\n\n1. Do the equivalent of a jump in binary\nsearch, except instead of making the\njumps 1/2, make the jumps sqrt(n), until\none of the crystal balls breaks.\n\n2. Once the first ball breaks, walk \nbackwards 1 sqrt(n), and then linearly\nwalk from there until you hit a 1.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 374
 		},
 		{
-			"id": "Hi6CDrxx",
 			"type": "text",
-			"x": 1315.25,
-			"y": -203.77096557617188,
-			"width": 425.5157775878906,
-			"height": 175,
+			"version": 443,
+			"versionNonce": 857865345,
+			"isDeleted": false,
+			"id": "Hi6CDrxx",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
 			"angle": 0,
+			"x": 1314.465877757353,
+			"y": -231.22199383903944,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#d0bfff",
+			"width": 425.5157775878906,
+			"height": 175,
+			"seed": 1271054095,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1700591554873,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "To solve in an easier way:\n\nLinearly walk until you hit a 1.\nThe index with a 1 is the most\noptimized drop point.",
+			"rawText": "To solve in an easier way:\n\nLinearly walk until you hit a 1.\nThe index with a 1 is the most\noptimized drop point.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "To solve in an easier way:\n\nLinearly walk until you hit a 1.\nThe index with a 1 is the most\noptimized drop point.",
+			"lineHeight": 1.25,
+			"baseline": 164
+		},
+		{
+			"type": "text",
+			"version": 150,
+			"versionNonce": 1490936545,
+			"isDeleted": false,
+			"id": "DXVhDibU",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1271054095,
-			"version": 410,
-			"versionNonce": 1371211937,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700589859918,
-			"link": null,
-			"locked": false,
-			"text": "To solve in an easier way:\n\nLinearly walk until you hit a 1.\nThe index with a 1 is the most\noptimized path.",
-			"rawText": "To solve in an easier way:\n\nLinearly walk until you hit a 1.\nThe index with a 1 is the most\noptimized path.",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 164,
-			"containerId": null,
-			"originalText": "To solve in an easier way:\n\nLinearly walk until you hit a 1.\nThe index with a 1 is the most\noptimized path.",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "DXVhDibU",
-			"type": "text",
+			"angle": 0,
 			"x": 1365.9166259765625,
-			"y": 24.5623779296875,
+			"y": -2.888650333180067,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#d0bfff",
 			"width": 294.4758605957031,
 			"height": 35,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#d0bfff",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
+			"seed": 1172394593,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1172394593,
-			"version": 134,
-			"versionNonce": 30412271,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700589859918,
+			"boundElements": [],
+			"updated": 1700591429832,
 			"link": null,
 			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
 			"text": "Time Complexity: O(N)",
 			"rawText": "Time Complexity: O(N)",
-			"fontSize": 28,
-			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 24,
 			"containerId": null,
 			"originalText": "Time Complexity: O(N)",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
-			"id": "JcOuvNdw",
 			"type": "text",
-			"x": 789.583251953125,
-			"y": 284.229248046875,
-			"width": 224.36526489257812,
-			"height": 106.58350123633586,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#d0bfff",
+			"version": 140,
+			"versionNonce": 398515905,
+			"isDeleted": false,
+			"id": "JcOuvNdw",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 788.7989860983457,
+			"y": 233.24880801930135,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#d0bfff",
+			"width": 224.3473663330078,
+			"height": 106.58350123633583,
+			"seed": 846427105,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 846427105,
-			"version": 109,
-			"versionNonce": 1299401857,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700589859918,
+			"boundElements": [],
+			"updated": 1700591429832,
 			"link": null,
 			"locked": false,
-			"text": "Time Complexity:\n\n",
-			"rawText": "Time Complexity:\n\n",
 			"fontSize": 28.422266996356225,
 			"fontFamily": 1,
+			"text": "Time Complexity:\n\n",
+			"rawText": "Time Complexity:\n\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 96.00000000000003,
 			"containerId": null,
 			"originalText": "Time Complexity:\n\n",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 96
 		},
 		{
-			"id": "97XcAg4U",
 			"type": "text",
-			"x": 679.9166259765625,
-			"y": 349.8958740234375,
-			"width": 488.123779296875,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#d0bfff",
+			"version": 125,
+			"versionNonce": 479813281,
+			"isDeleted": false,
+			"id": "97XcAg4U",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 679.1323601217832,
+			"y": 298.91543399586385,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#d0bfff",
+			"width": 488.123779296875,
+			"height": 35,
+			"seed": 728151553,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 728151553,
-			"version": 94,
-			"versionNonce": 1872132111,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700589859918,
+			"boundElements": [],
+			"updated": 1700591429832,
 			"link": null,
 			"locked": false,
-			"text": "O(C sqrt(n) + sqrt(n)) = O(sqrt(N))",
-			"rawText": "O(C sqrt(n) + sqrt(n)) = O(sqrt(N))",
 			"fontSize": 28,
 			"fontFamily": 1,
+			"text": "O(C sqrt(n) + sqrt(n)) = O(sqrt(N))",
+			"rawText": "O(C sqrt(n) + sqrt(n)) = O(sqrt(N))",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 24,
 			"containerId": null,
 			"originalText": "O(C sqrt(n) + sqrt(n)) = O(sqrt(N))",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
-			"id": "apDcTgR3CzpWTZzr1twxx",
 			"type": "ellipse",
-			"x": 1017.9168701171875,
-			"y": 324.56243896484375,
-			"width": 161.333251953125,
-			"height": 80.66668701171876,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 84,
+			"versionNonce": 370598529,
+			"isDeleted": false,
+			"id": "apDcTgR3CzpWTZzr1twxx",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 2,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1017.1326042624082,
+			"y": 273.5819989372701,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 161.333251953125,
+			"height": 80.66668701171876,
+			"seed": 648803311,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 648803311,
-			"version": 53,
-			"versionNonce": 1229626927,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1700589859919,
+			"boundElements": [],
+			"updated": 1700591429832,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "jnBhQisT",
 			"type": "text",
-			"x": 685.9166259765625,
-			"y": 428.22918701171875,
+			"version": 63,
+			"versionNonce": 821619297,
+			"isDeleted": false,
+			"id": "jnBhQisT",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 685.1323601217832,
+			"y": 377.2487469841451,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
 			"width": 316.5118713378906,
 			"height": 35,
+			"seed": 1098244257,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1700591429832,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "where C is a constant.",
+			"rawText": "where C is a constant.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "where C is a constant.",
+			"lineHeight": 1.25,
+			"baseline": 24
+		},
+		{
+			"type": "text",
+			"version": 272,
+			"versionNonce": 1405687087,
+			"isDeleted": false,
+			"id": "sBTaIwEw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
 			"angle": 0,
-			"strokeColor": "#e03131",
+			"x": 215.2503662109375,
+			"y": -800.7707290649414,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 882.923583984375,
+			"height": 70,
+			"seed": 1931890977,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1700589874613,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "You are given an input such as: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]\nwith a 0 representing a break, and a 1 representing a survives.",
+			"rawText": "You are given an input such as: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]\nwith a 0 representing a break, and a 1 representing a survives.",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "You are given an input such as: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]\nwith a 0 representing a break, and a 1 representing a survives.",
+			"lineHeight": 1.25,
+			"baseline": 59
+		},
+		{
+			"id": "vj6CQDq-cJs1tDjxH1Ei1",
+			"type": "image",
+			"x": 2110.8668876988595,
+			"y": -560.6089522417834,
+			"width": 1208.6746987951806,
+			"height": 776.470588235294,
+			"angle": 0,
+			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -908,32 +988,28 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1098244257,
-			"version": 32,
-			"versionNonce": 1020846145,
+			"seed": 2139385455,
+			"version": 82,
+			"versionNonce": 1190005153,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1700589859919,
+			"updated": 1700591943456,
 			"link": null,
 			"locked": false,
-			"text": "where C is a constant.",
-			"rawText": "where C is a constant.",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 24,
-			"containerId": null,
-			"originalText": "where C is a constant.",
-			"lineHeight": 1.25
+			"status": "pending",
+			"fileId": "f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2",
+			"scale": [
+				1,
+				1
+			]
 		},
 		{
-			"id": "sBTaIwEw",
+			"id": "ueT4zjFI",
 			"type": "text",
-			"x": 215.2503662109375,
-			"y": -800.7707290649414,
-			"width": 882.923583984375,
-			"height": 70,
+			"x": 2576.3802768482865,
+			"y": -666.8834919648992,
+			"width": 227.47189331054688,
+			"height": 35,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -945,559 +1021,24 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1931890977,
-			"version": 272,
-			"versionNonce": 1405687087,
+			"seed": 1186415023,
+			"version": 81,
+			"versionNonce": 111029633,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1700589874613,
+			"updated": 1700591943456,
 			"link": null,
 			"locked": false,
-			"text": "You are given an input such as: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]\nwith a 0 representing a break, and a 1 representing a survives.",
-			"rawText": "You are given an input such as: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]\nwith a 0 representing a break, and a 1 representing a survives.",
+			"text": "Solution In Code",
+			"rawText": "Solution In Code",
 			"fontSize": 28,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 59,
+			"baseline": 24,
 			"containerId": null,
-			"originalText": "You are given an input such as: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]\nwith a 0 representing a break, and a 1 representing a survives.",
+			"originalText": "Solution In Code",
 			"lineHeight": 1.25
-		},
-		{
-			"id": "le7Bdjw6ypE7jZRoEmKMy",
-			"type": "freedraw",
-			"x": 1060.5833740234375,
-			"y": 337.89581298828125,
-			"width": 166,
-			"height": 76,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#d0bfff",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1596951855,
-			"version": 128,
-			"versionNonce": 1429738593,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700589859919,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.6666259765625,
-					0
-				],
-				[
-					-2,
-					0
-				],
-				[
-					-3.333251953125,
-					2.220446049250313e-16
-				],
-				[
-					-4.6666259765625,
-					0
-				],
-				[
-					-6.6666259765625,
-					4.440892098500626e-16
-				],
-				[
-					-9.333251953125,
-					0
-				],
-				[
-					-13.333251953125,
-					0
-				],
-				[
-					-20,
-					0
-				],
-				[
-					-25.333251953125,
-					0
-				],
-				[
-					-26.6666259765625,
-					0
-				],
-				[
-					-29.333251953125,
-					0
-				],
-				[
-					-31.333251953125,
-					2
-				],
-				[
-					-32.6666259765625,
-					3.3333740234375
-				],
-				[
-					-35.333251953125,
-					4
-				],
-				[
-					-35.333251953125,
-					5.3333740234375
-				],
-				[
-					-36,
-					7.3333740234375
-				],
-				[
-					-36.6666259765625,
-					9.3333740234375
-				],
-				[
-					-36.6666259765625,
-					11.3333740234375
-				],
-				[
-					-38,
-					13.3333740234375
-				],
-				[
-					-38.6666259765625,
-					15.3333740234375
-				],
-				[
-					-38.6666259765625,
-					18
-				],
-				[
-					-40,
-					22
-				],
-				[
-					-40.6666259765625,
-					24.66668701171875
-				],
-				[
-					-41.333251953125,
-					26
-				],
-				[
-					-42.6666259765625,
-					28.66668701171875
-				],
-				[
-					-42.6666259765625,
-					30
-				],
-				[
-					-42.6666259765625,
-					32.66668701171875
-				],
-				[
-					-42.6666259765625,
-					34
-				],
-				[
-					-42.6666259765625,
-					36.66668701171875
-				],
-				[
-					-42.6666259765625,
-					38
-				],
-				[
-					-44,
-					40.66668701171875
-				],
-				[
-					-44,
-					42
-				],
-				[
-					-44,
-					43.3333740234375
-				],
-				[
-					-44,
-					46
-				],
-				[
-					-44,
-					47.3333740234375
-				],
-				[
-					-44,
-					48.66668701171875
-				],
-				[
-					-44,
-					50
-				],
-				[
-					-44,
-					50.66668701171875
-				],
-				[
-					-43.333251953125,
-					51.3333740234375
-				],
-				[
-					-42.6666259765625,
-					52
-				],
-				[
-					-42,
-					52.66668701171875
-				],
-				[
-					-40.6666259765625,
-					53.3333740234375
-				],
-				[
-					-38,
-					54
-				],
-				[
-					-32.6666259765625,
-					56.66668701171875
-				],
-				[
-					-28.6666259765625,
-					59.3333740234375
-				],
-				[
-					-24,
-					59.3333740234375
-				],
-				[
-					-18,
-					61.3333740234375
-				],
-				[
-					-11.333251953125,
-					64
-				],
-				[
-					-5.333251953125,
-					64
-				],
-				[
-					0,
-					66
-				],
-				[
-					6.666748046875,
-					66
-				],
-				[
-					12.666748046875,
-					67.3333740234375
-				],
-				[
-					17.3333740234375,
-					67.3333740234375
-				],
-				[
-					23.3333740234375,
-					67.3333740234375
-				],
-				[
-					27.3333740234375,
-					67.3333740234375
-				],
-				[
-					36.666748046875,
-					67.3333740234375
-				],
-				[
-					42.666748046875,
-					67.3333740234375
-				],
-				[
-					50.666748046875,
-					67.3333740234375
-				],
-				[
-					61.3333740234375,
-					67.3333740234375
-				],
-				[
-					66.666748046875,
-					67.3333740234375
-				],
-				[
-					75.3333740234375,
-					67.3333740234375
-				],
-				[
-					81.3333740234375,
-					67.3333740234375
-				],
-				[
-					85.3333740234375,
-					67.3333740234375
-				],
-				[
-					90,
-					66.66668701171875
-				],
-				[
-					92,
-					66.66668701171875
-				],
-				[
-					96.666748046875,
-					65.3333740234375
-				],
-				[
-					99.3333740234375,
-					64
-				],
-				[
-					101.3333740234375,
-					63.3333740234375
-				],
-				[
-					103.3333740234375,
-					61.3333740234375
-				],
-				[
-					106,
-					60
-				],
-				[
-					108,
-					58.66668701171875
-				],
-				[
-					108.666748046875,
-					57.3333740234375
-				],
-				[
-					110.666748046875,
-					55.3333740234375
-				],
-				[
-					112,
-					54
-				],
-				[
-					113.3333740234375,
-					50.66668701171875
-				],
-				[
-					116.666748046875,
-					46.66668701171875
-				],
-				[
-					118,
-					44
-				],
-				[
-					119.3333740234375,
-					41.3333740234375
-				],
-				[
-					119.3333740234375,
-					38.66668701171875
-				],
-				[
-					119.3333740234375,
-					37.3333740234375
-				],
-				[
-					120.666748046875,
-					34
-				],
-				[
-					120.666748046875,
-					32.66668701171875
-				],
-				[
-					121.3333740234375,
-					30.66668701171875
-				],
-				[
-					122,
-					30
-				],
-				[
-					122,
-					28.66668701171875
-				],
-				[
-					122,
-					27.3333740234375
-				],
-				[
-					122,
-					24.66668701171875
-				],
-				[
-					122,
-					22
-				],
-				[
-					122,
-					19.3333740234375
-				],
-				[
-					122,
-					17.3333740234375
-				],
-				[
-					122,
-					16
-				],
-				[
-					122,
-					13.3333740234375
-				],
-				[
-					120.666748046875,
-					13.3333740234375
-				],
-				[
-					119.3333740234375,
-					13.3333740234375
-				],
-				[
-					116,
-					12
-				],
-				[
-					112,
-					12
-				],
-				[
-					106,
-					10.66668701171875
-				],
-				[
-					99.3333740234375,
-					8.66668701171875
-				],
-				[
-					89.3333740234375,
-					6
-				],
-				[
-					83.3333740234375,
-					4
-				],
-				[
-					77.3333740234375,
-					2.66668701171875
-				],
-				[
-					70.666748046875,
-					-0.6666259765625
-				],
-				[
-					62,
-					-2
-				],
-				[
-					53.3333740234375,
-					-2
-				],
-				[
-					47.3333740234375,
-					-4
-				],
-				[
-					41.3333740234375,
-					-5.33331298828125
-				],
-				[
-					35.3333740234375,
-					-5.33331298828125
-				],
-				[
-					28.666748046875,
-					-7.33331298828125
-				],
-				[
-					22.666748046875,
-					-7.33331298828125
-				],
-				[
-					18.666748046875,
-					-8.6666259765625
-				],
-				[
-					11.3333740234375,
-					-8.6666259765625
-				],
-				[
-					8.666748046875,
-					-8.6666259765625
-				],
-				[
-					4,
-					-8.6666259765625
-				],
-				[
-					2,
-					-8.6666259765625
-				],
-				[
-					0.666748046875,
-					-8.6666259765625
-				],
-				[
-					-2,
-					-8.6666259765625
-				],
-				[
-					-3.333251953125,
-					-8.6666259765625
-				],
-				[
-					-5.333251953125,
-					-8.6666259765625
-				],
-				[
-					-6,
-					-8
-				],
-				[
-					-8,
-					-7.33331298828125
-				],
-				[
-					-8,
-					-6.6666259765625
-				],
-				[
-					-8.6666259765625,
-					-6.6666259765625
-				],
-				[
-					-10,
-					-4.6666259765625
-				],
-				[
-					-10,
-					-4.6666259765625
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				-10,
-				-4.6666259765625
-			]
 		}
 	],
 	"appState": {
@@ -1515,10 +1056,10 @@ with a 0 representing a break, and a 1 representing a survives. ^sBTaIwEw
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 702.91650390625,
-		"scrollY": 1035.2291946411133,
+		"scrollX": -440.4979239071107,
+		"scrollY": 999.1873895981706,
 		"zoom": {
-			"value": 1
+			"value": 0.8500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
