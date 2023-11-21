@@ -97,7 +97,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Drawing 2023-11-21 10.45.07.excalidraw.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md"
               }
             }
           }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Drawing 2023-11-21 10.45.07.excalidraw.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Drawing 2023-11-21 10.45.07.excalidraw.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Drawing 2023-11-21 10.45.07.excalidraw.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md"
               }
             }
           },
@@ -261,10 +261,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a4d35e500f39f6fd",
+  "active": "76cb5010646d13ab",
   "lastOpenFiles": [
     "General Programming Concepts/Data Structures and Algorithms/Binary Search.md",
-    "General Programming Concepts/Data Structures and Algorithms/Drawing 2023-11-21 10.45.07.excalidraw.md",
+    "General Programming Concepts/Data Structures and Algorithms/Two Crystal Balls Problem.md",
     "General Programming Concepts/Data Structures and Algorithms/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Arrays.md",
     "General Programming Concepts/Data Structures and Algorithms/Bitwise Division.md",
