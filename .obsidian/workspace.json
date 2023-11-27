@@ -120,9 +120,19 @@
                 "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md"
               }
             }
+          },
+          {
+            "id": "7900912f124f6c13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
               }
             }
           },
@@ -281,16 +291,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a4d35e500f39f6fd",
+  "active": "7900912f124f6c13",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
+    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Untitled.md",
+    "General Programming Concepts/Data Structures and Algorithms/Data Structures",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "Pasted Image 20231127111643_702.png",
     "Pasted Image 20231127111556_041.png",
     "Pasted Image 20231127111541_024.png",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md",
-    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "Pasted Image 20231127103813_889.png",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Untitled.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation",
@@ -319,7 +332,6 @@
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/ConfigMap.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
@@ -330,10 +342,8 @@
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg.crdownload",
-    "Async Await General Questions.pdf",
     "Screenshots/CheckboxIcons.png",
     "Screenshots/CheckboxTypes.png",
-    "Screenshots/Checkbox Icons.png",
     "Work Projects/Untitled.canvas"
   ]
 }
