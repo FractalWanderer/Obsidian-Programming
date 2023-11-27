@@ -127,7 +127,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md"
               }
             }
           },
@@ -293,13 +293,17 @@
   },
   "active": "7900912f124f6c13",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
+    "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Two Crystal Balls Problem.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
+    "General Programming Concepts/Programming Problems",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Untitled.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "Pasted Image 20231127111643_702.png",
     "Pasted Image 20231127111556_041.png",
     "Pasted Image 20231127111541_024.png",
@@ -310,9 +314,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Search",
     "General Programming Concepts/Data Structures and Algorithms/Basics",
     "Pasted Image 20231121123841_331.png",
-    "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
-    "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
-    "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
     "General Programming Concepts/Data Structures and Algorithms/Arrays.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
@@ -331,7 +332,6 @@
     "Rust/Error Handling.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/ConfigMap.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
@@ -341,7 +341,6 @@
     "Pasted image 20230926190650.png",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
-    "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg.crdownload",
     "Screenshots/CheckboxIcons.png",
     "Screenshots/CheckboxTypes.png",
     "Work Projects/Untitled.canvas"
