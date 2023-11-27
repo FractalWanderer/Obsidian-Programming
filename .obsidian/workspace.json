@@ -130,8 +130,19 @@
                 "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md"
               }
             }
+          },
+          {
+            "id": "96b026a4886573fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -197,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md"
               }
             }
           },
@@ -290,14 +301,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e864cc71485f02e5",
+  "active": "96b026a4886573fa",
   "lastOpenFiles": [
-    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
-    "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "General Programming Concepts/Programming Problems",
@@ -317,7 +329,6 @@
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Data Structures and Algorithms",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
