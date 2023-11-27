@@ -137,7 +137,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
               }
             }
           }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
               }
             }
           },
@@ -303,15 +303,15 @@
   },
   "active": "96b026a4886573fa",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
-    "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
-    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "General Programming Concepts/Programming Problems",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Untitled.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures",
