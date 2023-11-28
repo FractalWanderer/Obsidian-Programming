@@ -140,9 +140,19 @@
                 "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
               }
             }
+          },
+          {
+            "id": "11d358f9da930615",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -208,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md"
               }
             }
           },
@@ -301,16 +311,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "96b026a4886573fa",
+  "active": "11d358f9da930615",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
+    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
+    "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
-    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
-    "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "General Programming Concepts/Programming Problems",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Untitled.md",
