@@ -160,9 +160,19 @@
                 "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md"
               }
             }
+          },
+          {
+            "id": "ed63cf95bb92c3ac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Drawing 2023-11-28 14.01.53.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Drawing 2023-11-28 14.01.53.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Drawing 2023-11-28 14.01.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Drawing 2023-11-28 14.01.53.excalidraw.md"
               }
             }
           },
@@ -321,11 +331,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "de97c46366f81c8b",
+  "active": "ed63cf95bb92c3ac",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Drawing 2023-11-28 14.01.53.excalidraw.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
+    "General Programming Concepts/Data Structures and Algorithms/Untitled.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
-    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
@@ -361,14 +374,11 @@
     "Windows/Windows Command Line.md",
     "Linux/Linux Command Line.md",
     "Rust/Result Type.md",
-    "Rust/Error Handling.md",
-    "Kubernetes/AKS Command Line Commands.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
     "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
-    "Microservice Architecture Diagrams",
     "Pasted image 20230926190650.png",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
