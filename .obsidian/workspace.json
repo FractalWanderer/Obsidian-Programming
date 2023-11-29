@@ -167,7 +167,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md"
               }
             }
           }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md"
               }
             }
           },
@@ -333,15 +333,16 @@
   },
   "active": "ed63cf95bb92c3ac",
   "lastOpenFiles": [
-    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
+    "General Programming Concepts/Recursion.md",
+    "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
+    "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
+    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
     "General Programming Concepts/Data Structures and Algorithms/Untitled.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
-    "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
-    "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
@@ -373,7 +374,6 @@
     "Kubernetes/Guides/Deploying Production vs Development.md",
     "Windows/Windows Command Line.md",
     "Linux/Linux Command Line.md",
-    "Rust/Result Type.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
