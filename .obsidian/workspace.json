@@ -172,9 +172,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59032f2f244d29cc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md"
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -240,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Recursion/Recursion Drawn Example.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Recursion/Recursion Drawn Example.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Recursion/Recursion Drawn Example.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md"
               }
             }
           },
@@ -333,43 +343,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "5bf08b3dde92031c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ee8ef9e3dfe5b252",
-        "type": "window",
-        "children": [
-          {
-            "id": "49e019df51df60aa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5eff454efcd651f4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "General Programming Concepts/Recursion/Recursion Drawn Example.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1836,
-        "y": 310,
-        "width": 2096,
-        "height": 1361,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5eff454efcd651f4",
+  "active": "59032f2f244d29cc",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+    "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md",
     "General Programming Concepts/Recursion/Recursion.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
@@ -384,7 +361,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
-    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "General Programming Concepts/Programming Problems",
@@ -411,7 +387,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Guides/Deploying Production vs Development.md",
-    "Windows/Windows Command Line.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
