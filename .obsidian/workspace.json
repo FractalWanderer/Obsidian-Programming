@@ -165,9 +165,11 @@
             "id": "ed63cf95bb92c3ac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md"
+                "file": "General Programming Concepts/Recursion/Recursion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -238,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
+                "file": "General Programming Concepts/Recursion/Recursion Drawn Example.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
+                "file": "General Programming Concepts/Recursion/Recursion Drawn Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md"
+                "file": "General Programming Concepts/Recursion/Recursion Drawn Example.md"
               }
             }
           },
@@ -331,10 +333,48 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ed63cf95bb92c3ac",
+  "floating": {
+    "id": "5bf08b3dde92031c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ee8ef9e3dfe5b252",
+        "type": "window",
+        "children": [
+          {
+            "id": "49e019df51df60aa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5eff454efcd651f4",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "General Programming Concepts/Recursion/Recursion Drawn Example.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1414,
+        "y": 468,
+        "width": 2097,
+        "height": 1361,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5eff454efcd651f4",
   "lastOpenFiles": [
+    "General Programming Concepts/Recursion/Recursion.md",
+    "General Programming Concepts/Recursion/Recursion Drawn Example.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
-    "General Programming Concepts/Recursion.md",
+    "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
@@ -343,7 +383,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
@@ -373,11 +412,9 @@
     "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Guides/Deploying Production vs Development.md",
     "Windows/Windows Command Line.md",
-    "Linux/Linux Command Line.md",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Rust",
-    "Backgrounds/adventofcode.com_2022_day_2_input.txt",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
     "Pasted image 20230926190650.png",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
