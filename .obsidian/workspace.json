@@ -48,9 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ab8e498fad41708d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 371.5
   },
   "right": {
     "id": "ee744972240865e0",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -209,8 +221,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4f3ea21a4852fa0e",
+  "active": "ab8e498fad41708d",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
@@ -228,7 +243,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "General Programming Concepts/Programming Problems",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Untitled.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures",
@@ -244,9 +258,7 @@
     "Pasted Image 20231121123841_331.png",
     "General Programming Concepts/Data Structures and Algorithms/Arrays.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Data Structures and Algorithms",
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
