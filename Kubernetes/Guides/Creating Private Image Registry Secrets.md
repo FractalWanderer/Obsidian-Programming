@@ -10,7 +10,7 @@ When using private image registries for storing images, it is often the case tha
 
 >[!example]+ Azure Private Registry Options 
 >>[!warning] Important
->>If you are deploying to AKS authentication for pulling images from Azure's private registry is handled for you already. No need to perform any manual authentication.
+>>If you are deploying to AKS authentication for pulling images from Azure's private registry it is handled for you already. No need to perform any manual authentication.
 >>
 >
 >>[!abstract]+ Option 1: Admin User
