@@ -65,6 +65,14 @@ This host name targets a service that we will create later on in the guide. You 
 1. Both pods that need to communicate are located in the same [[Kubernetes Declarative Resource Definitions#Namespace|namespace]].
 2. A [[Kubernetes Declarative Resource Definitions#Service|service]] has been defined that can be targeted and that exposes the specific port of the other pod that requests need routed to. In this case, the service we will create at a later point has meta data defining "outpost-service" as the name. This outpost-service will route requests from the service itself, to a port contained on another pod that the service targets.
 
+> [!example] Deployment Command
+> 
+>```shell
+>kubectl apply -f your-file-name.yaml
+>```
+>>[!important]
+>>If you have multiple files for each deployment/service, just run the apply command for each one. Optionally, you can combined them all into a single file by separating them with '---' like the example. Then you only need to apply the one file.
+
 #### Step 2: Second Deployment
 ---
 Now we'll move onto the next deployment, which in this case is quite similar to the first. This one is actually slightly simpler.
