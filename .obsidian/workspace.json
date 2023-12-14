@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Security/Secure Storage Strategies/Key Stretching.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Security/Secure Storage Strategies/Key Stretching.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "Security/Secure Storage Strategies/Key Stretching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "Security/Secure Storage Strategies/Key Stretching.md"
               }
             }
           },
@@ -222,11 +221,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dc1ebd9e7e46336a",
+  "active": "ab8e498fad41708d",
   "lastOpenFiles": [
+    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "General Programming Concepts/Semaphore.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md",
@@ -257,7 +257,6 @@
     "Pasted Image 20231127111556_041.png",
     "Pasted Image 20231127111541_024.png",
     "Pasted Image 20231127103813_889.png",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Untitled.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation",
     "General Programming Concepts/Data Structures and Algorithms/Search",
