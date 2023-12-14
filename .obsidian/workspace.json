@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,7 +222,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ab8e498fad41708d",
+  "active": "dc1ebd9e7e46336a",
   "lastOpenFiles": [
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
