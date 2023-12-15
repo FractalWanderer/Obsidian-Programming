@@ -60,9 +60,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9bb0d051d9673eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Secure Storage Strategies/Key Stretching.md",
+                "file": "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Secure Storage Strategies/Key Stretching.md",
+                "file": "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Secure Storage Strategies/Key Stretching.md"
+                "file": "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md"
               }
             }
           },
@@ -221,8 +231,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ab8e498fad41708d",
+  "active": "c9bb0d051d9673eb",
   "lastOpenFiles": [
+    "Security/Secure Storage Strategies/Key Stretching.md",
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
@@ -249,9 +261,7 @@
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
-    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "General Programming Concepts/Programming Problems",
-    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Untitled.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures",
     "Pasted Image 20231127111643_702.png",
     "Pasted Image 20231127111556_041.png",
