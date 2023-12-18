@@ -24,5 +24,14 @@
       ],
       "key": "R"
     }
+  ],
+  "no-width-space-plugin:insert-zero-width-space": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
   ]
 }
