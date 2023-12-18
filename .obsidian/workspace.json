@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "ab8e498fad41708d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security/Secure Storage Strategies/Key Stretching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c9bb0d051d9673eb",
             "type": "leaf",
             "state": {
@@ -72,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,6 +221,7 @@
   },
   "active": "c9bb0d051d9673eb",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Security/Secure Storage Strategies/Key Stretching.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
@@ -249,7 +238,6 @@
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
     "General Programming Concepts/Recursion",
