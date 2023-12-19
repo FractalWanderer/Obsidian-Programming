@@ -31,8 +31,6 @@ cd <YourDirectoryPath>
 cd ..
 ```
 
-
-
 #### Create a New Directory
 
 ```shell
