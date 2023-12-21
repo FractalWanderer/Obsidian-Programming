@@ -55,7 +55,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md"
+                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md"
               }
             }
           },
@@ -221,6 +221,7 @@
   },
   "active": "c9bb0d051d9673eb",
   "lastOpenFiles": [
+    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
@@ -237,7 +238,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
