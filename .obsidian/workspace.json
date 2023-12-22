@@ -53,9 +53,11 @@
             "id": "c9bb0d051d9673eb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md"
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md"
+                "file": "General Programming Concepts/Composition vs Inheritance.md"
               }
             }
           },
@@ -221,6 +223,14 @@
   },
   "active": "c9bb0d051d9673eb",
   "lastOpenFiles": [
+    "General Programming Concepts/Recursion/Recursion Drawn Example.md",
+    "General Programming Concepts/Recursion/Recursion.md",
+    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
+    "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md",
+    "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
+    "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
@@ -239,14 +249,6 @@
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
     "General Programming Concepts/Programming Problems",
