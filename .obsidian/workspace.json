@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md"
               }
             }
           },
@@ -220,8 +221,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e864cc71485f02e5",
+  "active": "c9bb0d051d9673eb",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
     "General Programming Concepts/Composition vs Inheritance.md",
@@ -242,12 +246,9 @@
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Windows/Windows Command Line.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
     "General Programming Concepts/Programming Problems",
