@@ -70,9 +70,21 @@
                 "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "27a7c1683aa8533f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +130,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -232,16 +245,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b875c20661bb109",
+  "active": "dc1ebd9e7e46336a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "General Programming Concepts/Phase Spaces and Software Complexity.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "General Programming Concepts/Phase Spaces and Software Complexity.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
     "General Programming Concepts/Recursion/Recursion.md",
@@ -259,7 +273,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
     "Windows/Windows Command Line.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
     "General Programming Concepts/Programming Problems",
