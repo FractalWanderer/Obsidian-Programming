@@ -222,7 +222,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Justin Bieber\nJustin Timberlake\nJohn Snow",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -259,7 +259,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "VIP",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -296,7 +296,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "1.0.0.1\n1.0.0.2\n1.0.0.3",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -333,7 +333,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Address Range / Bouncer",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -399,7 +399,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "ServiceConnection + Private Endpoint",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -436,7 +436,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Staff / Range of 2's",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -473,7 +473,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Janitor\nPerformer\nOwner\nBartender",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -510,7 +510,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "2.0.0.1 Pod 1\n2.0.0.2 Pod 2\n2.0.0.3 Node 1\n2.80.424.101 Node 2",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -547,7 +547,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Cluster V-NET",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -584,7 +584,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "2.0.0.1 Pod 1\n2.0.0.2 Pod 2\n2.0.0.3 Node 1\n2.80.424.101 Node 2",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "text",
@@ -621,7 +621,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Datalake Firewall",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "ellipse",
@@ -716,7 +716,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Basic",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -753,7 +753,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "States",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -834,7 +834,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "idle",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -871,7 +871,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "simple move/attack",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "ellipse",
@@ -966,7 +966,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Hunter",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -1003,7 +1003,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "States",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -1084,7 +1084,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "idle",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1121,7 +1121,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "wander",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1158,7 +1158,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Trigger Priority",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -1239,7 +1239,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "sight",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1276,7 +1276,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "sound",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1313,7 +1313,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "smell",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "ellipse",
@@ -1375,8 +1375,8 @@ Random ^mJBL8G8B
 		},
 		{
 			"type": "text",
-			"version": 372,
-			"versionNonce": 1639259942,
+			"version": 397,
+			"versionNonce": 247733804,
 			"isDeleted": false,
 			"id": "WfcYdESg",
 			"fillStyle": "solid",
@@ -1385,8 +1385,8 @@ Random ^mJBL8G8B
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2656.5658425148918,
-			"y": -49.448057718848645,
+			"x": -2600.5658425148918,
+			"y": -52.448057718848645,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 44.83995056152344,
@@ -1396,7 +1396,7 @@ Random ^mJBL8G8B
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704221077076,
+			"updated": 1704239379363,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1408,7 +1408,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "todo",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1445,12 +1445,12 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Context Menu: Fix context menu, you can use the transform of the context menu to position it to the right of the cursor.\nUI objects use both screen space, and world space for positioning. If you change the transform, it modifies\nthe origin of the screen space to match the transform. Normally the top left of the screen is considered \"(0,0)\"\nfor the flexbox in screen space, but this is modified when the transform is moved.",
 			"lineHeight": 1.25,
-			"baseline": 92
+			"baseline": 93
 		},
 		{
 			"type": "rectangle",
-			"version": 596,
-			"versionNonce": 849874342,
+			"version": 629,
+			"versionNonce": 1811097900,
 			"isDeleted": false,
 			"id": "WfYYcCk5vOGmdcMKI2faq",
 			"fillStyle": "solid",
@@ -1464,7 +1464,7 @@ Random ^mJBL8G8B
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 174.90198471966903,
-			"height": 220.39213292738964,
+			"height": 175.39213292738964,
 			"seed": 1527921318,
 			"groupIds": [],
 			"frameId": null,
@@ -1472,7 +1472,7 @@ Random ^mJBL8G8B
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1704221077076,
+			"updated": 1704239330405,
 			"link": null,
 			"locked": false
 		},
@@ -1511,7 +1511,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "spawn object",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1548,7 +1548,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "examine",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1585,7 +1585,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Deep Space Purple: A rich, dark purple that can serve as an excellent base color. It's perfect for night scenes, and evokes a sense of the mysterious and unknown, aligning well with the lunar phases and the nocturnal theme of your game.\n\nMidnight Blue: A deep, soothing blue to complement the deep space purple. This color can be used for sky elements, water, or as a contrast to the darker areas of your game world.\n\nMoonlight Silver: A light, almost ethereal silver that can be used for highlighting important elements, like the moon, certain characters, or special objects. It gives a mystical and magical vibe.\n\nTwilight Grey: A soft, muted grey to balance the darker tones. It's versatile for backgrounds, buildings, and pathways, providing a nice contrast without being too bright.\n\nEclipse Red: A vibrant, deep red to add a touch of danger and intensity. This color can symbolize threat, such as the hoard attacks during the lunar eclipse, making those events visually striking.\n\nStarry White: A crisp, bright white for stars, UI elements, or to add highlights. It can bring clarity and focus to specific game elements, ensuring they stand out against the darker backdrop.\n\nForest Green: A muted, natural green to represent the flora or uncorrupted areas of your game world. It's a calming color that can provide visual relief and denote safe zones.",
 			"lineHeight": 1.25,
-			"baseline": 317
+			"baseline": 318
 		},
 		{
 			"type": "text",
@@ -1622,7 +1622,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "New color pallet",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1659,7 +1659,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Use new color pallet.",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1696,7 +1696,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "spawn multiple",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1733,7 +1733,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Collision detection using rapier",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1770,7 +1770,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Refactor from old",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1803,8 +1803,8 @@ Random ^mJBL8G8B
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 687232550,
+			"version": 246,
+			"versionNonce": 455415444,
 			"isDeleted": false,
 			"id": "xJcSm6nN",
 			"fillStyle": "solid",
@@ -1813,8 +1813,8 @@ Random ^mJBL8G8B
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -3318.0425874751986,
-			"y": 489.5117347847213,
+			"x": -3326.0425874751986,
+			"y": 510.5117347847213,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 157.21983337402344,
@@ -1824,7 +1824,7 @@ Random ^mJBL8G8B
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704221077076,
+			"updated": 1704239398087,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1836,12 +1836,12 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Prototype smell.",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 636,
-			"versionNonce": 561018298,
+			"version": 657,
+			"versionNonce": 753738772,
 			"isDeleted": false,
 			"id": "PXOarPsQ",
 			"fillStyle": "solid",
@@ -1850,8 +1850,8 @@ Random ^mJBL8G8B
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -3138.676489184713,
-			"y": 485.56021043207704,
+			"x": -3146.676489184713,
+			"y": 506.56021043207704,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 1317.9791259765625,
@@ -1861,7 +1861,7 @@ Random ^mJBL8G8B
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1704228896976,
+			"updated": 1704239398087,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1873,7 +1873,7 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "I need to pathfind along smell in a very particular way. I was going to mark any stepped on tiles as having a \"smell\" associated\nwith them, and pathfind along the marked tiles until the player is found. I need the exploration to happen in real time, and I think\nmy current plan is to have a timer associated with the smell, which when hits a threshold the smell will remove itself from the tile.\nIt seems to make sense to me to pathfind towards the smell that is freshest, so my plan was to discover all of the tiles that\nare connected by smell, and then use the most fresh smell as the end target to pathfind to. Then, if the player is \"seen\" to switch\n the pathfinding directly onto the player. When sight finds the player, the only thing that needs to change is the target.",
 			"lineHeight": 1.25,
-			"baseline": 142
+			"baseline": 143
 		},
 		{
 			"type": "text",
@@ -1910,73 +1910,73 @@ Random ^mJBL8G8B
 			"containerId": null,
 			"originalText": "Enemy movement.",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
-			"id": "7kWPSyoUCnhQS49v5Mh-T",
 			"type": "rectangle",
-			"x": -3343.793318915348,
-			"y": 459.04437821358437,
-			"width": 1550.2223307291665,
-			"height": 416.888916015625,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 116,
+			"versionNonce": 894927252,
+			"isDeleted": false,
+			"id": "7kWPSyoUCnhQS49v5Mh-T",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -3351.793318915348,
+			"y": 480.04437821358437,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 1550.2223307291665,
+			"height": 416.888916015625,
+			"seed": 822657338,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 822657338,
-			"version": 95,
-			"versionNonce": 1292526246,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704228922408,
+			"boundElements": [],
+			"updated": 1704239398087,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "mJBL8G8B",
 			"type": "text",
-			"x": -3314.9042401393053,
-			"y": 571.0443782135841,
-			"width": 121.95989990234375,
-			"height": 175,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 117,
+			"versionNonce": 1268395796,
+			"isDeleted": false,
+			"id": "mJBL8G8B",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -3322.9042401393053,
+			"y": 592.0443782135841,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 121.95989990234375,
+			"height": 175,
+			"seed": 1901403194,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1901403194,
-			"version": 96,
-			"versionNonce": 416123450,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1704228972962,
+			"boundElements": [],
+			"updated": 1704239398087,
 			"link": null,
 			"locked": false,
-			"text": "TargetEnum:\n\nNone,\nPlayer,\nDoor,\nWeakpoint,\nRandom",
-			"rawText": "TargetEnum:\n\nNone,\nPlayer,\nDoor,\nWeakpoint,\nRandom",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "TargetEnum:\n\nNone,\nPlayer,\nDoor,\nWeakpoint,\nRandom",
+			"rawText": "TargetEnum:\n\nNone,\nPlayer,\nDoor,\nWeakpoint,\nRandom",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 167,
 			"containerId": null,
 			"originalText": "TargetEnum:\n\nNone,\nPlayer,\nDoor,\nWeakpoint,\nRandom",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 168
 		}
 	],
 	"appState": {
@@ -1994,10 +1994,10 @@ Random ^mJBL8G8B
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3443.5709068059714,
-		"scrollY": 383.3444564218321,
+		"scrollX": 3463.2216991647074,
+		"scrollY": 237.5322394201478,
 		"zoom": {
-			"value": 0.7500000000000002
+			"value": 1.0000000000000004
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
