@@ -60,9 +60,63 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "708fcb5dfa8c292f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e67a465401e5b80f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Security/Certificates.md"
+              }
+            }
+          },
+          {
+            "id": "317de2220f829782",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Security/Certificates.md"
+              }
+            }
+          },
+          {
+            "id": "b100d3f17365d754",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Security/Certificates.md"
+              }
+            }
+          },
+          {
+            "id": "49d161ccca3ac74b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -128,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -205,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,18 +276,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c9bb0d051d9673eb",
+  "active": "49d161ccca3ac74b",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "General Programming Concepts/Phase Spaces and Software Complexity.md",
+    "General Programming Concepts/Security/Certificates.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
+    "General Programming Concepts/Security",
+    "General Programming Concepts/Phase Spaces and Software Complexity.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
     "General Programming Concepts/Recursion/Recursion.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
@@ -248,9 +304,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
     "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
-    "General Programming Concepts/Data Structures and Algorithms/Basics/Arrays.md",
-    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
-    "Windows/Windows Command Line.md",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
     "General Programming Concepts/Programming Problems",
@@ -269,7 +322,6 @@
     "General Programming Concepts/Data Structures and Algorithms",
     "C-Sharp/Fundamentals/Loops.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
-    "Rust",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
     "Pasted image 20230926190650.png",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
