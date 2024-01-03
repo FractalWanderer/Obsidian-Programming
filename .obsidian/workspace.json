@@ -79,14 +79,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md",
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md"
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
               }
             }
           },
@@ -246,8 +245,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b100d3f17365d754",
+  "active": "e864cc71485f02e5",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/AKS Command Line Commands.md",
     "General Programming Concepts/Security/Certificates.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
@@ -256,11 +258,9 @@
     "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Security",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
     "General Programming Concepts/Recursion/Recursion.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
