@@ -60,29 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8b875c20661bb109",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "27a7c1683aa8533f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md"
               }
             }
           },
@@ -225,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,15 +223,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "27a7c1683aa8533f",
+  "active": "c9bb0d051d9673eb",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "General Programming Concepts/Phase Spaces and Software Complexity.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "General Programming Concepts/Phase Spaces and Software Complexity.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "General Programming Concepts/Composition vs Inheritance.md",
