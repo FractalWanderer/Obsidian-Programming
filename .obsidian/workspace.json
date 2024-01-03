@@ -74,49 +74,19 @@
             }
           },
           {
-            "id": "e67a465401e5b80f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "General Programming Concepts/Security/Certificates.md"
-              }
-            }
-          },
-          {
-            "id": "317de2220f829782",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "General Programming Concepts/Security/Certificates.md"
-              }
-            }
-          },
-          {
             "id": "b100d3f17365d754",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "General Programming Concepts/Security/Certificates.md"
-              }
-            }
-          },
-          {
-            "id": "49d161ccca3ac74b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Kubernetes/AKS Command Line Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Kubernetes/AKS Command Line Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Kubernetes/AKS Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Kubernetes/AKS Command Line Commands.md"
               }
             }
           },
@@ -276,7 +246,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "49d161ccca3ac74b",
+  "active": "b100d3f17365d754",
   "lastOpenFiles": [
     "General Programming Concepts/Security/Certificates.md",
     "conflict-files-obsidian-git.md",
