@@ -84,8 +84,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54a17d413a273f60",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General Programming Concepts/Security/Certificates.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "General Programming Concepts/Security/Certificates.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "file": "General Programming Concepts/Security/Certificates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md"
+                "file": "General Programming Concepts/Security/Certificates.md"
               }
             }
           },
@@ -245,20 +256,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e864cc71485f02e5",
+  "active": "54a17d413a273f60",
   "lastOpenFiles": [
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/AKS Command Line Commands.md",
     "General Programming Concepts/Security/Certificates.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Security",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
