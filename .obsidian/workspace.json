@@ -89,9 +89,11 @@
             "id": "54a17d413a273f60",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "General Programming Concepts/Security/Certificates.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -99,14 +101,16 @@
             "id": "4f4b4db6305f0a46",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "General Programming Concepts/Security/Certificates.md"
+                "file": "Kubernetes/AKS Command Line Commands.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -172,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Security/Certificates.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Security/Certificates.md",
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Security/Certificates.md"
+                "file": "Kubernetes/Kubernetes Yaml File Definitions/Value From.md"
               }
             }
           },
@@ -266,17 +270,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4f4b4db6305f0a46",
+  "active": "54a17d413a273f60",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
+    "Kubernetes/AKS Command Line Commands.md",
+    "Kubernetes/ConfigMap.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Kubernetes/Public to Private flow of control.md",
+    "General Programming Concepts/Security/Certificates.md",
     "General Programming Concepts/Race Conditions.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-    "General Programming Concepts/Security/Certificates.md",
-    "Kubernetes/Public to Private flow of control.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "Kubernetes/AKS Command Line Commands.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "General Programming Concepts/Composition vs Inheritance.md",
@@ -293,8 +299,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Linked List.md",
-    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
-    "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
     "General Programming Concepts/Programming Problems",
