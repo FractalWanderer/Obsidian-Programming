@@ -50,30 +50,6 @@
             }
           },
           {
-            "id": "c9bb0d051d9673eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "708fcb5dfa8c292f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b100d3f17365d754",
             "type": "leaf",
             "state": {
@@ -108,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -268,9 +244,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "708fcb5dfa8c292f",
+  "active": "4f3ea21a4852fa0e",
   "lastOpenFiles": [
+    "General Programming Concepts/Phase Spaces and Software Complexity.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "General Programming Concepts/Security/Certificates.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
@@ -278,7 +256,6 @@
     "Kubernetes/ConfigMap.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Public to Private flow of control.md",
-    "General Programming Concepts/Security/Certificates.md",
     "General Programming Concepts/Race Conditions.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
@@ -286,7 +263,6 @@
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Security",
-    "General Programming Concepts/Phase Spaces and Software Complexity.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
