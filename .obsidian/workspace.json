@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md"
+                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md"
               }
             }
           },
@@ -268,10 +268,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54a17d413a273f60",
+  "active": "708fcb5dfa8c292f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/AKS Command Line Commands.md",
