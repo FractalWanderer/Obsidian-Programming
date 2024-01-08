@@ -82,9 +82,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e0bdd06abea0b9b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
+                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md"
               }
             }
           },
@@ -244,17 +254,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4f3ea21a4852fa0e",
+  "active": "7e0bdd06abea0b9b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "General Programming Concepts/Security/Certificates.md",
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/ConfigMap.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Kubernetes/Public to Private flow of control.md",
     "General Programming Concepts/Race Conditions.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
