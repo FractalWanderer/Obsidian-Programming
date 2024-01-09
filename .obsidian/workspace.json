@@ -65,9 +65,11 @@
             "id": "54a17d413a273f60",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md"
+                "file": "General Programming Concepts/Mutexes.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+                "file": "General Programming Concepts/Mutexes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+                "file": "General Programming Concepts/Mutexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md"
+                "file": "General Programming Concepts/Mutexes.md"
               }
             }
           },
@@ -244,12 +246,13 @@
   },
   "active": "54a17d413a273f60",
   "lastOpenFiles": [
+    "General Programming Concepts/Git Conflict Explanation.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
+    "General Programming Concepts/Security/Certificates.md",
+    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
-    "General Programming Concepts/Security/Certificates.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
-    "General Programming Concepts/Git Conflict Explanation.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
@@ -266,7 +269,6 @@
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
     "General Programming Concepts/Recursion/Recursion.md",
-    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
