@@ -67,7 +67,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md"
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md"
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
               }
             }
           },
@@ -244,12 +244,15 @@
   },
   "active": "54a17d413a273f60",
   "lastOpenFiles": [
-    "Kubernetes/AKS Command Line Commands.md",
-    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+    "General Programming Concepts/Security/Certificates.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
+    "General Programming Concepts/Git Conflict Explanation.md",
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
-    "General Programming Concepts/Security/Certificates.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/ConfigMap.md",
@@ -258,8 +261,6 @@
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Security",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
@@ -270,7 +271,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
     "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding/Depth-First Search (DFS).md",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
     "General Programming Concepts/Programming Problems",
