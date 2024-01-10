@@ -59,8 +59,3 @@ public class ExampleSemaphoreUsage
     }
 }
 ```
-
-> [!example]
-> ```yaml
-> <​lkjljl>
->```

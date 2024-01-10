@@ -62,18 +62,6 @@
             }
           },
           {
-            "id": "54a17d413a273f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Programming Concepts/Mutexes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7e0bdd06abea0b9b",
             "type": "leaf",
             "state": {
@@ -84,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Mutexes.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Mutexes.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Mutexes.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -244,8 +232,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54a17d413a273f60",
+  "active": "b100d3f17365d754",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+    "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Git Conflict Explanation.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Security/Certificates.md",
@@ -254,7 +245,6 @@
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Kubernetes/AKS Command Line Commands.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
@@ -271,8 +261,6 @@
     "General Programming Concepts/Recursion/Recursion.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Quick Sort.md",
     "General Programming Concepts/Data Structures and Algorithms/Sorting/Bubble Sort.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Linear Search.md",
-    "General Programming Concepts/Data Structures and Algorithms/Search/Binary Search.md",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
     "General Programming Concepts/Programming Problems",
