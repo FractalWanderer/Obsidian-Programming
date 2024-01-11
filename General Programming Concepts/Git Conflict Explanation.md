@@ -68,7 +68,7 @@ branch: Test ^iyqXEMRQ
 
 GitLab ^KpbBaLaC
 
-Step 2: Merge the branches ^fIWOpo1W
+Step 4: Merge the branches ^fIWOpo1W
 
 my-file.txt ^UrssAq9q
 
@@ -1954,8 +1954,8 @@ Conflict: ^vVG6j3Hi
 		},
 		{
 			"type": "text",
-			"version": 555,
-			"versionNonce": 880840267,
+			"version": 557,
+			"versionNonce": 1453551638,
 			"isDeleted": false,
 			"id": "fIWOpo1W",
 			"fillStyle": "hachure",
@@ -1968,24 +1968,24 @@ Conflict: ^vVG6j3Hi
 			"y": 2632.192169251723,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 274.43975830078125,
+			"width": 272.999755859375,
 			"height": 25,
 			"seed": 170864523,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703688271092,
+			"updated": 1704990879893,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Step 2: Merge the branches",
-			"rawText": "Step 2: Merge the branches",
+			"text": "Step 4: Merge the branches",
+			"rawText": "Step 4: Merge the branches",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Step 2: Merge the branches",
+			"originalText": "Step 4: Merge the branches",
 			"lineHeight": 1.25,
 			"baseline": 17
 		},

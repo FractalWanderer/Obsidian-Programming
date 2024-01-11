@@ -55,7 +55,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "General Programming Concepts/Git Conflict Explanation.md"
+                "file": "Networking/DNS Resolution.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Git Conflict Explanation.md",
+                "file": "Networking/DNS Resolution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Git Conflict Explanation.md",
+                "file": "Networking/DNS Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Git Conflict Explanation.md"
+                "file": "Networking/DNS Resolution.md"
               }
             }
           },
@@ -233,9 +233,9 @@
   },
   "active": "b100d3f17365d754",
   "lastOpenFiles": [
+    "General Programming Concepts/Git Conflict Explanation.md",
     "Networking/DNS Resolution.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "General Programming Concepts/Git Conflict Explanation.md",
     "Networking",
     "General Programming Concepts/Security/Certificates.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
