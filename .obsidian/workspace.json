@@ -68,19 +68,9 @@
                 "file": "Networking/DNS Resolution.md"
               }
             }
-          },
-          {
-            "id": "7e0bdd06abea0b9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/DNS Resolution.md",
+                "file": "General Programming Concepts/Git Conflict Explanation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/DNS Resolution.md",
+                "file": "General Programming Concepts/Git Conflict Explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/DNS Resolution.md"
+                "file": "General Programming Concepts/Git Conflict Explanation.md"
               }
             }
           },
@@ -241,17 +231,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "76cb5010646d13ab",
+  "active": "b100d3f17365d754",
   "lastOpenFiles": [
-    "General Programming Concepts/Git Conflict Explanation.md",
     "Networking/DNS Resolution.md",
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "General Programming Concepts/Git Conflict Explanation.md",
     "Networking",
     "General Programming Concepts/Security/Certificates.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
     "General Programming Concepts/Recursion/Recursion.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Public to Private flow of control.md",

@@ -50,7 +50,7 @@ GitLab ^jdKfSsWK
 
 Hello world! This is some extra text! ^L1uALo3h
 
-Step 2: Change the text in the file, and push to the Test branch. ^BeR7BvyU
+Step 3: Change the text in the file, and push to the Test branch. ^BeR7BvyU
 
 my-file.txt ^dML8CWXK
 
@@ -1385,8 +1385,8 @@ Conflict: ^vVG6j3Hi
 		},
 		{
 			"type": "text",
-			"version": 493,
-			"versionNonce": 411486539,
+			"version": 495,
+			"versionNonce": 1274140118,
 			"isDeleted": false,
 			"id": "BeR7BvyU",
 			"fillStyle": "hachure",
@@ -1399,24 +1399,24 @@ Conflict: ^vVG6j3Hi
 			"y": 1526.0828002746164,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 664.4595336914062,
+			"width": 663.8395385742188,
 			"height": 25,
 			"seed": 1637841797,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703688271091,
+			"updated": 1704990873994,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Step 2: Change the text in the file, and push to the Test branch.",
-			"rawText": "Step 2: Change the text in the file, and push to the Test branch.",
+			"text": "Step 3: Change the text in the file, and push to the Test branch.",
+			"rawText": "Step 3: Change the text in the file, and push to the Test branch.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Step 2: Change the text in the file, and push to the Test branch.",
+			"originalText": "Step 3: Change the text in the file, and push to the Test branch.",
 			"lineHeight": 1.25,
 			"baseline": 17
 		},
@@ -2568,7 +2568,7 @@ Conflict: ^vVG6j3Hi
 		"currentItemStartArrowhead": "bar",
 		"currentItemEndArrowhead": "bar",
 		"scrollX": 1887.2244140702633,
-		"scrollY": -2317.5464868545223,
+		"scrollY": -2117.5464868545223,
 		"zoom": {
 			"value": 0.7500000000000001
 		},
