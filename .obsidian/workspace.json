@@ -48,19 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b100d3f17365d754",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Networking/DNS Resolution.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/DNS Resolution.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/DNS Resolution.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/DNS Resolution.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -221,10 +211,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b100d3f17365d754",
+  "active": "4f3ea21a4852fa0e",
   "lastOpenFiles": [
-    "General Programming Concepts/Git Conflict Explanation.md",
     "Networking/DNS Resolution.md",
+    "General Programming Concepts/Git Conflict Explanation.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Networking",
     "General Programming Concepts/Security/Certificates.md",
