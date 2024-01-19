@@ -48,31 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "73f5fea54d0f8811",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "7635d77335e6436b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -233,12 +211,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7635d77335e6436b",
+  "active": "4f3ea21a4852fa0e",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
+    "C-Sharp/Best Practices/Avoid Out Keyword.md",
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Networking/DNS Resolution.md",
@@ -257,11 +241,6 @@
     "Kubernetes/AKS Command Line Commands.md",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Kubernetes/ConfigMap.md",
-    "General Programming Concepts/Race Conditions.md",
-    "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
-    "conflict-files-obsidian-git.md",
     "General Programming Concepts/Security",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
@@ -277,9 +256,7 @@
     "General Programming Concepts/Data Structures and Algorithms/Basics",
     "Pasted Image 20231121123841_331.png",
     "General Programming Concepts/Data Structures and Algorithms/Arrays.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Fundamentals/Loops.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
     "Pasted image 20230926190650.png",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",

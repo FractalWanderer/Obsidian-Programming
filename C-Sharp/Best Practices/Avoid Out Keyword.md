@@ -9,7 +9,7 @@ last-modified: 2023-09-04
 
 **State Complexity**: The primary reason for why you should avoid the keyword is simple. It forces you to hold more information about the application state within your head at once. I ran into this full force during game development, and getting rid of the 'out' keyword instantly helped to simplify my code. This simplification ended up being easier in virtually every way, and I saw no downsides to the simplification. Not only this, but I can hardly think of a more ideal situation in which to employ the usage of the 'out' keyword, and yet, even in the perfect scenario it was terrible in the implementation.
 
-[^1]: It is worth noting here, I'm mostly talking about the common practice that is implemented by using both an 'out' keyword paired with a return type of 'bool' to show the success state of the method. I haven't experimented much outside of this usage. 
+[^1]: It is worth noting here, I'm mostly talking about the common practice that is implemented by using both an 'out' keyword paired with a return type of 'bool' to show the success state of the method. I haven't experimented much outside of this usage.
 #### Example
 
 ###### Original
