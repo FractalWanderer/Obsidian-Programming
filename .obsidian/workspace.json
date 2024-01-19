@@ -48,9 +48,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "73f5fea54d0f8811",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+                "file": "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
+                "file": "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md"
               }
             }
           },
@@ -211,13 +221,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4f3ea21a4852fa0e",
+  "active": "73f5fea54d0f8811",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
+    "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Networking/DNS Resolution.md",
     "General Programming Concepts/Git Conflict Explanation.md",
     "Networking",
