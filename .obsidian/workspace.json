@@ -48,6 +48,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "41b91c77e2c35e94",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -213,6 +223,9 @@
   },
   "active": "4f3ea21a4852fa0e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
@@ -222,9 +235,6 @@
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Networking/DNS Resolution.md",
     "General Programming Concepts/Git Conflict Explanation.md",
     "Networking",
