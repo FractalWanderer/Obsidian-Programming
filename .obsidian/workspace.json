@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "user secrets",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md"
+                "file": "General Programming Concepts/Composition vs Inheritance.md"
               }
             }
           },
@@ -225,35 +224,36 @@
   },
   "active": "a604ddb63c6e562a",
   "lastOpenFiles": [
+    "General Programming Concepts/Security/Certificates.md",
+    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
+    "Security/Secure Storage Strategies/Key Stretching.md",
+    "Screenshots/boxing-unboxing example.png",
+    "Rust/Result Type.md",
+    "Rust/Error Handling.md",
+    "Networking/DNS Resolution.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
+    "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
     "Kubernetes/AKS Command Line Commands.md",
-    "Networking/DNS Resolution.md",
-    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
     "C-Sharp/Best Practices/Avoid Out Keyword.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "General Programming Concepts/Git Conflict Explanation.md",
     "Networking",
-    "General Programming Concepts/Security/Certificates.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
     "General Programming Concepts/Recursion/Recursion.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
-    "Kubernetes/Public to Private flow of control.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
-    "General Programming Concepts/Mutexes.md",
-    "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Security",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
@@ -275,7 +275,6 @@
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
     "Screenshots/CheckboxIcons.png",
-    "Screenshots/CheckboxTypes.png",
     "Work Projects/Untitled.canvas"
   ]
 }
