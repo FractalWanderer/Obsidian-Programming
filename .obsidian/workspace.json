@@ -61,8 +61,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "5ce316a41380347d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
               }
             }
           },
@@ -220,11 +233,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d2400350f2ba30c9",
+  "active": "5ce316a41380347d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "conflict-files-obsidian-git.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
@@ -248,8 +263,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Pod Template.md",
     "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Value From.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Template Spec.md",
     "General Programming Concepts/Security",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",

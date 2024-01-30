@@ -121,6 +121,9 @@ Door,
 Weakpoint,
 Random ^mJBL8G8B
 
+Randomly chose between: Door, Weakpoint, Closest, and Random. This will generate clumps of zombies at points of interest, with some
+variance. ^KUJU0jBO
+
 %%
 # Drawing
 ```json
@@ -1977,6 +1980,43 @@ Random ^mJBL8G8B
 			"originalText": "TargetEnum:\n\nNone,\nPlayer,\nDoor,\nWeakpoint,\nRandom",
 			"lineHeight": 1.25,
 			"baseline": 168
+		},
+		{
+			"id": "KUJU0jBO",
+			"type": "text",
+			"x": -3179.6853309062058,
+			"y": 742.7078040331309,
+			"width": 1324.598876953125,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1089854994,
+			"version": 164,
+			"versionNonce": 241909454,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706655053728,
+			"link": null,
+			"locked": false,
+			"text": "Randomly chose between: Door, Weakpoint, Closest, and Random. This will generate clumps of zombies at points of interest, with some\nvariance.",
+			"rawText": "Randomly chose between: Door, Weakpoint, Closest, and Random. This will generate clumps of zombies at points of interest, with some\nvariance.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "Randomly chose between: Door, Weakpoint, Closest, and Random. This will generate clumps of zombies at points of interest, with some\nvariance.",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1994,10 +2034,10 @@ Random ^mJBL8G8B
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 636.7660385127082,
-		"scrollY": 896.4113467463977,
+		"scrollX": 3259.864252474832,
+		"scrollY": 342.33623702079046,
 		"zoom": {
-			"value": 0.9500000000000004
+			"value": 0.8000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
