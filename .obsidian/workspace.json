@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3858abd9e1a95b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Programming Concepts/Composition vs Inheritance.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Programming Concepts/Composition vs Inheritance.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Programming Concepts/Composition vs Inheritance.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -222,8 +234,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a604ddb63c6e562a",
+  "active": "3858abd9e1a95b00",
   "lastOpenFiles": [
+    "Untitled.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
     "General Programming Concepts/Security/Certificates.md",
     "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
     "Security/Secure Storage Strategies/Key Stretching.md",
@@ -252,8 +266,6 @@
     "General Programming Concepts/Git Conflict Explanation.md",
     "Networking",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
-    "General Programming Concepts/Recursion/Recursion.md",
-    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "General Programming Concepts/Security",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
