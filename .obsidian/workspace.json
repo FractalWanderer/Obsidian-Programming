@@ -76,10 +76,9 @@
             "id": "b5fb50887f5ed7fb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-                "staged": true
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
               }
             }
           }
@@ -150,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
+              }
             }
           },
           {
@@ -242,12 +245,12 @@
   },
   "active": "b5fb50887f5ed7fb",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Untitled.md",
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
     "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "General Programming Concepts/Phase Spaces and Software Complexity.md",
