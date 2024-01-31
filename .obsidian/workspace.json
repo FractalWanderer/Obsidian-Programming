@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e864cc71485f02e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "dd815345056129eb",
             "type": "leaf",
             "pinned": true,
@@ -36,54 +50,31 @@
             }
           },
           {
-            "id": "c9bb0d051d9673eb",
+            "id": "a604ddb63c6e562a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Programming Concepts/Phase Spaces and Software Complexity.md",
+                "file": "General Programming Concepts/Composition vs Inheritance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d6f6398ab2bc8c6",
+            "id": "3858abd9e1a95b00",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-                "viewState": {
-                  "x": 263.95433789954336,
-                  "y": 649.9474885844749,
-                  "zoom": -1.0855239953183082
-                }
-              }
-            }
-          },
-          {
-            "id": "5ce316a41380347d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b5fb50887f5ed7fb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -243,36 +234,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b5fb50887f5ed7fb",
+  "active": "3858abd9e1a95b00",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "C-Sharp/Testing/Dotnet Unit Testing.md",
+    "C-Sharp/Testing",
+    "Untitled.md",
+    "General Programming Concepts/Composition vs Inheritance.md",
+    "General Programming Concepts/Security/Certificates.md",
+    "Security/Secure Storage Strategies/Secure Storage Strategies Overview.md",
+    "Security/Secure Storage Strategies/Key Stretching.md",
+    "Screenshots/boxing-unboxing example.png",
+    "Rust/Result Type.md",
+    "Rust/Error Handling.md",
+    "Networking/DNS Resolution.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
     "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "Untitled.md",
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
+    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
+    "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "General Programming Concepts/Phase Spaces and Software Complexity.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
+    "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
+    "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
-    "Rust/Result Type.md",
-    "Rust/Error Handling.md",
-    "Linux/Linux Command Line.md",
-    "Kubernetes/ConfigMap.md",
-    "Kubernetes/AKS Command Line Commands.md",
-    "Kubernetes/Yaml File Examples/Deployment Example.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Strategy.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Replicas.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Selector.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Pod Volumes.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Kind.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Metadata.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Deployment Spec.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
+    "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
+    "C-Sharp/Best Practices/Avoid Out Keyword.md",
+    "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+    "General Programming Concepts/Git Conflict Explanation.md",
+    "Networking",
     "General Programming Concepts/Security",
     "General Programming Concepts/Recursion",
     "General Programming Concepts/Data Structures and Algorithms/Search/Pathfinding",
@@ -285,17 +279,14 @@
     "General Programming Concepts/Data Structures and Algorithms/Sorting",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation",
     "General Programming Concepts/Data Structures and Algorithms/Search",
-    "General Programming Concepts/Data Structures and Algorithms/Basics",
     "Pasted Image 20231121123841_331.png",
     "General Programming Concepts/Data Structures and Algorithms/Arrays.canvas",
-    "General Programming Concepts/Data Structures and Algorithms",
     "C-Sharp/Fundamentals/Loops.canvas",
     "Microservice Architecture Diagrams/Microservice Architectures.canvas",
     "Pasted image 20230926190650.png",
     "Backgrounds/ocean-clouds-colorful-sky-scenery-digital-art-4k-wallpaper-uhdpaper.com-695@1@k.jpg",
     "Backgrounds/night-scenery-colorful-sky-mountain-landscape-digital-art-4k-wallpaper-uhdpaper.com-605@1@k.jpg",
     "Screenshots/CheckboxIcons.png",
-    "Screenshots/CheckboxTypes.png",
     "Work Projects/Untitled.canvas"
   ]
 }
