@@ -55,18 +55,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Programming Concepts/Composition vs Inheritance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3858abd9e1a95b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Untitled.md",
                 "mode": "source",
                 "source": false
@@ -74,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,7 +222,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3858abd9e1a95b00",
+  "active": "a604ddb63c6e562a",
   "lastOpenFiles": [
     "General Programming Concepts/Composition vs Inheritance.md",
     "Untitled.md",
