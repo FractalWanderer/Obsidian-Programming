@@ -12,8 +12,12 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Guides/Deploying a Multi-Container Multi-Pod publicly exposed application to an AKS Cluster.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
             }
           },
@@ -49,11 +53,14 @@
             "id": "a604ddb63c6e562a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
-                "mode": "source",
-                "source": false
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+                "viewState": {
+                  "x": 230,
+                  "y": 425,
+                  "zoom": -1.0855239953183082
+                }
               }
             }
           }
@@ -124,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Async Types/Semaphores in .NET.md"
+                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas"
               }
             }
           },
@@ -220,11 +227,12 @@
   },
   "active": "a604ddb63c6e562a",
   "lastOpenFiles": [
-    "C-Sharp/Advanced/Span.md",
-    "C-Sharp/Advanced/Data Caching.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
+    "C-Sharp/Advanced/Span.md",
+    "C-Sharp/Advanced/Data Caching.md",
     "Untitled.md",
     "General Programming Concepts/Composition vs Inheritance.md",
     "C-Sharp/Testing/Dotnet Unit Testing.md",
@@ -246,10 +254,8 @@
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "C-Sharp/Advanced/Testing/Dotnet Unit Testing.md",
     "Networking",
     "General Programming Concepts/Security",
     "General Programming Concepts/Recursion",
