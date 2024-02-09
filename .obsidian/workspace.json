@@ -53,15 +53,8 @@
             "id": "a604ddb63c6e562a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-                "viewState": {
-                  "x": 230,
-                  "y": 425,
-                  "zoom": -1.0855239953183082
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -131,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -227,6 +216,7 @@
   },
   "active": "a604ddb63c6e562a",
   "lastOpenFiles": [
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
@@ -253,7 +243,6 @@
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
     "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
     "Networking",
