@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md"
+                "file": "Kubernetes/Kubernetes kubctl Command Line Commands.md"
               }
             }
           },
@@ -220,10 +220,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a604ddb63c6e562a",
+  "active": "4f3ea21a4852fa0e",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+    "Kubernetes/Kubernetes kubctl Command Line Commands.md",
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
