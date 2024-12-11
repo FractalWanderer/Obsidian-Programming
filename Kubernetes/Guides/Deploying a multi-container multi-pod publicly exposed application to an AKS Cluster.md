@@ -42,7 +42,7 @@ The section will give an overview of the first deployment. In this case we'll be
 >		spec:
 >			containers:
 >				- name: home-base
->				  image: russellcellularcontainerregistry.azurecr.io/home-base
+>				  image: yourcontainerregistry.azurecr.io/home-base
 >				  imagePullPolicy: Always
 >				  ports:
 >					  - containerPort: 81
@@ -95,7 +95,7 @@ Now we'll move onto the next deployment, which in this case is quite similar to 
 >		spec:
 >			containers:
 >				- name: outpost
->				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  image: yourcontainerregistry.azurecr.io/outpost
 >				  imagePullPolicy: Always
 >				  ports:
 >					  - containerPort: 80
@@ -190,7 +190,7 @@ Now we have the full yaml file, and we are ready to apply it to the cluster! Now
 >		spec:
 >			containers:
 >				- name: home-base
->				  image: russellcellularcontainerregistry.azurecr.io/home-base
+>				  image: yourcontainerregistry.azurecr.io/home-base
 >				  imagePullPolicy: Always
 >				  ports:
 >					  - containerPort: 81
@@ -215,7 +215,7 @@ Now we have the full yaml file, and we are ready to apply it to the cluster! Now
 >		spec:
 >			containers:
 >				- name: outpost
->				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  image: yourcontainerregistry.azurecr.io/outpost
 >				  imagePullPolicy: Always
 >				  ports:
 >					  - containerPort: 80

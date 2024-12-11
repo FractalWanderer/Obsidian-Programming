@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack and Heap General Questions"
+              "title": "Kubernetes Declarative Resource Definitions"
             }
           }
         ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stack and Heap General Questions"
+              "title": "Backlinks for Kubernetes Declarative Resource Definitions"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
+                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stack and Heap General Questions"
+              "title": "Outgoing links from Kubernetes Declarative Resource Definitions"
             }
           },
           {
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md"
+                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Stack and Heap General Questions"
+              "title": "Outline of Kubernetes Declarative Resource Definitions"
             }
           },
           {
@@ -260,6 +260,16 @@
   },
   "active": "b4ec486772613799",
   "lastOpenFiles": [
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+    "Kubernetes/Guides/Deploying a multi-container multi-pod publicly exposed application to an AKS Cluster.md",
+    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
+    "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
+    "General Programming Concepts/Recursion/Recursion Drawn Example.md",
+    "General Programming Concepts/Recursion/Recursion.md",
+    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
+    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async Await General Questions.md",
     "Kubernetes/Kubernetes kubctl Command Line Commands.md",
@@ -267,8 +277,6 @@
     "Excalidraw/Drawing 2023-12-27 11.35.09.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 08.30.39.excalidraw.md",
     "Excalidraw/Datalake-Firewall-Explanation.excalidraw.md",
-    "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
-    "C-Sharp/Advanced/Runtime Interworkings/Stack and Heap General Questions.md",
     "C-Sharp/Advanced/Async Types/Semaphores in .NET.md",
     "C-Sharp/Advanced/Span.md",
     "C-Sharp/Advanced/Data Caching.md",
@@ -282,13 +290,6 @@
     "Screenshots/boxing-unboxing example.png",
     "Rust/Result Type.md",
     "Rust/Error Handling.md",
-    "Networking/DNS Resolution.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Containers.md",
-    "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Env.md",
-    "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
-    "Kubernetes/AKS Command Line Commands.md",
-    "C-Sharp/Best Practices/Avoid Multiple Interface Inheritance.md",
     "Networking",
     "General Programming Concepts/Security",
     "General Programming Concepts/Recursion",

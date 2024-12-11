@@ -174,12 +174,12 @@ All that is required to use the secret that we just added in the previous step, 
 >		spec:
 >			containers:
 >				- name: outpost
->				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  image: yourcontainerregistry.azurecr.io/outpost
 >				  imagePullPolicy: Always
 >					  ports:
 >						  - containerPort: 80
 >				- name: home-base
->				  image: russellcellularcontainerregistry.azurecr.io/home-base
+>				  image: yourcontainerregistry.azurecr.io/home-base
 >				  imagePullPolicy: Always
 >				  ports:
 >					  - containerPort: 81
@@ -214,12 +214,12 @@ Now we have our full deployment yaml and we are ready to apply it.
 >		spec:
 >			containers:
 >				- name: outpost
->				  image: russellcellularcontainerregistry.azurecr.io/outpost
+>				  image: yourcontainerregistry.azurecr.io/outpost
 >				  imagePullPolicy: Always
 >					  ports:
 >						  - containerPort: 80
 >				- name: home-base
->				  image: russellcellularcontainerregistry.azurecr.io/home-base
+>				  image: yourcontainerregistry.azurecr.io/home-base
 >				  imagePullPolicy: Always
 >				  ports:
 >					  - containerPort: 81
