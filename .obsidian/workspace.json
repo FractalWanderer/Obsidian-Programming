@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+                "file": "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes Declarative Resource Definitions"
+              "title": "Creating Private Image Registry Secrets"
             }
           }
         ],
@@ -260,11 +260,11 @@
   },
   "active": "b4ec486772613799",
   "lastOpenFiles": [
-    "Kubernetes/Guides/Deploying to a Local Cluster.md",
+    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "Kubernetes/Kubernetes Resources/Kubernetes Declarative Resource Definitions.md",
+    "Kubernetes/Guides/Deploying to a Local Cluster.md",
     "Kubernetes/Guides/Deploying a multi-container multi-pod publicly exposed application to an AKS Cluster.md",
     "Kubernetes/Guides/Creating Private Image Registry Secrets.md",
-    "Kubernetes/Guides/Creating a Local Kind Kubernetes Cluster.md",
     "General Programming Concepts/Programming Problems/Two Crystal Balls Problem.md",
     "General Programming Concepts/Recursion/Recursion Drawn Example.md",
     "General Programming Concepts/Recursion/Recursion.md",
