@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/AKS Command Line Commands.md",
+                "file": "Kubernetes/ConfigMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AKS Command Line Commands"
+              "title": "ConfigMap"
             }
           }
         ],
@@ -260,6 +260,7 @@
   },
   "active": "b4ec486772613799",
   "lastOpenFiles": [
+    "Kubernetes/AKS Command Line Commands.md",
     "Kubernetes/ConfigMap.md",
     "Kubernetes/Kubernetes Yaml File Definitions/API Version.md",
     "Kubernetes/Yaml File Examples/Deployment Example.md",
@@ -285,7 +286,6 @@
     "General Programming Concepts/Mutexes.md",
     "General Programming Concepts/Git Conflict Explanation.md",
     "General Programming Concepts/Composition vs Inheritance.md",
-    "General Programming Concepts/Security/Certificates.md",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Testing",
