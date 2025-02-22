@@ -584,7 +584,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": null,
 			"originalText": "12, 22, 3, 45, 67, 2",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -621,7 +621,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": null,
 			"originalText": "a =",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -663,7 +663,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": null,
 			"originalText": "fn search(array, value) -> bool",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -717,7 +717,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": null,
 			"originalText": "search(a, 3)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "arrow",
@@ -815,7 +815,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": "bcbW8DbF-ZqQ8m8A00_uY",
 			"originalText": "a[0] == 3?\nNo \ni++",
 			"lineHeight": 1.25,
-			"baseline": 94
+			"baseline": 95
 		},
 		{
 			"type": "arrow",
@@ -913,7 +913,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": "xQuhoUP3YMlZIPPaEw4NE",
 			"originalText": "a[2] == 3?\nYes!\nreturn true",
 			"lineHeight": 1.25,
-			"baseline": 94
+			"baseline": 95
 		},
 		{
 			"type": "arrow",
@@ -1063,7 +1063,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": "ZGZzsyDOOXjS5JbafcN_7",
 			"originalText": "a[1] == 3?\nNo\ni++",
 			"lineHeight": 1.25,
-			"baseline": 94
+			"baseline": 95
 		},
 		{
 			"type": "text",
@@ -1100,7 +1100,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": null,
 			"originalText": "Time Complexity: O(N)",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -1171,7 +1171,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": null,
 			"originalText": "Example",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -1208,7 +1208,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": null,
 			"originalText": "Linear Search",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "text",
@@ -1245,7 +1245,7 @@ Difficulty: Very Low ^2JJtJzdL
 			"containerId": null,
 			"originalText": "Difficulty: Very Low",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -1290,6 +1290,43 @@ Difficulty: Very Low ^2JJtJzdL
 					-0.666656494140625
 				]
 			]
+		},
+		{
+			"id": "quQ1tvj1",
+			"type": "text",
+			"x": -603.7206187528724,
+			"y": -323.55949837820856,
+			"width": 310.6998291015625,
+			"height": 175,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 207060361,
+			"version": 211,
+			"versionNonce": 33275175,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1740191987723,
+			"link": null,
+			"locked": false,
+			"text": "for(var i = 0; i < 10000; i++){\nConsole.Log(\"Hello {i}...\");\n\n    for(var j = 0; j < 10; j++){\n        Console.Log(j);\n    }\n}",
+			"rawText": "for(var i = 0; i < 10000; i++){\nConsole.Log(\"Hello {i}...\");\n\n    for(var j = 0; j < 10; j++){\n        Console.Log(j);\n    }\n}",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 168,
+			"containerId": null,
+			"originalText": "for(var i = 0; i < 10000; i++){\nConsole.Log(\"Hello {i}...\");\n\n    for(var j = 0; j < 10; j++){\n        Console.Log(j);\n    }\n}",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1307,10 +1344,10 @@ Difficulty: Very Low ^2JJtJzdL
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 620.1912069881663,
-		"scrollY": 629.6703177059397,
+		"scrollX": 779.7920473243007,
+		"scrollY": 707.9344983782086,
 		"zoom": {
-			"value": 1.7000000000000002
+			"value": 1.4000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

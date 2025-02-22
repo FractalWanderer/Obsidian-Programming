@@ -330,8 +330,8 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 		},
 		{
 			"type": "ellipse",
-			"version": 244,
-			"versionNonce": 707318625,
+			"version": 446,
+			"versionNonce": 2095754601,
 			"isDeleted": false,
 			"id": "sejYtNyWIpsj-Uq4mLQEE",
 			"fillStyle": "hachure",
@@ -340,7 +340,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -82.71074721392466,
+			"x": -78.42503292821038,
 			"y": -563.4374389648438,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#d0bfff",
@@ -353,7 +353,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1700592786067,
+			"updated": 1740192241001,
 			"link": null,
 			"locked": false
 		},
@@ -421,7 +421,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "Goal: Given two crystal balls that will break if dropped from high enough\ndistance, determine the exact spot in which it will break in the most\noptimized way. (i.e.. the lowest floor where it breaks.)",
 			"lineHeight": 1.25,
-			"baseline": 94
+			"baseline": 95
 		},
 		{
 			"type": "text",
@@ -458,7 +458,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "breaks",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -495,7 +495,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "breaks",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -532,7 +532,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "breaks",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -569,7 +569,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "survives",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -606,7 +606,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "survives",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -643,7 +643,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "survives",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -680,7 +680,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "Things to Keep In Mind:\n\n1. We have two crystal balls to\nwork with.\n\n2. The array (building) is ordered\nif you assume that breaks is 0\nand survives is 1.\n",
 			"lineHeight": 1.25,
-			"baseline": 304
+			"baseline": 305
 		},
 		{
 			"type": "text",
@@ -717,7 +717,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "To solve in a generic way, you have\nto:\n\n1. Do the equivalent of a jump in binary\nsearch, except instead of making the\njumps 1/2, make the jumps sqrt(n), until\none of the crystal balls breaks.\n\n2. Once the first ball breaks, walk \nbackwards 1 sqrt(n), and then linearly\nwalk from there until you hit a 1.",
 			"lineHeight": 1.25,
-			"baseline": 374
+			"baseline": 375
 		},
 		{
 			"type": "text",
@@ -754,7 +754,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "To solve in an easier way:\n\nLinearly walk until you hit a 1.\nThe index with a 1 is the most\noptimized drop point.",
 			"lineHeight": 1.25,
-			"baseline": 164
+			"baseline": 165
 		},
 		{
 			"type": "text",
@@ -791,7 +791,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "Time Complexity: O(N)",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -828,7 +828,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "Time Complexity:\n\n",
 			"lineHeight": 1.25,
-			"baseline": 96
+			"baseline": 95
 		},
 		{
 			"type": "text",
@@ -865,7 +865,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "O(C sqrt(n) + sqrt(n)) = O(sqrt(N))",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "ellipse",
@@ -931,7 +931,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "where C is a constant.",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -968,7 +968,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "You are given an input such as: [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1]\nwith a 0 representing a break, and a 1 representing a survives.",
 			"lineHeight": 1.25,
-			"baseline": 59
+			"baseline": 60
 		},
 		{
 			"type": "image",
@@ -1038,44 +1038,7 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 			"containerId": null,
 			"originalText": "Solution In Code",
 			"lineHeight": 1.25,
-			"baseline": 24
-		},
-		{
-			"id": "XIlzVsfp",
-			"type": "text",
-			"x": -329.37085319427126,
-			"y": -191.77137576832502,
-			"width": 109.42396545410156,
-			"height": 35,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1366321039,
-			"version": 9,
-			"versionNonce": 287477313,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1700601346845,
-			"link": null,
-			"locked": false,
-			"text": "N = 100",
-			"rawText": "N = 100",
-			"fontSize": 28,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 24,
-			"containerId": null,
-			"originalText": "N = 100",
-			"lineHeight": 1.25
+			"baseline": 25
 		}
 	],
 	"appState": {
@@ -1093,10 +1056,10 @@ f70073155ae0bf1f32aa7f0fd2b15ea7ca7ce9e2: [[Pasted Image 20231121123841_331.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 541.8708531942713,
-		"scrollY": 1303.6463757683248,
+		"scrollX": 471.3268294079989,
+		"scrollY": 965.4448681999656,
 		"zoom": {
-			"value": 0.6000000000000001
+			"value": 0.7000000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
