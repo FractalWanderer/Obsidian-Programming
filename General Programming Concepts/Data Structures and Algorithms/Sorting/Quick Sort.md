@@ -130,8 +130,8 @@ Something Wrong Past This Point ^THvFEAng
 	"elements": [
 		{
 			"type": "freedraw",
-			"version": 1029,
-			"versionNonce": 716733537,
+			"version": 1030,
+			"versionNonce": 540024368,
 			"isDeleted": false,
 			"id": "jdfZ2ewC6USgUUbcpYLOS",
 			"fillStyle": "hachure",
@@ -151,7 +151,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -350,8 +350,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1177,
-			"versionNonce": 1482995247,
+			"version": 1178,
+			"versionNonce": 1359748304,
 			"isDeleted": false,
 			"id": "0q5jhn_YohRJY48ohlPwK",
 			"fillStyle": "hachure",
@@ -371,7 +371,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -622,8 +622,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 854,
-			"versionNonce": 1443645505,
+			"version": 855,
+			"versionNonce": 720164912,
 			"isDeleted": false,
 			"id": "xdGwAJhE",
 			"fillStyle": "hachure",
@@ -643,7 +643,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -655,12 +655,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "12, 22, 3, 45, 67, 2, 20",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 600,
-			"versionNonce": 367794255,
+			"version": 601,
+			"versionNonce": 1762656976,
 			"isDeleted": false,
 			"id": "k7OB8stT8mFAeoLN4rOnL",
 			"fillStyle": "hachure",
@@ -687,14 +687,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 502,
-			"versionNonce": 549165089,
+			"version": 503,
+			"versionNonce": 1912754736,
 			"isDeleted": false,
 			"id": "Kv4Kvqn4",
 			"fillStyle": "hachure",
@@ -714,7 +714,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -726,12 +726,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "To implement, first choose a pivot point.\n\nFrom there, loop up to, but not including\nthe pivot, and if a value is less than\nthe pivot value, throw it on the left\nside of the array. If it is greater, throw\nit on the right side of the array.",
 			"lineHeight": 1.25,
-			"baseline": 167
+			"baseline": 168
 		},
 		{
 			"type": "rectangle",
-			"version": 743,
-			"versionNonce": 209860207,
+			"version": 744,
+			"versionNonce": 1671899344,
 			"isDeleted": false,
 			"id": "yS7ODjRYALJYuWUC3OtJP",
 			"fillStyle": "hachure",
@@ -753,14 +753,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 242,
-			"versionNonce": 481684481,
+			"version": 243,
+			"versionNonce": 1817742384,
 			"isDeleted": false,
 			"id": "CSMIm1RM",
 			"fillStyle": "hachure",
@@ -780,7 +780,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -792,12 +792,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Example",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "text",
-			"version": 183,
-			"versionNonce": 586125455,
+			"version": 184,
+			"versionNonce": 208244432,
 			"isDeleted": false,
 			"id": "vJfgycxD",
 			"fillStyle": "hachure",
@@ -817,7 +817,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -829,12 +829,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "pivot point: arr.Length",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 170,
-			"versionNonce": 1912259553,
+			"version": 171,
+			"versionNonce": 1943504432,
 			"isDeleted": false,
 			"id": "xgEbqQty",
 			"fillStyle": "hachure",
@@ -854,7 +854,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -866,12 +866,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "pivot value: 20",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "diamond",
-			"version": 664,
-			"versionNonce": 1391240879,
+			"version": 665,
+			"versionNonce": 2079274192,
 			"isDeleted": false,
 			"id": "PfWMjj1-CnZaJ7gdLQX8q",
 			"fillStyle": "hachure",
@@ -898,14 +898,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 594,
-			"versionNonce": 479829953,
+			"version": 595,
+			"versionNonce": 1701265456,
 			"isDeleted": false,
 			"id": "pQE6kQF4Tw0dP83bhbx9R",
 			"fillStyle": "hachure",
@@ -927,7 +927,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -956,8 +956,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "arrow",
-			"version": 652,
-			"versionNonce": 1260517583,
+			"version": 653,
+			"versionNonce": 2010127056,
 			"isDeleted": false,
 			"id": "eGW8RCeMSglqxQkUO9mY1",
 			"fillStyle": "hachure",
@@ -979,7 +979,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1008,8 +1008,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 463,
-			"versionNonce": 1790050209,
+			"version": 464,
+			"versionNonce": 1089452592,
 			"isDeleted": false,
 			"id": "otSWNiXM",
 			"fillStyle": "hachure",
@@ -1038,7 +1038,7 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1050,12 +1050,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Is 12 less than 20?\nYes!\n12 goes to the left of 20.",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "freedraw",
-			"version": 1064,
-			"versionNonce": 1361577711,
+			"version": 1065,
+			"versionNonce": 1386496208,
 			"isDeleted": false,
 			"id": "Tcs-YnYuba2tll2fOvC76",
 			"fillStyle": "hachure",
@@ -1075,7 +1075,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1274,8 +1274,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1212,
-			"versionNonce": 980640641,
+			"version": 1213,
+			"versionNonce": 1230566448,
 			"isDeleted": false,
 			"id": "lmXR9WoZ3QGMpYn81jkyo",
 			"fillStyle": "hachure",
@@ -1295,7 +1295,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076251,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1546,8 +1546,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 890,
-			"versionNonce": 1669812495,
+			"version": 891,
+			"versionNonce": 1275307728,
 			"isDeleted": false,
 			"id": "86xd4Zj1",
 			"fillStyle": "hachure",
@@ -1567,7 +1567,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1579,12 +1579,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "12, 22, 3, 45, 67, 2, 20",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 635,
-			"versionNonce": 2015185761,
+			"version": 636,
+			"versionNonce": 613084720,
 			"isDeleted": false,
 			"id": "Lx8JoU_iXQul9MBeQ4KA7",
 			"fillStyle": "hachure",
@@ -1611,14 +1611,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 738,
-			"versionNonce": 465065775,
+			"version": 739,
+			"versionNonce": 1887849680,
 			"isDeleted": false,
 			"id": "zMGwztq9hYytGIvNCiCYv",
 			"fillStyle": "hachure",
@@ -1645,14 +1645,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 823,
-			"versionNonce": 1543452481,
+			"version": 824,
+			"versionNonce": 2070784048,
 			"isDeleted": false,
 			"id": "MZINqpO0f7CFlhvQPJkjr",
 			"fillStyle": "hachure",
@@ -1674,7 +1674,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1703,8 +1703,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "arrow",
-			"version": 901,
-			"versionNonce": 1344510287,
+			"version": 902,
+			"versionNonce": 2042901200,
 			"isDeleted": false,
 			"id": "fTjwBcinL3f43RqpHlW40",
 			"fillStyle": "hachure",
@@ -1726,7 +1726,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1755,8 +1755,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 522,
-			"versionNonce": 1752737569,
+			"version": 523,
+			"versionNonce": 434709040,
 			"isDeleted": false,
 			"id": "uOxAQ1XW",
 			"fillStyle": "hachure",
@@ -1785,7 +1785,7 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1797,12 +1797,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Is 22 less than 20?\nNo!\n22 goes to the right of 20.",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "text",
-			"version": 257,
-			"versionNonce": 1981912943,
+			"version": 258,
+			"versionNonce": 777345232,
 			"isDeleted": false,
 			"id": "INUGNdLu",
 			"fillStyle": "hachure",
@@ -1822,7 +1822,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1834,12 +1834,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Continue Weak Sorting until you have",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "freedraw",
-			"version": 1185,
-			"versionNonce": 670636801,
+			"version": 1186,
+			"versionNonce": 249912368,
 			"isDeleted": false,
 			"id": "Sdxx3vE6-TLZgUF7LutNf",
 			"fillStyle": "hachure",
@@ -1859,7 +1859,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2058,8 +2058,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1333,
-			"versionNonce": 1140511119,
+			"version": 1334,
+			"versionNonce": 1104264912,
 			"isDeleted": false,
 			"id": "kEgDr80iAx_P-KoO-PSuU",
 			"fillStyle": "hachure",
@@ -2079,7 +2079,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2330,8 +2330,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1042,
-			"versionNonce": 721425121,
+			"version": 1043,
+			"versionNonce": 1279940144,
 			"isDeleted": false,
 			"id": "xDVw9mm4",
 			"fillStyle": "hachure",
@@ -2351,7 +2351,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2363,12 +2363,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "12, 3, 2, 20, 22, 45, 67",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 841,
-			"versionNonce": 317179823,
+			"version": 842,
+			"versionNonce": 886138064,
 			"isDeleted": false,
 			"id": "8AD7W8H6eko98lK_uKCxt",
 			"fillStyle": "hachure",
@@ -2390,14 +2390,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 264,
-			"versionNonce": 1176309441,
+			"version": 265,
+			"versionNonce": 1191186480,
 			"isDeleted": false,
 			"id": "jtJNt7Br",
 			"fillStyle": "hachure",
@@ -2417,7 +2417,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2429,12 +2429,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Repeat for each of these new sections,\nchoosing a new pivot for each.",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
-			"version": 1249,
-			"versionNonce": 17889743,
+			"version": 1250,
+			"versionNonce": 887900880,
 			"isDeleted": false,
 			"id": "k-HXfHNtPjT0zjCaoSc3I",
 			"fillStyle": "hachure",
@@ -2454,7 +2454,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2653,8 +2653,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1397,
-			"versionNonce": 267357857,
+			"version": 1398,
+			"versionNonce": 384731696,
 			"isDeleted": false,
 			"id": "eYG8nYzQkaY6nwSbn0peS",
 			"fillStyle": "hachure",
@@ -2674,7 +2674,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2925,8 +2925,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1106,
-			"versionNonce": 1401874415,
+			"version": 1107,
+			"versionNonce": 2092593360,
 			"isDeleted": false,
 			"id": "0uCka910",
 			"fillStyle": "hachure",
@@ -2946,7 +2946,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2958,12 +2958,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "12, 3, 2, 20, 22, 45, 67",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 951,
-			"versionNonce": 522654337,
+			"version": 952,
+			"versionNonce": 385729584,
 			"isDeleted": false,
 			"id": "vL5ZBQUlFEXFacXo4S0TN",
 			"fillStyle": "hachure",
@@ -2985,14 +2985,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 170,
-			"versionNonce": 409604623,
+			"version": 171,
+			"versionNonce": 869521104,
 			"isDeleted": false,
 			"id": "JVmg7WRKu7stLab3VTNXq",
 			"fillStyle": "hachure",
@@ -3014,7 +3014,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3035,8 +3035,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 205,
-			"versionNonce": 142809697,
+			"version": 206,
+			"versionNonce": 85311024,
 			"isDeleted": false,
 			"id": "rJw3_ObEfthS-81zR4Oi2",
 			"fillStyle": "hachure",
@@ -3058,7 +3058,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3079,8 +3079,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 205,
-			"versionNonce": 144373807,
+			"version": 206,
+			"versionNonce": 1322286288,
 			"isDeleted": false,
 			"id": "cp4rTK1HalP3hYCbl-wPB",
 			"fillStyle": "hachure",
@@ -3102,7 +3102,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3123,8 +3123,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 200,
-			"versionNonce": 483599937,
+			"version": 201,
+			"versionNonce": 572422192,
 			"isDeleted": false,
 			"id": "zNuP3SpFT-zwm1guwsYwC",
 			"fillStyle": "hachure",
@@ -3146,7 +3146,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3167,8 +3167,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 211,
-			"versionNonce": 705305167,
+			"version": 212,
+			"versionNonce": 1867014864,
 			"isDeleted": false,
 			"id": "NO80y74YwOCVayqzulewn",
 			"fillStyle": "hachure",
@@ -3190,7 +3190,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3211,8 +3211,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 268,
-			"versionNonce": 1727444513,
+			"version": 269,
+			"versionNonce": 1375728176,
 			"isDeleted": false,
 			"id": "sRsrrnRs9c-I_D8SweSTF",
 			"fillStyle": "hachure",
@@ -3234,7 +3234,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3255,8 +3255,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 245,
-			"versionNonce": 831518831,
+			"version": 246,
+			"versionNonce": 1137936592,
 			"isDeleted": false,
 			"id": "4zvit_aYdIvCuh5j28iRW",
 			"fillStyle": "hachure",
@@ -3278,7 +3278,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3299,8 +3299,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 241,
-			"versionNonce": 1776110081,
+			"version": 242,
+			"versionNonce": 1000483888,
 			"isDeleted": false,
 			"id": "_5qr1cH-jsIi8A6iiNrwJ",
 			"fillStyle": "hachure",
@@ -3322,7 +3322,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3343,8 +3343,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1217,
-			"versionNonce": 620040847,
+			"version": 1218,
+			"versionNonce": 1745481424,
 			"isDeleted": false,
 			"id": "qdldebamnivrJCeOAtFCQ",
 			"fillStyle": "hachure",
@@ -3364,7 +3364,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3563,8 +3563,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1365,
-			"versionNonce": 512123361,
+			"version": 1366,
+			"versionNonce": 1760372272,
 			"isDeleted": false,
 			"id": "el6j_ub6LaQN3MrKKuHNn",
 			"fillStyle": "hachure",
@@ -3584,7 +3584,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3835,8 +3835,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1074,
-			"versionNonce": 1022486703,
+			"version": 1075,
+			"versionNonce": 1149474000,
 			"isDeleted": false,
 			"id": "bUSkcjVp",
 			"fillStyle": "hachure",
@@ -3856,7 +3856,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3868,12 +3868,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "12, 3, 2, 20, 22, 45, 67",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 867,
-			"versionNonce": 838958529,
+			"version": 868,
+			"versionNonce": 1724440624,
 			"isDeleted": false,
 			"id": "gqLGqMf1mcR3yPnWXzb1U",
 			"fillStyle": "hachure",
@@ -3895,14 +3895,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 124,
-			"versionNonce": 120519375,
+			"version": 125,
+			"versionNonce": 1859680976,
 			"isDeleted": false,
 			"id": "H_tDz7cOR3ydY1WhQ-HgO",
 			"fillStyle": "hachure",
@@ -3924,14 +3924,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 973,
-			"versionNonce": 57548193,
+			"version": 974,
+			"versionNonce": 1696422448,
 			"isDeleted": false,
 			"id": "mK4GWzzl0hWS4rAsFL1n4",
 			"fillStyle": "hachure",
@@ -3953,14 +3953,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 1144,
-			"versionNonce": 1212467439,
+			"version": 1145,
+			"versionNonce": 161521872,
 			"isDeleted": false,
 			"id": "Z9_LLt4PFtV-Uiwb3T4Ff",
 			"fillStyle": "hachure",
@@ -3980,7 +3980,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4179,8 +4179,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1301,
-			"versionNonce": 1643889025,
+			"version": 1302,
+			"versionNonce": 1456641072,
 			"isDeleted": false,
 			"id": "7NPuFOY9Cq13vsQuKyWua",
 			"fillStyle": "hachure",
@@ -4200,7 +4200,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4451,8 +4451,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 979,
-			"versionNonce": 498848527,
+			"version": 980,
+			"versionNonce": 611583696,
 			"isDeleted": false,
 			"id": "iSsyUZ7y",
 			"fillStyle": "hachure",
@@ -4477,7 +4477,7 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4489,12 +4489,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "67, 22, 3, 45, 12, 2, 20",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "rectangle",
-			"version": 1266,
-			"versionNonce": 183101793,
+			"version": 1267,
+			"versionNonce": 298880560,
 			"isDeleted": false,
 			"id": "mQZF9BZZMaDQ2EIx_DHAr",
 			"fillStyle": "hachure",
@@ -4516,14 +4516,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 301,
-			"versionNonce": 1611438383,
+			"version": 302,
+			"versionNonce": 468364496,
 			"isDeleted": false,
 			"id": "XxWNU8aH",
 			"fillStyle": "hachure",
@@ -4543,7 +4543,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4555,12 +4555,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Example",
 			"lineHeight": 1.25,
-			"baseline": 31
+			"baseline": 32
 		},
 		{
 			"type": "text",
-			"version": 233,
-			"versionNonce": 1736971585,
+			"version": 234,
+			"versionNonce": 1862223920,
 			"isDeleted": false,
 			"id": "Y1j7DKfh",
 			"fillStyle": "hachure",
@@ -4580,7 +4580,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4592,12 +4592,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "pivot point: arr.Length",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 1151310671,
+			"version": 226,
+			"versionNonce": 2040304336,
 			"isDeleted": false,
 			"id": "oqIWCHLd",
 			"fillStyle": "hachure",
@@ -4617,7 +4617,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4629,12 +4629,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "pivot value: 20",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "diamond",
-			"version": 808,
-			"versionNonce": 188073249,
+			"version": 809,
+			"versionNonce": 1783022128,
 			"isDeleted": false,
 			"id": "Cmzj4Gkm64Kd8-gs_jZJG",
 			"fillStyle": "hachure",
@@ -4661,14 +4661,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 1449,
-			"versionNonce": 1070422383,
+			"version": 1450,
+			"versionNonce": 1411496144,
 			"isDeleted": false,
 			"id": "Y6q3UGdjUv-ntPLfdShMQ",
 			"fillStyle": "hachure",
@@ -4690,7 +4690,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4719,8 +4719,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "arrow",
-			"version": 1755,
-			"versionNonce": 1902278913,
+			"version": 1806,
+			"versionNonce": 1116666928,
 			"isDeleted": false,
 			"id": "fhqx5eVDZnvejNkRZ0OeW",
 			"fillStyle": "hachure",
@@ -4742,7 +4742,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4771,8 +4771,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "ellipse",
-			"version": 187,
-			"versionNonce": 652104591,
+			"version": 188,
+			"versionNonce": 789716688,
 			"isDeleted": false,
 			"id": "CrjjRl_iDnWH4xm2TWe7J",
 			"fillStyle": "hachure",
@@ -4799,14 +4799,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 860,
-			"versionNonce": 2072883425,
+			"version": 861,
+			"versionNonce": 432010800,
 			"isDeleted": false,
 			"id": "a05P5YBNUkC4yCLox-R8w",
 			"fillStyle": "hachure",
@@ -4833,14 +4833,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 302,
-			"versionNonce": 302713263,
+			"version": 303,
+			"versionNonce": 1527104720,
 			"isDeleted": false,
 			"id": "4nmDTpon",
 			"fillStyle": "hachure",
@@ -4865,7 +4865,7 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4877,12 +4877,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Low pointer looks for\na number greater than\nor equal to the pivot.\nIn this case, we found\nthe value right away.",
 			"lineHeight": 1.25,
-			"baseline": 117
+			"baseline": 118
 		},
 		{
 			"type": "text",
-			"version": 301,
-			"versionNonce": 793177281,
+			"version": 327,
+			"versionNonce": 348237872,
 			"isDeleted": false,
 			"id": "9O31xM4Q",
 			"fillStyle": "hachure",
@@ -4907,7 +4907,7 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4919,12 +4919,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "High pointer looks\nfor a number lower\nthan pivot, starting\nfrom one less than\nthe pivot.",
 			"lineHeight": 1.25,
-			"baseline": 117
+			"baseline": 118
 		},
 		{
 			"type": "line",
-			"version": 156,
-			"versionNonce": 2122054607,
+			"version": 157,
+			"versionNonce": 1435806416,
 			"isDeleted": false,
 			"id": "kUcOOEwYnP68er372kwA8",
 			"fillStyle": "hachure",
@@ -4946,7 +4946,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4967,8 +4967,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1174,
-			"versionNonce": 875408545,
+			"version": 1175,
+			"versionNonce": 2071734832,
 			"isDeleted": false,
 			"id": "E-fZGIU1414rkuuunNwjy",
 			"fillStyle": "hachure",
@@ -4988,7 +4988,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076252,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5187,8 +5187,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1331,
-			"versionNonce": 810133999,
+			"version": 1332,
+			"versionNonce": 693555408,
 			"isDeleted": false,
 			"id": "oAbpMZPkE_wHPykSeWwg8",
 			"fillStyle": "hachure",
@@ -5208,7 +5208,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5459,8 +5459,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1009,
-			"versionNonce": 301035649,
+			"version": 1010,
+			"versionNonce": 1490510896,
 			"isDeleted": false,
 			"id": "gB8fvCmg",
 			"fillStyle": "hachure",
@@ -5480,7 +5480,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5492,12 +5492,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "67, 22, 3, 45, 12, 2, 20",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 840,
-			"versionNonce": 1417450511,
+			"version": 841,
+			"versionNonce": 1306801872,
 			"isDeleted": false,
 			"id": "F7DdRdA_sZ8Uw8UTS8W7_",
 			"fillStyle": "hachure",
@@ -5524,14 +5524,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 217,
-			"versionNonce": 777107553,
+			"version": 218,
+			"versionNonce": 448486960,
 			"isDeleted": false,
 			"id": "jZ2hnnAC1UohknhCd11ut",
 			"fillStyle": "hachure",
@@ -5553,14 +5553,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 892,
-			"versionNonce": 1661811247,
+			"version": 894,
+			"versionNonce": 1217817808,
 			"isDeleted": false,
 			"id": "sYLD1MxKRivtFZjmaT_UR",
 			"fillStyle": "hachure",
@@ -5585,16 +5585,20 @@ Something Wrong Past This Point ^THvFEAng
 				{
 					"id": "Hq3_SqpMkJINGBFgNM9PM",
 					"type": "arrow"
+				},
+				{
+					"id": "4O4iNAbbyETjHVl81IiLh",
+					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862060625,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 186,
-			"versionNonce": 186516545,
+			"version": 187,
+			"versionNonce": 839915568,
 			"isDeleted": false,
 			"id": "GkYL93Eo7StIDU4YqWxpH",
 			"fillStyle": "hachure",
@@ -5616,7 +5620,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5637,8 +5641,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 91,
-			"versionNonce": 1088691279,
+			"version": 92,
+			"versionNonce": 1220592336,
 			"isDeleted": false,
 			"id": "blMDxrOo",
 			"fillStyle": "hachure",
@@ -5658,7 +5662,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5670,12 +5674,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "high pointer: pivot point - 1\n\nlow pointer: 0",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "arrow",
-			"version": 244,
-			"versionNonce": 1144378401,
+			"version": 245,
+			"versionNonce": 851284528,
 			"isDeleted": false,
 			"id": "Hq3_SqpMkJINGBFgNM9PM",
 			"fillStyle": "hachure",
@@ -5697,7 +5701,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5730,8 +5734,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 55,
-			"versionNonce": 567917167,
+			"version": 56,
+			"versionNonce": 255846608,
 			"isDeleted": false,
 			"id": "pIIoFaqvXI3l2lBeZqkOH",
 			"fillStyle": "hachure",
@@ -5753,7 +5757,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5774,8 +5778,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 114,
-			"versionNonce": 1300801537,
+			"version": 115,
+			"versionNonce": 1940638768,
 			"isDeleted": false,
 			"id": "fb6eb4bf",
 			"fillStyle": "hachure",
@@ -5795,7 +5799,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -5807,12 +5811,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Now that we found both\nvalues, swap them.",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
-			"version": 1219,
-			"versionNonce": 716608655,
+			"version": 1220,
+			"versionNonce": 1189760720,
 			"isDeleted": false,
 			"id": "kwfmjs_3-ez0CICN18Zfd",
 			"fillStyle": "hachure",
@@ -5832,7 +5836,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6031,8 +6035,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1376,
-			"versionNonce": 1897267169,
+			"version": 1377,
+			"versionNonce": 784516656,
 			"isDeleted": false,
 			"id": "Xoqn3aKZ-BAhzlQ62FUk9",
 			"fillStyle": "hachure",
@@ -6052,7 +6056,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029453,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6303,8 +6307,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1060,
-			"versionNonce": 1395862191,
+			"version": 1062,
+			"versionNonce": 417167568,
 			"isDeleted": false,
 			"id": "seUmoeE2",
 			"fillStyle": "hachure",
@@ -6323,8 +6327,13 @@ Something Wrong Past This Point ^THvFEAng
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1701871076253,
+			"boundElements": [
+				{
+					"id": "4O4iNAbbyETjHVl81IiLh",
+					"type": "arrow"
+				}
+			],
+			"updated": 1740862060625,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6336,12 +6345,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 22, 3, 45, 12, 67, 20",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 939,
-			"versionNonce": 216882113,
+			"version": 940,
+			"versionNonce": 552239152,
 			"isDeleted": false,
 			"id": "JTQSgfv8WpR0EZJNqTPIZ",
 			"fillStyle": "hachure",
@@ -6368,14 +6377,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 262,
-			"versionNonce": 133692623,
+			"version": 263,
+			"versionNonce": 421583568,
 			"isDeleted": false,
 			"id": "prKspB4kgHsvjL0yQrT-R",
 			"fillStyle": "hachure",
@@ -6397,14 +6406,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 980,
-			"versionNonce": 288242593,
+			"version": 981,
+			"versionNonce": 705362480,
 			"isDeleted": false,
 			"id": "zNcxf88U3h14H-G6LpMcz",
 			"fillStyle": "hachure",
@@ -6431,14 +6440,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 231,
-			"versionNonce": 211651311,
+			"version": 232,
+			"versionNonce": 199033040,
 			"isDeleted": false,
 			"id": "9LrQ-_3m71eYCx2KdJ3tq",
 			"fillStyle": "hachure",
@@ -6460,7 +6469,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6481,8 +6490,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 455,
-			"versionNonce": 1040719745,
+			"version": 456,
+			"versionNonce": 1829516336,
 			"isDeleted": false,
 			"id": "IO2UGa7S",
 			"fillStyle": "hachure",
@@ -6502,7 +6511,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -6514,12 +6523,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Continue to swap values\nin this way until both\npointers are equal.",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "arrow",
-			"version": 444,
-			"versionNonce": 497833231,
+			"version": 445,
+			"versionNonce": 1612998352,
 			"isDeleted": false,
 			"id": "VJBeFi1OIZVA9eryyNt3R",
 			"fillStyle": "hachure",
@@ -6541,7 +6550,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6574,8 +6583,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 109,
-			"versionNonce": 565872481,
+			"version": 110,
+			"versionNonce": 1876307504,
 			"isDeleted": false,
 			"id": "wrQf5qJ8S44TkutwOAlpJ",
 			"fillStyle": "hachure",
@@ -6597,7 +6606,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6618,8 +6627,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1296,
-			"versionNonce": 1386011439,
+			"version": 1297,
+			"versionNonce": 1116671184,
 			"isDeleted": false,
 			"id": "P4a0utDob-pKa0HE1cKdP",
 			"fillStyle": "hachure",
@@ -6639,7 +6648,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6838,8 +6847,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1453,
-			"versionNonce": 1452602177,
+			"version": 1454,
+			"versionNonce": 995158064,
 			"isDeleted": false,
 			"id": "0c-E_ICiGouldRemr9h49",
 			"fillStyle": "hachure",
@@ -6859,7 +6868,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7110,8 +7119,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1145,
-			"versionNonce": 1071095119,
+			"version": 1146,
+			"versionNonce": 213185232,
 			"isDeleted": false,
 			"id": "Cf4M5H6g",
 			"fillStyle": "hachure",
@@ -7131,7 +7140,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7143,12 +7152,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 12, 3, 45, 22, 67, 20",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 1050,
-			"versionNonce": 16180001,
+			"version": 1051,
+			"versionNonce": 2070176304,
 			"isDeleted": false,
 			"id": "4SOTPby3_NVe0Fnbvwj7b",
 			"fillStyle": "hachure",
@@ -7175,14 +7184,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 339,
-			"versionNonce": 1488264047,
+			"version": 340,
+			"versionNonce": 623778000,
 			"isDeleted": false,
 			"id": "6XR0I3deA7Yfd3tb9auJj",
 			"fillStyle": "hachure",
@@ -7204,14 +7213,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1124,
-			"versionNonce": 223336193,
+			"version": 1125,
+			"versionNonce": 519609392,
 			"isDeleted": false,
 			"id": "4MZMAGjPzYuAOXxof7v1r",
 			"fillStyle": "hachure",
@@ -7238,14 +7247,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 308,
-			"versionNonce": 293459343,
+			"version": 309,
+			"versionNonce": 1603436240,
 			"isDeleted": false,
 			"id": "HHD2_s1XksgKOLpJq3mru",
 			"fillStyle": "hachure",
@@ -7267,7 +7276,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7288,8 +7297,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "arrow",
-			"version": 1757,
-			"versionNonce": 773803745,
+			"version": 1758,
+			"versionNonce": 2012583472,
 			"isDeleted": false,
 			"id": "7jLNMU0uvgYTWu0bPLNiX",
 			"fillStyle": "hachure",
@@ -7311,7 +7320,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7340,8 +7349,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 456,
-			"versionNonce": 1097485231,
+			"version": 457,
+			"versionNonce": 1551508688,
 			"isDeleted": false,
 			"id": "cTusbzPn",
 			"fillStyle": "hachure",
@@ -7366,7 +7375,7 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7378,12 +7387,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Here the pointer found\na value lower than the\npivot, so continue",
 			"lineHeight": 1.25,
-			"baseline": 67
+			"baseline": 68
 		},
 		{
 			"type": "arrow",
-			"version": 70,
-			"versionNonce": 435473089,
+			"version": 71,
+			"versionNonce": 1531138096,
 			"isDeleted": false,
 			"id": "gJcWMW9lIrsBYyvI0WzuZ",
 			"fillStyle": "hachure",
@@ -7405,7 +7414,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7430,8 +7439,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 1151532495,
+			"version": 95,
+			"versionNonce": 1769802448,
 			"isDeleted": false,
 			"id": "3AOrrqD1",
 			"fillStyle": "hachure",
@@ -7451,7 +7460,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -7463,12 +7472,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "The high pointer found a bigger\nvalue, so stop here.",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
-			"version": 1331,
-			"versionNonce": 158321313,
+			"version": 1332,
+			"versionNonce": 1086966320,
 			"isDeleted": false,
 			"id": "oBpinu6FXkCtQKGc05Jed",
 			"fillStyle": "hachure",
@@ -7488,7 +7497,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7687,8 +7696,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1488,
-			"versionNonce": 1581280239,
+			"version": 1489,
+			"versionNonce": 1630744784,
 			"isDeleted": false,
 			"id": "hiMggTN5VY1Ys6YfMAhHk",
 			"fillStyle": "hachure",
@@ -7708,7 +7717,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7959,8 +7968,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1180,
-			"versionNonce": 1967115905,
+			"version": 1181,
+			"versionNonce": 1668351024,
 			"isDeleted": false,
 			"id": "QWc8cJnZ",
 			"fillStyle": "hachure",
@@ -7980,7 +7989,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7992,12 +8001,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 12, 3, 45, 22, 67, 20",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 1189,
-			"versionNonce": 1514870287,
+			"version": 1190,
+			"versionNonce": 187995856,
 			"isDeleted": false,
 			"id": "WUn1fxUUtA4faVL5oYfg_",
 			"fillStyle": "hachure",
@@ -8019,14 +8028,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 374,
-			"versionNonce": 337925729,
+			"version": 375,
+			"versionNonce": 1629552176,
 			"isDeleted": false,
 			"id": "83_mcTyJKtlUF8b8f0xO2",
 			"fillStyle": "hachure",
@@ -8048,14 +8057,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1167,
-			"versionNonce": 1874557999,
+			"version": 1168,
+			"versionNonce": 2082028752,
 			"isDeleted": false,
 			"id": "13WTZNGuuefDrw1hHgHzc",
 			"fillStyle": "hachure",
@@ -8082,14 +8091,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 343,
-			"versionNonce": 418177601,
+			"version": 344,
+			"versionNonce": 1522645040,
 			"isDeleted": false,
 			"id": "SVcWK3ZZzGBT1I8Z6uOQf",
 			"fillStyle": "hachure",
@@ -8111,7 +8120,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8132,8 +8141,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "arrow",
-			"version": 98,
-			"versionNonce": 1652170319,
+			"version": 99,
+			"versionNonce": 1970873040,
 			"isDeleted": false,
 			"id": "mj_e0ZgmOXgilM_VLIb3C",
 			"fillStyle": "hachure",
@@ -8155,7 +8164,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8180,8 +8189,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 88,
-			"versionNonce": 813232673,
+			"version": 89,
+			"versionNonce": 339423792,
 			"isDeleted": false,
 			"id": "prE48nS1",
 			"fillStyle": "hachure",
@@ -8201,7 +8210,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -8213,12 +8222,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Both pointers are now equal!",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "freedraw",
-			"version": 1376,
-			"versionNonce": 1700756591,
+			"version": 1377,
+			"versionNonce": 1173113040,
 			"isDeleted": false,
 			"id": "wbxqDH-ReETam2T0-1idq",
 			"fillStyle": "hachure",
@@ -8238,7 +8247,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8437,8 +8446,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1533,
-			"versionNonce": 1069024769,
+			"version": 1534,
+			"versionNonce": 343239728,
 			"isDeleted": false,
 			"id": "j2LkrVjCQZ6NXnuOd-WLC",
 			"fillStyle": "hachure",
@@ -8458,7 +8467,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8709,8 +8718,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1225,
-			"versionNonce": 1010046607,
+			"version": 1226,
+			"versionNonce": 688565968,
 			"isDeleted": false,
 			"id": "gmAjYPrN",
 			"fillStyle": "hachure",
@@ -8730,7 +8739,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8742,12 +8751,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 12, 3, 45, 22, 67, 20",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 1234,
-			"versionNonce": 1638505953,
+			"version": 1235,
+			"versionNonce": 1163421232,
 			"isDeleted": false,
 			"id": "m7OpqaNYOupmk-V31leaK",
 			"fillStyle": "hachure",
@@ -8769,14 +8778,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 420,
-			"versionNonce": 498101423,
+			"version": 421,
+			"versionNonce": 661411024,
 			"isDeleted": false,
 			"id": "bC9gVnYuvSYcljONWUVe3",
 			"fillStyle": "hachure",
@@ -8803,14 +8812,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1214,
-			"versionNonce": 626866625,
+			"version": 1215,
+			"versionNonce": 332144688,
 			"isDeleted": false,
 			"id": "kphXU7qgOK0WkCDjss0bG",
 			"fillStyle": "hachure",
@@ -8837,14 +8846,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 388,
-			"versionNonce": 1434255055,
+			"version": 389,
+			"versionNonce": 1990802128,
 			"isDeleted": false,
 			"id": "YuwYN0b2J-XZIJ-9xGZjr",
 			"fillStyle": "hachure",
@@ -8866,7 +8875,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8887,8 +8896,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "arrow",
-			"version": 409,
-			"versionNonce": 200432033,
+			"version": 410,
+			"versionNonce": 263756336,
 			"isDeleted": false,
 			"id": "cu-Ovl-gpovLoFGkQwo9T",
 			"fillStyle": "hachure",
@@ -8910,7 +8919,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8943,8 +8952,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "line",
-			"version": 130,
-			"versionNonce": 640830703,
+			"version": 131,
+			"versionNonce": 1499029712,
 			"isDeleted": false,
 			"id": "RdKfDztpYlPzUKKeTRj4O",
 			"fillStyle": "hachure",
@@ -8966,7 +8975,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8987,8 +8996,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 270,
-			"versionNonce": 1184398721,
+			"version": 271,
+			"versionNonce": 201708592,
 			"isDeleted": false,
 			"id": "jpLTa37T",
 			"fillStyle": "hachure",
@@ -9008,7 +9017,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871076253,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -9020,12 +9029,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Now swap the value at the\npointer overlap, and the pivot.",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
-			"version": 1470,
-			"versionNonce": 1032774753,
+			"version": 1471,
+			"versionNonce": 2132068048,
 			"isDeleted": false,
 			"id": "NJJDUrS1_iPFj7wEQukxd",
 			"fillStyle": "hachure",
@@ -9045,7 +9054,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9244,8 +9253,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1627,
-			"versionNonce": 299216961,
+			"version": 1628,
+			"versionNonce": 1050398256,
 			"isDeleted": false,
 			"id": "vdXoIyiLYcr-V4vkP6nKE",
 			"fillStyle": "hachure",
@@ -9265,7 +9274,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9516,8 +9525,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1327,
-			"versionNonce": 1863843873,
+			"version": 1328,
+			"versionNonce": 1685286096,
 			"isDeleted": false,
 			"id": "C7U39zMA",
 			"fillStyle": "hachure",
@@ -9537,7 +9546,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -9549,12 +9558,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 12, 3, 20, 22, 67, 45",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 1534,
-			"versionNonce": 860181505,
+			"version": 1535,
+			"versionNonce": 1617070128,
 			"isDeleted": false,
 			"id": "4A9avuksRUfBj5F6kG1dv",
 			"fillStyle": "hachure",
@@ -9576,14 +9585,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1385,
-			"versionNonce": 1381837793,
+			"version": 1386,
+			"versionNonce": 856511184,
 			"isDeleted": false,
 			"id": "TAoKlfi-iNRWBGZqM4cme",
 			"fillStyle": "hachure",
@@ -9605,14 +9614,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 585,
-			"versionNonce": 342820801,
+			"version": 586,
+			"versionNonce": 1296171568,
 			"isDeleted": false,
 			"id": "hEPqD3SVeSNLbey4zxSk-",
 			"fillStyle": "hachure",
@@ -9634,7 +9643,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -9655,8 +9664,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "ellipse",
-			"version": 553,
-			"versionNonce": 328886177,
+			"version": 554,
+			"versionNonce": 561674448,
 			"isDeleted": false,
 			"id": "cMCLYCl2LWvPYLRaHhiSF",
 			"fillStyle": "hachure",
@@ -9683,38 +9692,47 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "L1jXarCli-8ebaskJvoUX",
 			"type": "arrow",
-			"x": 1630.9258021157661,
-			"y": 2105.2781965364193,
-			"width": 2,
-			"height": 80.00012207031227,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 148,
+			"versionNonce": 606223408,
+			"isDeleted": false,
+			"id": "L1jXarCli-8ebaskJvoUX",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1630.9258021157661,
+			"y": 2105.2781965364193,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 2,
+			"height": 80.00012207031227,
+			"seed": 185365889,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 185365889,
-			"version": 147,
-			"versionNonce": 1274539791,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1701871145153,
+			"boundElements": [],
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "cMCLYCl2LWvPYLRaHhiSF",
+				"focus": -0.08904932440003518,
+				"gap": 10.798667412347445
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -9724,58 +9742,49 @@ Something Wrong Past This Point ^THvFEAng
 					-2,
 					-80.00012207031227
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "cMCLYCl2LWvPYLRaHhiSF",
-				"focus": -0.08904932440003518,
-				"gap": 10.798667412347445
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "sYTTY93L",
 			"type": "text",
-			"x": 1537.5924280923289,
-			"y": 2125.278074466107,
-			"width": 208.3798065185547,
-			"height": 50,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
+			"version": 86,
+			"versionNonce": 1397939920,
+			"isDeleted": false,
+			"id": "sYTTY93L",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1537.5924280923289,
+			"y": 2125.278074466107,
+			"strokeColor": "#f08c00",
+			"backgroundColor": "transparent",
+			"width": 208.3798065185547,
+			"height": 50,
+			"seed": 1736349025,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1736349025,
-			"version": 85,
-			"versionNonce": 702586689,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1701871144597,
+			"boundElements": [],
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
-			"text": "Choose the new pivot\nat n-1.",
-			"rawText": "Choose the new pivot\nat n-1.",
 			"fontSize": 20,
 			"fontFamily": 1,
+			"text": "Choose the new pivot\nat n-1.",
+			"rawText": "Choose the new pivot\nat n-1.",
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 42,
 			"containerId": null,
 			"originalText": "Choose the new pivot\nat n-1.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
-			"version": 1499,
-			"versionNonce": 1173163809,
+			"version": 1500,
+			"versionNonce": 1726690864,
 			"isDeleted": false,
 			"id": "ugqV3624zmGU5BSPRdvRF",
 			"fillStyle": "hachure",
@@ -9795,7 +9804,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9994,8 +10003,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1656,
-			"versionNonce": 715162369,
+			"version": 1657,
+			"versionNonce": 959349968,
 			"isDeleted": false,
 			"id": "vlQXFhhF1LSlpxA8VF5yv",
 			"fillStyle": "hachure",
@@ -10015,7 +10024,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10266,8 +10275,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1356,
-			"versionNonce": 880442081,
+			"version": 1357,
+			"versionNonce": 444919856,
 			"isDeleted": false,
 			"id": "x4kKwT30",
 			"fillStyle": "hachure",
@@ -10287,7 +10296,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -10299,12 +10308,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 12, 3, 20, 22, 67, 45",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 1677,
-			"versionNonce": 67794625,
+			"version": 1678,
+			"versionNonce": 1889888976,
 			"isDeleted": false,
 			"id": "CsyVtCR0Nxh-_x1qvi9hn",
 			"fillStyle": "hachure",
@@ -10326,14 +10335,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1490,
-			"versionNonce": 2079323809,
+			"version": 1491,
+			"versionNonce": 1725393456,
 			"isDeleted": false,
 			"id": "VPOpDCa9S_eHDqN1W4xr6",
 			"fillStyle": "hachure",
@@ -10360,14 +10369,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 614,
-			"versionNonce": 1837728353,
+			"version": 615,
+			"versionNonce": 609194192,
 			"isDeleted": false,
 			"id": "cHC29m5R_KnUoLSyDEJf8",
 			"fillStyle": "hachure",
@@ -10389,7 +10398,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -10410,8 +10419,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "ellipse",
-			"version": 582,
-			"versionNonce": 1691127361,
+			"version": 583,
+			"versionNonce": 919249968,
 			"isDeleted": false,
 			"id": "vDBhPxvrQCvm7Fyk1s5Qx",
 			"fillStyle": "hachure",
@@ -10438,14 +10447,14 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 556,
-			"versionNonce": 797226831,
+			"version": 557,
+			"versionNonce": 1808070352,
 			"isDeleted": false,
 			"id": "g-elzmVIyDgJrFi5ldkJQ",
 			"fillStyle": "hachure",
@@ -10467,7 +10476,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871145153,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10496,8 +10505,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 363,
-			"versionNonce": 1084011009,
+			"version": 364,
+			"versionNonce": 1481023024,
 			"isDeleted": false,
 			"id": "LWoPRcVw",
 			"fillStyle": "hachure",
@@ -10522,7 +10531,7 @@ Something Wrong Past This Point ^THvFEAng
 					"type": "arrow"
 				}
 			],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10534,12 +10543,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "Search with left and right pointers again.\nIn this case, they both match right away.",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "freedraw",
-			"version": 1549,
-			"versionNonce": 503768513,
+			"version": 1550,
+			"versionNonce": 731749584,
 			"isDeleted": false,
 			"id": "MzUrGlDb4fWP_wWiNJRnk",
 			"fillStyle": "hachure",
@@ -10559,7 +10568,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10758,8 +10767,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1706,
-			"versionNonce": 445023649,
+			"version": 1707,
+			"versionNonce": 473126960,
 			"isDeleted": false,
 			"id": "meEo2v4B1mc80HDsMDwI-",
 			"fillStyle": "hachure",
@@ -10779,7 +10788,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11030,8 +11039,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1422,
-			"versionNonce": 1237789057,
+			"version": 1423,
+			"versionNonce": 1970373328,
 			"isDeleted": false,
 			"id": "DQN4xTAQ",
 			"fillStyle": "hachure",
@@ -11051,7 +11060,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -11063,12 +11072,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 12, 3, 20, 67, 22, 45",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "line",
-			"version": 723,
-			"versionNonce": 889737569,
+			"version": 724,
+			"versionNonce": 1987629616,
 			"isDeleted": false,
 			"id": "LPOlJ2hh37OwUwpasnIhf",
 			"fillStyle": "hachure",
@@ -11090,7 +11099,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11111,8 +11120,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "ellipse",
-			"version": 823,
-			"versionNonce": 295271745,
+			"version": 824,
+			"versionNonce": 1742252240,
 			"isDeleted": false,
 			"id": "0pvbCnS-loEWdby0AgcU4",
 			"fillStyle": "hachure",
@@ -11134,14 +11143,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1720,
-			"versionNonce": 1054485793,
+			"version": 1721,
+			"versionNonce": 503254064,
 			"isDeleted": false,
 			"id": "KW5CLgNpZWM5KaFmglfyu",
 			"fillStyle": "hachure",
@@ -11163,14 +11172,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1533,
-			"versionNonce": 70902017,
+			"version": 1534,
+			"versionNonce": 241897168,
 			"isDeleted": false,
 			"id": "-M6ztDI4Em8pi2ztIVL9f",
 			"fillStyle": "hachure",
@@ -11192,14 +11201,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 1585,
-			"versionNonce": 255334625,
+			"version": 1586,
+			"versionNonce": 749602352,
 			"isDeleted": false,
 			"id": "-5HKJYZZse51NOj1nEGLw",
 			"fillStyle": "hachure",
@@ -11219,7 +11228,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11418,8 +11427,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1742,
-			"versionNonce": 828658881,
+			"version": 1743,
+			"versionNonce": 1103148240,
 			"isDeleted": false,
 			"id": "kx06UbSFXgcIHOymBfGZ6",
 			"fillStyle": "hachure",
@@ -11439,7 +11448,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -11690,8 +11699,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1468,
-			"versionNonce": 1583223969,
+			"version": 1469,
+			"versionNonce": 1064157232,
 			"isDeleted": false,
 			"id": "ZEJl8xlC",
 			"fillStyle": "hachure",
@@ -11711,7 +11720,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -11723,12 +11732,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 12, 3, 67, 20, 22, 45",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "line",
-			"version": 793,
-			"versionNonce": 1775556737,
+			"version": 794,
+			"versionNonce": 124885712,
 			"isDeleted": false,
 			"id": "QFNTKLRaDZ1sXhranmpmx",
 			"fillStyle": "hachure",
@@ -11750,7 +11759,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -11771,8 +11780,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "ellipse",
-			"version": 883,
-			"versionNonce": 92807265,
+			"version": 884,
+			"versionNonce": 371604016,
 			"isDeleted": false,
 			"id": "sDTkeaYcs08aObxrmwfWz",
 			"fillStyle": "hachure",
@@ -11794,14 +11803,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1789,
-			"versionNonce": 2135387201,
+			"version": 1790,
+			"versionNonce": 1914028240,
 			"isDeleted": false,
 			"id": "h8NOoA-oi3iFtmJaN_PiK",
 			"fillStyle": "hachure",
@@ -11823,14 +11832,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1634,
-			"versionNonce": 1056062497,
+			"version": 1635,
+			"versionNonce": 868185136,
 			"isDeleted": false,
 			"id": "Gx8u1i_Y53IX80AG6fanP",
 			"fillStyle": "hachure",
@@ -11852,14 +11861,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 1617,
-			"versionNonce": 74977281,
+			"version": 1618,
+			"versionNonce": 21309136,
 			"isDeleted": false,
 			"id": "qCscXdYqA9cZsQuYHvEkR",
 			"fillStyle": "hachure",
@@ -11879,7 +11888,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12078,8 +12087,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1774,
-			"versionNonce": 1708681185,
+			"version": 1775,
+			"versionNonce": 2116120112,
 			"isDeleted": false,
 			"id": "eBS6ai98cJpYkGynqzy8d",
 			"fillStyle": "hachure",
@@ -12099,7 +12108,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12350,8 +12359,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1506,
-			"versionNonce": 220382145,
+			"version": 1507,
+			"versionNonce": 26725584,
 			"isDeleted": false,
 			"id": "NB2AVnUj",
 			"fillStyle": "hachure",
@@ -12371,7 +12380,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -12383,12 +12392,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 12, 67, 3, 20, 22, 45",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "line",
-			"version": 851,
-			"versionNonce": 913744801,
+			"version": 852,
+			"versionNonce": 1580476464,
 			"isDeleted": false,
 			"id": "jDix06MEsPQlPygJ2qMFa",
 			"fillStyle": "hachure",
@@ -12410,7 +12419,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -12431,8 +12440,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "ellipse",
-			"version": 959,
-			"versionNonce": 1845725057,
+			"version": 960,
+			"versionNonce": 1822798544,
 			"isDeleted": false,
 			"id": "WFvB4FIzmRVzrKHrhbbfJ",
 			"fillStyle": "hachure",
@@ -12454,14 +12463,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1862,
-			"versionNonce": 235466593,
+			"version": 1863,
+			"versionNonce": 1608491568,
 			"isDeleted": false,
 			"id": "VAEcnqjWjmajFTKD-vr86",
 			"fillStyle": "hachure",
@@ -12483,14 +12492,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1692,
-			"versionNonce": 2094422849,
+			"version": 1693,
+			"versionNonce": 1225185488,
 			"isDeleted": false,
 			"id": "Jp9nGBbhinrDtNYR3SnH-",
 			"fillStyle": "hachure",
@@ -12512,14 +12521,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 1619,
-			"versionNonce": 717966113,
+			"version": 1620,
+			"versionNonce": 1376508976,
 			"isDeleted": false,
 			"id": "rAl7x1NH2zjlxs1bUQpx0",
 			"fillStyle": "hachure",
@@ -12539,7 +12548,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -12738,8 +12747,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1776,
-			"versionNonce": 1347895041,
+			"version": 1777,
+			"versionNonce": 173227728,
 			"isDeleted": false,
 			"id": "FvtfrWeVYNFbDtucvJ-Qs",
 			"fillStyle": "hachure",
@@ -12759,7 +12768,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13010,8 +13019,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1516,
-			"versionNonce": 1811527393,
+			"version": 1517,
+			"versionNonce": 1721816624,
 			"isDeleted": false,
 			"id": "OGWhF3kn",
 			"fillStyle": "hachure",
@@ -13031,7 +13040,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -13043,12 +13052,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "2, 67, 12, 3, 20, 22, 45",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "line",
-			"version": 895,
-			"versionNonce": 4338369,
+			"version": 896,
+			"versionNonce": 1898112208,
 			"isDeleted": false,
 			"id": "J_24_D2sSHgFa37VHAovR",
 			"fillStyle": "hachure",
@@ -13070,7 +13079,7 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -13091,8 +13100,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "ellipse",
-			"version": 995,
-			"versionNonce": 298857121,
+			"version": 996,
+			"versionNonce": 1384550448,
 			"isDeleted": false,
 			"id": "CHqmqqtah2ybEbGkYS2Aw",
 			"fillStyle": "hachure",
@@ -13114,14 +13123,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1880,
-			"versionNonce": 1699952257,
+			"version": 1881,
+			"versionNonce": 1796066000,
 			"isDeleted": false,
 			"id": "1CR6a2JYGGD2XqCeOPVkB",
 			"fillStyle": "hachure",
@@ -13143,14 +13152,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1719,
-			"versionNonce": 2106244705,
+			"version": 1720,
+			"versionNonce": 1839532592,
 			"isDeleted": false,
 			"id": "-35fzKs_rrotHvGngSj0l",
 			"fillStyle": "hachure",
@@ -13172,14 +13181,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "freedraw",
-			"version": 1662,
-			"versionNonce": 1497778753,
+			"version": 1663,
+			"versionNonce": 1923870928,
 			"isDeleted": false,
 			"id": "HRTxqO0HV3MyOCevHAn4Z",
 			"fillStyle": "hachure",
@@ -13199,7 +13208,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13398,8 +13407,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "freedraw",
-			"version": 1819,
-			"versionNonce": 1902467617,
+			"version": 1820,
+			"versionNonce": 1390691376,
 			"isDeleted": false,
 			"id": "ztln6k-CtQb_kpxrxaMQo",
 			"fillStyle": "hachure",
@@ -13419,7 +13428,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -13670,8 +13679,8 @@ Something Wrong Past This Point ^THvFEAng
 		},
 		{
 			"type": "text",
-			"version": 1565,
-			"versionNonce": 1993829889,
+			"version": 1566,
+			"versionNonce": 1872058064,
 			"isDeleted": false,
 			"id": "xHjgyStC",
 			"fillStyle": "hachure",
@@ -13691,7 +13700,7 @@ Something Wrong Past This Point ^THvFEAng
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -13703,12 +13712,12 @@ Something Wrong Past This Point ^THvFEAng
 			"containerId": null,
 			"originalText": "67, 2, 12, 3, 20, 22, 45",
 			"lineHeight": 1.25,
-			"baseline": 24
+			"baseline": 25
 		},
 		{
 			"type": "diamond",
-			"version": 1967,
-			"versionNonce": 1352402401,
+			"version": 1968,
+			"versionNonce": 2899504,
 			"isDeleted": false,
 			"id": "sPKPAnAlJlqzc5azz3iCK",
 			"fillStyle": "hachure",
@@ -13730,14 +13739,14 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "diamond",
-			"version": 1787,
-			"versionNonce": 1505927617,
+			"version": 1788,
+			"versionNonce": 375520464,
 			"isDeleted": false,
 			"id": "7_VTAJfZwwp0wEs1pRcyY",
 			"fillStyle": "hachure",
@@ -13759,17 +13768,54 @@ Something Wrong Past This Point ^THvFEAng
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1701871144597,
+			"updated": 1740862029454,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "THvFEAng",
 			"type": "text",
+			"version": 150,
+			"versionNonce": 1986328624,
+			"isDeleted": false,
+			"id": "THvFEAng",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
 			"x": 1355.5925501626416,
 			"y": 1862.2780744661072,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 324.959716796875,
 			"height": 25,
+			"seed": 1139409537,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1740862029454,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Something Wrong Past This Point",
+			"rawText": "Something Wrong Past This Point",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Something Wrong Past This Point",
+			"lineHeight": 1.25,
+			"baseline": 18
+		},
+		{
+			"id": "4O4iNAbbyETjHVl81IiLh",
+			"type": "arrow",
+			"x": 1602.8353109248997,
+			"y": 435.37832582303207,
+			"width": 244.2105263157896,
+			"height": 238.94736842105254,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -13780,135 +13826,40 @@ Something Wrong Past This Point ^THvFEAng
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
-			"seed": 1139409537,
-			"version": 149,
-			"versionNonce": 1600831905,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1701871144597,
-			"link": null,
-			"locked": false,
-			"text": "Something Wrong Past This Point",
-			"rawText": "Something Wrong Past This Point",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "Something Wrong Past This Point",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "line",
-			"version": 904,
-			"versionNonce": 2044460737,
-			"isDeleted": true,
-			"id": "-ic9vf4bFbtM8DAxRWQVa",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1406.8531411392253,
-			"y": 3290.276726551367,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 0.5945704058324282,
-			"height": 89.78562950540547,
-			"seed": 111860897,
-			"groupIds": [],
-			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": [],
-			"updated": 1701871089136,
+			"seed": 1679255600,
+			"version": 81,
+			"versionNonce": 449860304,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1740862060625,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					-0.5945704058324282,
-					89.78562950540547
+					-244.2105263157896,
+					238.94736842105254
 				]
-			]
-		},
-		{
-			"type": "ellipse",
-			"version": 1005,
-			"versionNonce": 1940316559,
-			"isDeleted": true,
-			"id": "XNpF6zDMOgo49c_TzH9-i",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1404.6192593834305,
-			"y": 3311.7735919150405,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 53.51460279702269,
-			"height": 54.703798046555676,
-			"seed": 2101911681,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "sYLD1MxKRivtFZjmaT_UR",
+				"focus": -0.18783990291635266,
+				"gap": 2.2429421220697385
 			},
-			"boundElements": [],
-			"updated": 1701871088434,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "ElhETpOu",
-			"type": "text",
-			"x": 1375.4128548462313,
-			"y": 3334.6158875609913,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#f08c00",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 505554881,
-			"version": 5,
-			"versionNonce": 369831457,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1701871076254,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 17,
-			"containerId": "7_VTAJfZwwp0wEs1pRcyY",
-			"originalText": "",
-			"lineHeight": 1.25
+			"endBinding": {
+				"elementId": "seUmoeE2",
+				"focus": -0.9672890247726121,
+				"gap": 10.158175333100758
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -13926,10 +13877,10 @@ Something Wrong Past This Point ^THvFEAng
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -826.0924280923291,
-		"scrollY": -2190.81970044267,
+		"scrollX": -481.25636355647896,
+		"scrollY": 48.96377944012561,
 		"zoom": {
-			"value": 1.0000000000000004
+			"value": 0.9500000000000004
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
