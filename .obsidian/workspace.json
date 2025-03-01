@@ -93,9 +93,21 @@
               "icon": "lucide-file",
               "title": "Big O Time Complexity"
             }
+          },
+          {
+            "id": "6d1c3d4864a7ca23",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -275,7 +288,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "59f3b63eb94a7cd4",
+  "active": "6d1c3d4864a7ca23",
   "lastOpenFiles": [
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
