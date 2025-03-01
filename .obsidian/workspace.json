@@ -93,21 +93,9 @@
               "icon": "lucide-file",
               "title": "Big O Time Complexity"
             }
-          },
-          {
-            "id": "6d1c3d4864a7ca23",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,8 +277,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6d1c3d4864a7ca23",
+  "active": "dd815345056129eb",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-19 09.24.22.excalidraw.md",
+    "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
     "C-Sharp/Advanced/Runtime Interworkings/Yeild and Await Flow of Control.canvas",
     "C-Sharp/Advanced/Runtime Interworkings/Async State Machine.canvas",
     "Kubernetes/Kubernetes Yaml File Definitions/Image Pull Secrets.md",
@@ -316,7 +307,6 @@
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array List.md",
     "General Programming Concepts/Data Structures and Algorithms/Data Structures/Array Buffer.md",
     "General Programming Concepts/Data Structures and Algorithms/Bit Manipulation/Bitwise Division.md",
-    "General Programming Concepts/Data Structures and Algorithms/Basics/Big O Time Complexity.md",
     "C-Sharp/Testing",
     "Screenshots/boxing-unboxing example.png",
     "Networking",
